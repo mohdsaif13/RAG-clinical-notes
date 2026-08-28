@@ -1,0 +1,40 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Agitation
+
+=== PATIENT HISTORY ===
+Ms. ___ is a ___ year old with hypertension, who presents from ___ long term living facility with aggressive behavior. 
+
+Patient is unable to provide a history due to dementia. Some history is obtained from her daughter ___, who is at bedside, but she also has limited knowledge of the event. Per ___ and review of records from ___, the patient attacked another patient at the facility "throwing them against a wall." She also tried to choke an aid. This is very much out of character for her, as she is normally quite pleasant. She is currently being treated for a UTI with nitrofurantoin, and according to ___ was near the end of her course. Otherwise, ___ does not know of any other recent medication changes or complaints from the patient. Given this behavior, patient was brought to the ED, though of note received all of her care normally at ___.
+
+=== FAMILY HISTORY ===
+Reviewed and found to be not relevant to this illness/reason for hospitalization.
+
+=== PHYSICAL EXAM ===
+VITALS: T 98.0, HR 84, BP 138/89, RR 18, 96% RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs
+SKIN: Some small scabbed over scars on right arm. Thickened toenails on first toes 
+NEURO: Alert, confused - at time forgetting the name of her daughter who is at bedside, oriented to self only, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+=== LABS AND IMAGING ===
+___ 03:45PM BLOOD WBC-8.6 RBC-4.37 Hgb-14.1 Hct-43.1 
+MCV-99* MCH-32.3* MCHC-32.7 RDW-11.7 RDWSD-42.4 Plt ___
+___ 03:45PM BLOOD Glucose-95 UreaN-12 Creat-0.7 Na-141 
+K-4.3 Cl-106 HCO3-22 AnGap-13
+___ 03:45PM BLOOD ALT-12 AST-18 AlkPhos-82 TotBili-0.6
+___ 03:45PM BLOOD Lipase-62*
+___ 03:45PM BLOOD cTropnT-<0.01
+___ 05:30AM BLOOD Calcium-8.8 Phos-4.9* Mg-2.4
+___ 05:30AM BLOOD VitB12-742
+___ 05:30AM BLOOD TSH-3.8
+
+MRI: 
+Atrophy of the hippocampus region.

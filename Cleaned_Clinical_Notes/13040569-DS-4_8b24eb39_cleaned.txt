@@ -1,0 +1,32 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+chest pain
+
+=== PATIENT HISTORY ===
+He is a 67 year old man with no significant past medical history. He began to experience chest pain while exertion approximately two weeks ago. The pain became persistent with radiation to his back. He was evaluated at an outside hospital and discharged after observation. Since that time, he noted dyspnea and increased pain with exertion. He decreased his activity and followed up with his PCP who scheduled an 
+outpatient echocardiogram. The results were suspicious for dissection and he underwent a CTA of the chest which demonstrated an ascending aortic dissection and descending thoracic dissection to the mid thorax. He was transferredfor further care.
+
+=== FAMILY HISTORY ===
+Non contributory
+
+=== PHYSICAL EXAM ===
+HR: 78-101.  BP: 111/88.  RR: 17.  O2 sat: 98%.
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: Irregularly irregular, distant heart sounds, no murmur 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + []
+Extremities: Warm [x], well-perfused [x]  Edema - none
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+  palpable  Left:2+  palpable 
+DP           Right: 2+  palpable  Left:2+  palpable 
+Radial       Right: 2+  palpable  Left:2+  palpable 
+
+Carotid Bruit: None
+Discharge Vital exam:
+Temp 98 HR 85 SBP 117/79 resp 16 sats 98% RA
+wgt: 167.7kg

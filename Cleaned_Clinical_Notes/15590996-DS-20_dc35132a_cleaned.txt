@@ -1,0 +1,46 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+N/A
+
+=== PATIENT HISTORY ===
+___ is a ___ without significant PMHx who presents for rule-out TB.  She was sent in from ___ after a PPD came back positive; the patient is starting work at ___ in a neuroscience lab. She also reportedly had a quantiferon gold with came back positive as well. She denies any fevers/chills, no chest pain or SOB, no weight loss or night sweats. Her only medical complaint is an ulceration of her R tonsil which she has had intermittently in the past growing up. She recently spent 10 weeks this past summer in ___ for research.  
+
+CXR showed a rounded left hilar density which may reflect partially calcified lymphadenopathy in the setting of prior granulomatous disease exposure. ___ induced sputum samples were sent. She was admitted for containment while ruling out TB.  On the floor, initial VS 98.1, 121/70, 78, 18, 100% on RA. Her only complaint is pain associated with her R tonsillar pits.
+
+=== PAST MEDICAL HISTORY ===
+Depression
+
+=== FAMILY HISTORY ===
+Paternal grandparents with T1 and T2DM. Maternal grandmother with sarcoidosis and HTN.
+
+=== PHYSICAL EXAM ===
+Vital Signs: 98.1, 121/70, 78, 18, 100% on RA  
+ General: Alert, oriented, pleasant slim young female in no 
+acute distress  
+ HEENT: Sclera anicteric, MMM, 5mm ulceration of R tonsil, EOMI, 
+PERRL, neck supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  
+ Neuro: AOx3, moving all extremities spontaneously, normal gait.
+
+=== LABS AND IMAGING ===
+___ 04:30PM BLOOD WBC-6.5 RBC-4.14 Hgb-12.4 Hct-36.5 MCV-88 
+MCH-30.0 MCHC-34.0 RDW-12.7 RDWSD-40.5 Plt ___
+___ 04:30PM BLOOD Neuts-53.6 ___ Monos-8.0 Eos-0.6* 
+Baso-0.5 Im ___ AbsNeut-3.49 AbsLymp-2.41 AbsMono-0.52 
+AbsEos-0.04 AbsBaso-0.03
+___ 04:30PM BLOOD Plt ___
+___ 04:30PM BLOOD Glucose-115* UreaN-8 Creat-0.5 Na-140 
+K-3.5 Cl-105 HCO3-24 AnGap-15
+___ 08:06AM BLOOD Calcium-9.1 Phos-3.9 Mg-1.7
+
+
+IMAGING
+===========================================
+___ CXR
+Rounded left hilar density which may reflect partially calcified lymphadenopathy in the setting of prior granulomatous disease exposure  
+
+___ CT CHEST
+FINAL READ PENDING

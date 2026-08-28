@@ -1,0 +1,41 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+abdominal pain, nausea, trace hematemesis
+
+=== PATIENT HISTORY ===
+Pt was doing well until ~ 2 months ago, when he developed daily episodes of morning vomiting and burning abdominal pain, as well as heartburn. He was seen in the ED and diagnosed with likely gastritis. He reportedly had good relief with Maalox and was prescribed omeprazole on discharge. His prescription ran out last week, and he has not taken any omeprazole since. He has now had recurrence of his burning diffuse abdominal pain, nausea, vomiting, and heartburn, and now with three days of melena. He does endorse a small amount of blood in his emesis yesterday, and his abdominal pain peaked yesterday at in severity. His pain has limited his ability to eat, and he endorses early satiety, although he has had a good appetite. He denies any recent aspirin or NSAID use, or significant EtOH intake. He was seen in the ED, where he was tachycardic (140s) but otherwise stable. His tachycardia improved with IV fluids to the . He refused NG lavage or rectal exam. Given concern for upper GI bleeding, he was started on IV PPI bolus + gtt and admitted for EGD today. He states that since starting the PPI in the ED, he has had resolution of his symptoms of heartburn, abdominal pain, and nausea/vomiting. He feels hungry this morning.
+
+=== PAST MEDICAL HISTORY ===
++pre-hypertension  
++gastritis
+
+=== FAMILY HISTORY ===
+No known GI or liver disease. (+) afib, OA, HTN, HLD, DM.
+
+=== PHYSICAL EXAM ===
+Afebrile, VSS  
+General: WA obese young man in NAD, comfortable, mildly anxious  
+HEENT: anicteric sclerae, MMM, OP clear  
+Neck: supple, no LAD or thyromegaly  
+Lungs: CTA bilat, no r/rh/wh  
+Heart: RRR, nl S1-S2, no MRG  
+Abdomen: +BS, soft/NT/ND, no HSM  
+Extrem: WWP, no c/c/e  
+Skin: several tattoos
+
+=== LABS AND IMAGING ===
+07:45PM BLOOD WBC-14.5* RBC-5.14 Hgb-15.3 Hct-43.3 
+MCV-84 MCH-29.8 MCHC-35.3* RDW-14.0 Plt
+01:15AM BLOOD Hct-37.8*
+07:00AM BLOOD WBC-12.0* RBC-4.69 Hgb-13.8* Hct-39.1* 
+MCV-84 MCH-29.4 MCHC-35.2* RDW-14.1 Plt
+12:40PM BLOOD Hct-38.2*
+07:45PM BLOOD Neuts-70.9*Monos-4.7 Eos-1.0 Baso-0.8
+07:45PM BLOOD PTT-25.5
+07:45PM BLOOD Glucose-104* UreaN-10 Creat-1.0 Na-141 K-4.4 Cl-105 HCO3-23 AnGap-17
+07:00AM BLOOD Glucose-97 UreaN-8 Creat-0.8 Na-138 K-3.8 
+Cl-105 HCO3-26 AnGap-11
+07:45PM BLOOD ALT-33 AST-29 AlkPhos-44 TotBili-0.3
+07:45PM BLOOD Lipase-18
+07:00AM BLOOD Calcium-9.2 Phos-3.8 Mg-2.1
+07:00AM BLOOD %HbA1c-5.8 eAG-120
+Endoscopy:Gastric ulcer with bleeding

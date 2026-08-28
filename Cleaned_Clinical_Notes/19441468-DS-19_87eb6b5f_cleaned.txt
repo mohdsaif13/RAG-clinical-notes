@@ -1,0 +1,66 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+right sided weakness
+
+=== PATIENT HISTORY ===
+EU Critical ___ aka ___ DOB ___ is a ___ man  who was feeling unwell this morning. He went to take a shower, and just after taking his shower he was found to have right sided arm and leg weakness. He was still able to speak at the time. Wife called EMS, and pt was brought to ___. On arrival, BP 200/120 with right sided facial droop and right sided weakness. Blood sugar normal at 102. NCHCT  showed a left BG IPH (4.6x3.0x4.7cm) and 6mm rightward shift. He was intubated for airway protection and transferred to ___ for higher level of care. Also received keppra for seizure prophylaxis.
+
+=== PAST MEDICAL HISTORY ===
+Hypertension
+endocarditis ___ years ago
+
+=== FAMILY HISTORY ===
+no history of stroke
+
+=== PHYSICAL EXAM ===
+___: intubated, sedated
+HEENT: NT, NC, No scleral icterus noted, ETT and OGT in place  
+Neck: supple, No JVD noted  
+CV: RRR, normal S1, S2, no M/R/G noted  
+Lungs: diminished at bases  
+Abdomen: soft, NT, ND, BS+, no masses or organomegaly noted.  
+GU: foley in place, deferred  
+Ext: No cyanosis, clubbing or edema bilaterally  
+Skin: no rashes or lesions noted. 
+
+Neuro: (off propofol)
+MS- Minimal EO to voice (with assistance of family), does not follow commands.
+CN- Pupils equal and reactive 3-2mm, + corneals bilat, + gag, + cough, unable to adequately assess EOM, no clear facial droop, although ETT obscuring. Tongue appears midline. 
+Motor-  
+LUE: moves purposefully, strongly antigravity
+RUE: brief extension to noxious stimuli 
+LLE: moves antigravity spontaneously
+RLE: Triple flexion
+Plantar response is upgoing on the right, and down on the left
+
+- Reflexes: 
+    [Bic] [Tri] [___] [Quad] [Gastroc]
+  L  2+    2+     2+      2+       1
+  R  3+    3+     3+      3+       2  
+Plantar response upgoing on right, down on left
+- Coordination: unable to assess
+- Gait: unable to assess
+
+=== LABS AND IMAGING ===
+___ 04:25AM BLOOD WBC-6.8 RBC-3.40* Hgb-10.7* Hct-32.5* MCV-96 MCH-31.5 MCHC-32.9 RDW-12.9 RDWSD-45.1 Plt ___
+___ 12:00AM BLOOD WBC-8.0 RBC-3.36* Hgb-10.5* Hct-32.4* MCV-96 MCH-31.3 MCHC-32.4 RDW-13.1 RDWSD-45.7 Plt ___
+___ 04:25AM BLOOD Plt ___
+___ 04:25AM BLOOD ___ PTT-43.8* ___
+___ 01:38PM BLOOD ___ 10:48AM BLOOD Na-150*
+
+IMAGING:
+========
+___ CTA head/neck at 15:23:
+CT head There is a 5.4 x 3.7 cm intraparenchymal hemorrhage in the left MCA territory with associated rightward mass effect of 8.3 mm.
+
+___nd head
+There is no occlusion of any major intracranial and cervical vasculature Minimal irregularity of the bilateral MCA likely due to minimal atherosclerotic disease. There is no evidence of intracranial aneurysm greater than 3 mm.
+
+___ NCHCT
+The ___ impression point should read no significant interval change in the left parenchymal hemorrhage with surrounding edema. Unchanged rightward midline shift. Persistent moderate effacement of the left lateral ventricle and 8 mm rightward midline shift. 
+
+___ MRI Brain:
+1. Left basal ganglia intraparenchymal hematoma is stable in size compared to 1 day ago.  While no definite underlying mass is identified, mass is not excluded on the basis of this examination.  Recommend follow-up imaging to resolution. 
+2. Several scattered foci of slow diffusion in the left frontal and temporal regions surrounding the hematoma are concerning for acute to subacute infarcts. 
+3. Probable edema extension into left cerebral peduncle. 
+4. Low lying cerebellar tonsils are similar to before. 
+5. Paranasal sinus disease and nonspecific bilateral mastoid fluid, as described.

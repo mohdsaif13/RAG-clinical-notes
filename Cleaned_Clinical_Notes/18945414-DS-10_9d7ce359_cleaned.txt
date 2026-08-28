@@ -1,0 +1,54 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+hematemesis
+
+=== PATIENT HISTORY ===
+She is a patient with PMH of migraines and NSAID induced gastritis presenting with epigastric pain for about one week that is exacerbated with food, most recently with several episodes of hematemesis. This pain is very similar to other episodes of gastritis that she has had in the past. This is the third iteration of abdominal pain, nausea, hematemesis that has required endoscopy. She had previously been taking zofran to manage her vomiting, but ran out of the medication. For the last three days when she vomits, there is blood in the emesis, ranging from streaks to about a few teaspoons. Currently takes protonix and OTC antacids. Today, vomiting x3 with slightly more blood per patient. She has also had a few dark stools. She was seen 6 months ago and was hospitalized. She has been seen a few times by GI here and was supposed to have an EGD in early, but rescheduled related to insurance change with a job switch. 
+
+On review of records, gastrin levels have been normal on the past. She was also H. Pylori negative. Normal musoca in the duodenal bulb. Otherwise normal EGD to third part of the duodenum.
+
+=== PAST MEDICAL HISTORY ===
+-Migraines
+-IBS
+-asthma
+
+=== FAMILY HISTORY ===
+Mom has MS, otherwise no fmaily history of GI issues or otherwise
+
+=== PHYSICAL EXAM ===
+Vitals: 98.5, 139/82, 65, 18, 100RA  
+General: Alert, oriented, appears uncomfortable  
+HEENT: Sclera anicteric, dry mucus membranes, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  
+Abdomen: soft, obese, non-distended, moderate pain with mild palpation to epigastric area, bowel sounds present, no rebound tenderness, voluntary guarding over epigastric area, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis, trace generalized edema 
+Skin:  warm, dry, intact
+Neuro:  moves all extremities, ___ strength in bilateral upper and lower extremities
+
+=== LABS AND IMAGING ===
+Imaging
+___ RUQ U/S - IMPRESSION: Cholelithiasis with mildly distended gallbladder as well as prominent CBD (9mm).  No definite signs of acute cholecystitis but if there is continued clinical concern, HIDA scan will be helpful for further evaluation.  
+
+___ EGD - Atrophic mucosa typically has a pale appearance. with increased visibility of submucosal blood vessels due to thinning      of the gastric mucosa and loss of gastric folds.rough mucosa, bleeding spots in the antrum (biopsy). Otherwise normal EGD to third part of the duodenum
+
+___ MRCP - 1. Cholelithiasis, without evidence for cholecystitis or biliary obstruction. Normal appearance of the bile ducts without obstructing intraductal stones or masses. 
+2. Two hepatic lesions in segment IVb and V with intravoxel fat, demonstrating arterial hyperenhancement, equivocal washout, may represent adenomas or less likely atypical FNH. Recommended followup MRI with BOPTA for better characterization of these lesions. 
+3. Incidental note is made of pancreas divisum. 
+
+___ Pathology 
+Gastric mucosal biopsies, two:
+1. Body (1A): Corpus mucosa with no diagnostic abnormalities recognized.
+2. Antrum (2A): Chemical-type gastropathy.
+
+ADMISSION LABS:
+___ 10:25AM BLOOD WBC-6.5 RBC-4.99 Hgb-11.8* Hct-38.0 MCV-76* MCH-23.7* MCHC-31.1 RDW-16.4* Plt ___
+___ 10:25AM BLOOD Neuts-66.4 ___ Monos-4.6 Eos-1.7 Baso-0.4
+___ 10:25AM BLOOD ___ PTT-33.3 ___
+___ 10:25AM BLOOD Glucose-106* UreaN-16 Creat-0.9 Na-141 K-3.5 Cl-106 HCO3-25 AnGap-14
+___ 10:25AM BLOOD ALT-15 AST-16 AlkPhos-43 TotBili-0.3
+___ 10:25AM BLOOD Lipase-50
+___ 10:25AM BLOOD Albumin-4.5 Calcium-9.5 Phos-4.0 Mg-2.2
+___ 10:40AM BLOOD Lactate-1.2
+___ 06:10AM BLOOD GASTRIN-PND

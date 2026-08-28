@@ -1,0 +1,30 @@
+=== PATIENT HISTORY ===
+This is a 61 year old male who has had increased AFIB burden with symptoms and was admitted for Dofetilide loading.  He had a patent ductus arteriosus detected on echo that has been followed by serial echo.  He also has a history of syncopal episode while hiking which was consistent with a vagal mechanism.
+
+=== PAST MEDICAL HISTORY ===
++History of external condylomata
++Exercise induced asthma
++Sinusitis
++Syncopal episode while hiking consistent with a vagal mechanism.
+
+=== FAMILY HISTORY ===
+No smoking, social etoh, no illicits.
+
+=== PHYSICAL EXAM ===
+Tele:  100-120's at rest, 140-150's with movement
+VS: 97.7, BP 106/79, P 92, RR 18, 97%RA
+Gen: sitting on side of bed with vistor eating take out. 
+Neuro: alert and oriented, pleasant
+Neck/JVP: none appreciated
+CV: irregular rate/rhythm
+Chest: clear bilaterally
+ABD: +bs, soft nontender
+Extr: no edema
+Skin: no open areas
+
+=== LABS AND IMAGING ===
+___ 07:42PM BLOOD WBC-7.8 RBC-4.98 Hgb-14.7 Hct-42.3 MCV-85 MCH-29.5 MCHC-34.8 RDW-13.4 RDWSD-41.5 Plt ___
+___ 07:42PM BLOOD Glucose-92 UreaN-21* Creat-0.9 Na-139 K-3.9 Cl-104 HCO3-25 AnGap-14
+___ 07:42PM BLOOD Mg-1.9
+
+ECG: AF episodes that last more than 7 days.

@@ -1,0 +1,56 @@
+=== PATIENT HISTORY ===
+Mr. is a w/ GBM (dx who presents with several days of having pleuritic left side side pain that has become increasingly more painful to the point he has noted less sleep as a result of the pain and inability to take a deep breath in due to the pain. He denied cough. 
+﻿
+
+=== PAST MEDICAL HISTORY ===
+PAST MEDICAL HISTORY:
+1. Central brain mass
+2. Dyslipidemia
+3. Hypertension
+4. Bell's palsy                
+﻿
+
+=== FAMILY HISTORY ===
+Of his three siblings, one died with lymphoma, the other two are healthy. His mother died with liver cancer, and his father died of lung cancer. 
+﻿
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+ADMISSION EXAM
+==============
+VITAL SIGNS: 
+Weight: 201.40 128/60, 98% RA
+Gen: NAD
+HEENT:  MMM, no OP lesions, no cervical, supraclavicular
+adenopathy
+CV:  RR, NL S1S2 no S3S4 MRG, JVP 5 cm H2O
+PULM:  CTAB with crackles at left base
+ABD:  BS+, soft, NTND, no masses or hepatosplenomegaly
+LIMBS: WWP, no tremors
+SKIN:  No rashes on the extremities
+NEURO:  Grossly normal, strength b/l upper and lower ext
+﻿
+
+=== LABS AND IMAGING ===
+ADMISSION LABS
+==============
+___ 08:20PM BLOOD WBC-8.3 RBC-3.94* Hgb-11.4* Hct-35.3* MCV-90 MCH-29.0 MCHC-32.4 RDW-16.0* 
+___ 08:20PM BLOOD Glucose-97 UreaN-23* Creat-1.0 Na-144 K-3.7 Cl-106 HCO3-26 AnGap-16
+﻿
+IMAGING/STUDIES
+================
+CXR PA/LATERAL:
+No acute cardiopulmonary process.
+﻿
+CT HEAD W/O CONTRAST:
+IMPRESSION:
+Decrease in size of known mass centered at the septum pellucidum. No evidence of acute hemorrhage or infarction. The ventricles are unchanged in size and configuration.
+﻿
+CTA CHEST:
+IMPRESSION:
+1. 1 cm area of peripheral arterial enhancement in the left lobe of the liver, statistically likely a hemangioma, however, nonurgent abdominal ultrasound can be performed for further evaluation.
+2. 3 mm left lower lobe subpleural pulmonary nodule. 6 month follow up CT recommended.
+3. small RLL filling defect
+4. The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels
+
+﻿

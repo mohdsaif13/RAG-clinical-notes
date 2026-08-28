@@ -1,0 +1,70 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Dyspnea on exertion
+
+=== PATIENT HISTORY ===
+He hx BPH who presents with acute onset of DOE yesterday while walking around work. Pt was in his USOH when he developed acute shortness of breath while walking up a hill at work. He states that he is usually able to do this hill multiple times in a day without any difficulty. However he noted that he was quite dyspneic, requiring him to rest. Had associated chest pressure located over midchest that self terminated after several minutes. Denied palpitations, cough, hemoptysis, fevers, chills, NS, changes in weight. When he went home, he again developed dyspnea while working on a project with associated chest pressure. He took 2 aspirin and his symptoms alleviated after an hour. He went to sleep asymptomatic however the next morning he again developed DOE and chest pressure which prompted him to go to ED for evaluation. 
+﻿
+He initially presented where he was found to have tropI of 0.32 with EKG with RBBB (unclear if new). He was plavix loaded and heparinized and transferred for cardiac catheterization. On day of cath he was found to have 50% LAD lesion but otherwise normal coronaries. He was then admitted for further work-up. While on the floor patient remained notably dyspneic.  CTA was completed showing evidence of right heart strain. 
+﻿
+
+=== PAST MEDICAL HISTORY ===
+BPH 
+appendectomy
+﻿
+
+=== FAMILY HISTORY ===
+father dying in from a pulmonary embolism, multiple other first degree relatives with DVTs
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+PHYSICAL EXAMINATION:  
+VS: afebrile 132/92 115 20 94%RA
+General: NAD
+HEENT: PERRL, EOMI
+Neck: no JVD  
+CV: RRR s1/s2 -mrg 
+Lungs: CTAB -wrr
+Abdomen: sNTND +BS
+Ext: -cce, -calf tenderness
+Neuro: grossly intact
+
+=== LABS AND IMAGING ===
+ADMISSION:
+___ 08:08PM   UREA N-14 CREAT-0.9 SODIUM-141 POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-27 ANION GAP-14
+___ 08:08PM   estGFR-Using this
+___ 08:08PM   CK(CPK)-55
+___ 08:08PM   CK-MB-4 cTropnT-0.05* proBNP-1576*
+___ 08:08PM   MAGNESIUM-2.1
+___ 08:08PM   08:08PM   WBC-9.3 RBC-4.81 HGB-14.7 HCT-43.3 MCV-90 MCH-30.5 MCHC-33.9 RDW-13.2
+___ 08:08PM   NEUTS-68.3 MONOS-5.5 EOS-0.9 BASOS-0.6
+___ 08:08PM   PLT COUNT-128*
+___ 08:08PM  PTT-27.0
+___ 08:08PM   PTT-27.0
+﻿
+﻿
+MICRO:
+5:27 am MRSA SCREEN
+**FINAL REPORT
+MRSA SCREEN (Final:    No MRSA isolated. 
+﻿
+IMAGING:
+Cardiac Catheterization Report
+Coronary angiography:  right dominant
+LMCA:  No angiographically apparent CAD
+LAD:  Mid vessel eccentric 50% 
+LCX:  No angiographically apparent CAD
+RCA:  No angiographically apparent CAD
+﻿
+Radiology Report CTA CHEST W&W/O C&RECONS, NON-CORONARY Study 
+IMPRESSION: 
+1.  Large pulmonary embolism in the right main pulmonary artery extending into many of the lobar and segmental branches and beyond. 
+2.  A smaller burden of segmental embolism in the left pulmonary arterial tree. 
+3.  There is no specific CT evidence of right heart strain, although clinical correlation is recommended.  
+4. The patient is hemodynamically stable.
+﻿
+Portable TTE (Complete) Done at 3:12:17    
+FINAL Conclusions  
+The left atrium is normal in size. There is mild symmetric left ventricular hypertrophy with normal cavity size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is low normal (LVEF 50-55%). The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. 
+﻿
+IMPRESSION: Suboptimal image quality. Mild symmetric left ventricular systolic hypertrophy with low normal global systolic function. Mild right ventricular dilatation and mild global systolic dysfunction. Mild pulmonary artery systolic hypertension.   
+﻿

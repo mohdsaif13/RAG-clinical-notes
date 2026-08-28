@@ -1,0 +1,94 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Chest pain
+
+=== PATIENT HISTORY ===
+Patient reports that she began having chest pain yesterday at rest. Previous chest pain is a sharp pain but this was a dull ache that started in her back and chest. Never had this type of pain before or pain that has lasted this long before. No radiation aside from into her back. Some associated SOB that has been ongoing for several weeks. Chest pain not relieved with multiple SL nitro at home (but patient thinks these may have been expired). No fever, chills, nausea or vomiting. Her friend encouraged her to come to ED.  
+ 
+In the ED initial vitals were: 98, 88, 186/71, 18, 98% RA  
+EKG: Sinus, rate 62, QTC 456, no new ischemic changes  
+Exam notable for: Distant heart sounds, RRR no R/M/G, CTAB, soft, obese, non distended, no abdominal pain  non-ST-elevation
+Labs/studies notable for:  
+ - CBC: 9.3/13.7/41.6/228  
+ - CHem&: ___  
+ - Trp 0.04  
+ - Ddimer 251  
+ CXR: No acute cardiopulmonary process  
+ 
+Patient was given:  
+ ___ 00:48 IV Morphine Sulfate 2 mg  
+ ___ 01:26 IV Morphine Sulfate 2 mg  
+ ___ 01:29 IV Ondansetron 4 mg  
+ ___ 02:20 IV Morphine Sulfate 4 mg  
+ ___ 02:20 IV Heparin Started 800  
+ 
+Vitals on transfer: 98.3, 63, 138/63, 16, 96% RA  
+ 
+On the floor: patient reports feeling the best she has felt in 24 hours. Chest pain is resolved. feels small dull ache but nothing compared with past 24 hours per her report. she recently went to her cardiologist and was suppose to start Lasix 20mg for increased lower extremity edema but she has not filled this medication yet.
+
+=== PAST MEDICAL HISTORY ===
++Nephrolithiasis  
++Hypothyroidism  
++Asthma  
++Low back pain  
++Rhinitis, allergic  
++Coronary artery disease  
++Hypercholesterolemia  
++DM + TYPE 2 UNCNTRLD  
++Hemorrhoids  
++Lichen sclerosus et atrophicus  
++OSTEOARTHRITIS, LOCALIZED PRIMARY + KNEE  
++History of total knee replacement  
++Sleep apnea  
++Fatty liver  
++Hypertension goal BP (blood pressure) < 130/80  
++Chronic pain  
++Colonic adenoma  
++Cervical high risk human papillomavirus (HPV) DNA test positive 
++S/P total knee arthroplasty  
++Pain due to total right knee replacement  
++Morbid obesity with BMI of 40.0-44.9, adult  
++Type 2 diabetes, uncontrolled, with renal manifestation
+
+=== FAMILY HISTORY ===
+Father with MI
+
+=== PHYSICAL EXAM ===
+Admission Physical
+
+VS:97.6, 124/62, 57, 18, 98% RA  
+Finger stick: 227  
+Weight: 107.3kg  
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.  
+NECK: Supple with no elevated JVD  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  
+LUNGS: CTAB. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: 1+ pitting edema bilaterally, warm  
+NEURO: grossly non focal, moving all extremities.
+
+=== LABS AND IMAGING ===
+Admission Labs
+===============
+___ 12:45AM BLOOD WBC-9.3 RBC-4.96 Hgb-13.7 Hct-41.6 MCV-84 MCH-27.6 MCHC-32.9 RDW-13.4 RDWSD-40.8 Plt ___
+___ 12:45AM BLOOD Neuts-56.6 ___ Monos-5.6 Eos-2.7 Baso-0.5 AbsNeut-5.25 AbsLymp-3.18 AbsMono-0.52 AbsEos-0.25 AbsBaso-0.05
+___ 12:45AM BLOOD PTT-33.0
+___ 12:45AM BLOOD Glucose-339* UreaN-15 Creat-0.7 Na-135 K-4.0 Cl-100 HCO3-24 AnGap-15
+___ 12:45AM BLOOD cTropnT-0.60*
+___ 06:55AM BLOOD Calcium-9.2 Phos-3.8 Mg-1.8
+
+Imaging & Studies
+
+TTE ___
+The left atrium and right atrium are normal in cavity size. There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function. No valvular pathology or pathologic flow identified. 
+
+CXR ___
+FINDINGS: 
+ 
+The lungs are well-expanded and clear.  The cardiomediastinal and hilar contours are unremarkable.  There is no pneumothorax, pleural 
+effusion, or consolidation.
+ 
+IMPRESSION: 
+No acute cardiopulmonary process.

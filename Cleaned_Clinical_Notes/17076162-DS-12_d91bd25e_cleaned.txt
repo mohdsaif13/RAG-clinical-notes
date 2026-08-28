@@ -1,0 +1,45 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+N/A
+
+=== PATIENT HISTORY ===
+A female patient with symptoms of fatigue, muscle cramping, and abnormal lab results. She has been experiencing generalized weakness and fatigue, along with muscle cramping, over the past several days. She recently had a urinary tract infection (UTI) and was treated in the emergency department, where she was prescribed a one-week course of cefpodoxime, which she completed yesterday. The urine culture indicated pan-sensitive E. coli.
+
+=== PAST MEDICAL HISTORY ===
+HYPOTHYROIDISM 
+IRON DEFICIENCY ANEMIA 
+OSTEOPENIA 
+SPINAL STENOSIS 
+LACTOSE INTOLERANCE 
+RHEUMATOID ARTHRITIS 
+H/o COLLAGENOUS COLITIS
+
+=== FAMILY HISTORY ===
+N/A
+
+=== PHYSICAL EXAM ===
+ADMISSION PHYSICAL EXAM
+Vitals: 97.9 130/83 88 20 96% RA
+General: well appearing, nontoxic, NAD
+HEENT: MM dry, EOMI, PERRL, no nystagmus
+Neck: supple
+Lungs: CTAB, no w/r/r
+CV: normal rate, reg rhythm, no m/r/g
+Abdomen: Soft, NABS, very mild tenderness over all of abdomen (pt states "it feels like I need to have a bowel movement")
+Ext: wwp, no c/c/e
+Neuro: no nystagmus. CN II-XII intact grossly.  ___ strength UE 
+and ___ b/l.
+
+=== LABS AND IMAGING ===
+___ 05:53AM BLOOD WBC-8.6 RBC-4.70 Hgb-14.5 Hct-40.3 MCV-86 
+MCH-30.9 MCHC-36.0 RDW-12.2 RDWSD-38.3 Plt ___
+___ 06:30PM BLOOD Glucose-336* UreaN-12 Creat-0.8 Na-134* 
+K-5.0 Cl-94* HCO3-24 AnGap-16
+___ 06:30PM BLOOD ALT-12 AST-23 AlkPhos-53 TotBili-0.8
+___ 06:30PM BLOOD Lipase-48
+___ 05:53AM BLOOD %HbA1c-8.3* eAG-192*
+___ 05:53AM BLOOD TSH-2.4
+___ 06:53AM BLOOD Free T4-1.8*
+___ 05:10PM BLOOD Cortsol-1.4* DHEA-SO-61*  (30 min into 
+stim)
+
+cortisol does not increase even when ACTH is given because the adrenal glands are damaged

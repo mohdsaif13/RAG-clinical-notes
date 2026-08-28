@@ -1,0 +1,61 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Palpitations
+
+=== PATIENT HISTORY ===
+She is presents with 2 days of palpitations, chest pressure, and dyspnea.  She was in her usual state of health until when she first noticed palpitations while lying in bed.  She has had a history of occasional Afib, roughly once a year for a brief period, but she is familiar with the feeling.  On this occasion her partner felt her pulse and noticed it was both rapid and irregular.  Her symptoms rapidly improved, as they have in the past.  She was not concerned until they recurred several times and accompanied by a feeling of weakness.  She also noticed substernal chest pain on walking down the stairs that lasted for roughly an hour.  This was not associated with dyspnea, N/V/D, or diaphoresis.  The chest pain was similar to that she experienced prior to her CABG.  Given the more frequent palpitations, the association of weakness with her palpitations, and this episode of chest pain, she presented to her PCP's office for evaluation.
+
+In the PCP's office, she was noted to be in Afib.  She was referred to the ED for evaluation.  Per EMS, her rate varied from 70-140 during transport, but she was in the 60-80s in the ED.  In the ED, initial vitals were 98.0 64 155/79 16 100%RA.  EKG showed no changes, troponin negative x2.  Cardiology was consulted who recommended a pMIBI.  The initial result was not clearly normal, therefore a second day of testing was recommended.  In the afternoon, the patient had a period of Afib with RVR, with her rate up to the 140s.  She was provided metoprolol 5mg IV x1 and 25mg PO x1 with good control.
+ 
+On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. All of the other review of systems were negative.  
+ 
+Cardiac review of systems is notable for absence of paroxysmal nocturnal dyspnea, orthopnea, ankle edema, syncope or presyncope.
+
+=== PAST MEDICAL HISTORY ===
++Diabetes
++Dyslipidemia 
++Hypertension  
++Diastolic heart failure: intermittent lasix, spironolactoneuse.
++h/o paroxysmal atrial fibrillation, previously on amio/coumadin, now d/c
+
+=== FAMILY HISTORY ===
+mother - deceased at young age of hodgkins
+father - deceased of cad
+no breast, ovarian, uterine, colon cancer
+No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.
+
+=== PHYSICAL EXAM ===
+ADMISSION PHYSICAL EXAMINATION: 
+Weight: 116.1 kg  
+VS: 97.9  133/65  55  20  99% RA
+GENERAL: NAD. Alert and oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. Right eye surgically non-reactive, left reactive to light, EOMI.   
+NECK: Supple with no JVD.  
+CARDIAC:  RRR, normal S1, S2. ___ systolic ejection murmur. No S3 or S4.  
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended.  
+EXTREMITIES: No cyanosis, clubbing, edema. No femoral bruits.  DP and ___ 2+ b/l
+
+=== LABS AND IMAGING ===
+___ 06:40PM BLOOD WBC-6.8 RBC-4.37 Hgb-13.0 Hct-39.7 MCV-91 MCH-29.7 MCHC-32.7 RDW-13.4 Plt ___
+___ 06:40PM BLOOD Neuts-67.5 ___ Monos-4.7 Eos-0.5 Baso-0.7
+___ 06:40PM BLOOD ___ PTT-31.5 ___
+___ 06:40PM BLOOD Glucose-111* UreaN-26* Creat-1.3* Na-139 K-4.7 Cl-103 HCO3-23 AnGap-18
+___ 06:40PM BLOOD Calcium-9.1 Phos-4.4# Mg-2.1
+___ 07:10AM BLOOD WBC-6.2 RBC-4.00* Hgb-11.7* Hct-36.2 MCV-91 MCH-29.4 MCHC-32.4 RDW-13.5 Plt ___
+___ 07:10AM BLOOD Glucose-139* UreaN-27* Creat-1.3* Na-139 K-4.4 Cl-104 HCO3-28 AnGap-11
+___ 07:10AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.1
+___ 06:40PM BLOOD cTropnT-<0.01
+___ 01:05AM BLOOD cTropnT-<0.01
+___ 07:10AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:10AM BLOOD CK(CPK)-79
+
+CXR ___:
+The patient is status post median sternotomy and CABG.  The cardiac and mediastinal silhouettes are stable.  No focal consolidation, pleural effusion, or evidence of pneumothorax is seen.  There is no overt pulmonary edema.
+
+Stress ___:
+INTERPRETATION: DMII referred from the Emergency Department after two negative sets of cardiac biomarkers for evaluation of episodes of chest pain associated with shortness of breath and palpitations. The patient was infused 0.142 mg/kg/min of dipyridamole over 4 mins. No arm, chest, neck or back discomfort noted during the study. There were no ST segment changes during the infusion or during recovery. The rhythm was sinus with two runs of PSVT (one 3 beat during infusion and the second ___ beat run in recovery), two PACs and single atrial couplet. Appropriate hemodynamic response to infusion and recovery. The dipyridamole was reversed with 125 mg IV aminophylline.
+
+TTE ___:
+The left atrium is mildly dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Left ventricular systolic function is hyperdynamic (EF>75%). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. A bioprosthetic aortic valve prosthesis is present. The aortic valve leaflets are not well visualized. The transaortic gradient is higher than expected for this type of prosthesis. No aortic regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with hyperdynamic systolic function. Well seated aortic valve bioprosthesisleft with increased transaortic gradients, likely secondary to incrased flow from high output versus patient/prosthesis mismatch (similar mean gradient reported on post-op TEE. True prosthesis stenosis is less likely given the early peaking contour of the transaortic jet velocity (AT < 100 ms), although cannot completely exclude.

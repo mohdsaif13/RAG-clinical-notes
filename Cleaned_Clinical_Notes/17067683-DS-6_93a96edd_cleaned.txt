@@ -1,0 +1,50 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+dyspnea on exertion
+
+=== PATIENT HISTORY ===
+62 year old male with minimal pmh, wit history of DOE (baseline can walk many blocks, climb 4 flights of stair), here after a cardiac stress test today showing very limited exercise capacity and ventricular ectopy induced by exercise. The test was ordered as part of the evaluation of exertional dyspnea. He does not have prominent coronary disease risk factors but due to the worrisome stress test, he is referred for further evaluation. PCP would like cardiology evaluation in the ED but this was not done (per ED report, cards ). D-dimer was over 800 at PCP, repeat at ED was 500's.  
+
+In the ED, initial vs were: T97.5 53 155/83 18 100% room air. Patient was given aspirin, CTA of chest was negative. R/O'd PE.  
+
+On Floor, patient was stable without chest pain. EKG was noted to be of I, II, V5, V6 has presistent Q-waves, but CE were negative.  
+
+Review of systems:  
+Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denied cough, shortness of breath. Denied chest pain or tightness, palpitations. Denied nausea, vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+=== FAMILY HISTORY ===
+Mother died from MI, no early cardiac MI.
+
+=== PHYSICAL EXAM ===
+Vitals: T: 98 BP: 160/89 P: 46 R: 13 O2: 99RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+
+=== LABS AND IMAGING ===
+___ 09:51PM   cTropnT-<0.01
+___ 03:15PM   GLUCOSE-100 K+-4.2
+___ 03:05PM   GLUCOSE-102* UREA N-13 CREAT-1.1 SODIUM-140 POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-25 ANION GAP-11
+___ 03:05PM   cTropnT-<0.01
+___ 03:05PM   D-DIMER-595*
+___ 03:05PM   WBC-6.3 RBC-5.37 HGB-14.9 HCT-43.9 MCV-82 MCH-27.8 MCHC-34.0 RDW-16.0*
+___ 03:05PM   NEUTS-53.4 ___ MONOS-5.0 EOS-4.1* BASOS-0.9
+___ 03:05PM   PLT COUNT-218
+
+Exercise stress test ___:
+This was a 62 year old man who was referred to the lab for an evaluation of dyspnea with exertion. He exercised for only 2.5 minutes of protocol METs) and requested to stop due to difficulty breathing and an "uncomfortable feeling" in his chest. This represents a limited functional capacity for his age. He complained of chest discomfort with breathing at peak exercise, which resolved immediately with rest. There was no significant ST segment changes noted with exercise or recovery. The rhythm was sinus with frequent PVC's, sustained ventricular bigemeny and occasional ventricular couplets all occurring at low levels of exercise and resolved in immediate recovery. There was hypertension at rest with an exaggerated blood pressure response to low level exercise. The heart rate responded appropriately to the level of exercise performed. IMPRESSION: No significant ST segment changes noted. Sudden onset of ventricular ectopy at low workloads accompanied by difficult breathing. Limited functional capacity demonstrated. 
+
+TTE ___:
+The left atrium is mildly dilated. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF 60%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. There are focal calcifications in the aortic arch. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. An eccentric, posteriorly directed jet (late systolic jet) of mild (1+) mitral regurgitation is seen. There is borderline pulmonary artery systolic hypertension. There is no pericardial effusion.
+
+Cardiac Catheterization ___:
+1. Selective coronary angiography of this co-dominant system demonstrated no obstructive coronary artery disease. The vessels were ectatic. The LAD had a short intramyocardial segment in the 
+mid-vessel which induced a 40% stenosis. 
+2. Resting hemodynamics revealed slightly normal left heart filling 
+presssures and slightly elevated right heart filling pressures. The RVEDP and LVEDP were equal at 14mmHg. There was mild pulmonary hypertension with diastolic pressures equal to LVEDP and RVEDP. The pattern was consistent with restrictive/constrictive physiology. 
+3. The patient was challeneged with 500cc of IVF bolused via the right 
+atrium. With this the LVEDP increased to 22mmHg and RVEDP to 18mmHg. Right atrial pressure increased to ___ (a/v/mean). 
+4. After fluid bolus simultaneous LV and RV pressure tracings demonstrated concordance over the respiratory cycle and with valsalva. There was a dip and plateau morphology to LV filling. These findings are consistent with restrictive physiology.

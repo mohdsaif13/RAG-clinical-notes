@@ -1,0 +1,66 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+shortness of breath
+
+=== PATIENT HISTORY ===
+Female with metastatic NSCLC (to bone, chest wall) as well as low grade B-cell non-Hodgkin lymphoma on chemotherapy who presents with right segmental PEs in RML/RLL.  She reports noted progressive DOE for the last days.  She denies chest pain, back pain, hemoptysis, lightheadedness, or syncope.  She also denies fevers and chills.  Her chronic pain is well controlled with MS.  At rest she is comfortable without SOB.
+.
+In ED, she showed no intracranial lesions.  She was started on IV Heparin and sent to the floor.
+
+=== PAST MEDICAL HISTORY ===
+Breast cancer - as above
+Metastatic NSCLC
+B-cell lymphoplasmocytic lymphoma
+IgM kappa monoclonal gammopathy
+h/o recurrent pneumothoraces blebs, s/p thoracotomy 
+w/ bleb removal
+Hypertension
+Osteopenia
+left lobectomy
+s/p bilateral knee surgeries
+s/p appendectomy
+s/p partial chest wall resection
+
+=== FAMILY HISTORY ===
+Grandmother died of breast CA. Mother died of "natural causes".  Father not well known. Brother ied of pulmonary fibrosis.
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+VITAL SIGNS:
+Temperature 97.1
+Blood pressure 110/78
+Heart rate 74
+Resp rate 94RA
+GENERAL:  Appears very comfortable, in no distress.
+HEENT:  Sclerae anicteric.   Oropharynx is clear without lesions or thrush.
+NECK:  Supple, without lymphadenopathy.
+LUNGS:  Decreased BS at left base o/w clear to auscultation.
+HEART: Regular rate and rhythm. ii/vi SM LSB
+ABDOMEN:  Soft, nontender, nondistended, normal bowel sounds. 
+EXTREMITIES:  2+ edema bilaterally to thighs.  No cords.
+SKIN:  No rash.
+﻿
+
+=== LABS AND IMAGING ===
+: 14.01  PTT: 31.5  INR: 1.2  
+.
+140    AGap=13 
+----------------  
+4.4  30  0.8 
+. 
+ALT: 31 AP: 104 Tbili: 0.8   
+AST: 31 LDH: 280  
+.
+CEA: 129
+.
+WBC 5.5  HCT 38.9  PLT 161 
+: 3350  
+.
+NCHCT: No definite evidence of metastases, though noncontrast CT 
+is limited. No hemorrhage or edema.
+.
+CTA Chest: 
+1. No significant change in comparison at the confluent anterior mediastinal nodal mass, large left effusion, and postoperative changes of the left lung. 
+2. Interval increase in the right pleural effusion. 
+3. Not mentioned above, multiple foci of sclerosis within the sternum, concerning for metastatic disease. Correlate with bone scan. 
+﻿4. moderate bilateral pulmonary emboli
+﻿5. The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels

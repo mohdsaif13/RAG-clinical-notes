@@ -1,0 +1,62 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Seizure-like events
+
+=== PATIENT HISTORY ===
+The patient is a 27 year old man w/ hx of pseudoseizures, depression/anxiety and polysubstance abuse who presents as OSH transfer for further management of seizure-like events. Hx obtained from pt and OSH records. 
+
+Patient was recently admitted to  section 35 from facility for evaluation of seizure like activity. He was being treated at this facility for poly substance abuse including heroin, benzos and opiates on Methadone 100 mg day. Per OSH documentation, benzos Xanax per day) were quickly weaned off at facility and may have prompted these events. At OSH pt was noted to have an episodes of tonic clonic movement and convulsions with urinary incontinence. He was managed in ICU out of concern for benzo withdrawal and was treated with high dose benzos. He was reportedly evaluated by neurology and thought that may be pseudo seizures (pt himself feels that these are pseudoseizures) started on Keppra 500 mg BID with no effect. He continued to have episodes per day. Routine EEG was performed but there was no neurologist to read due to neurologist there being on vacation until end. He was then transferred as a direct admission for further evaluation. 
+
+Of note, en route he had an episode where he suddenly stopped talking to EMS and his whole body began to shake violently. EMS brought him to the ED where he continued to violently shake all his extremities non rhythmically. He was given 2mg Ativan x1 without improvement. ED resident put saline in his eyes which stopped the episode immediately. Entire episode lasted circa 15 minutes per report w/ postictal drowsiness.
+
+Per OSH documentation, pt has hx of "partial complex seizure disorder" for which he had previously been taking Lamictal and Lyrica, now on Tegretol. However, 
+
+Het states that he first developed these type of events when he was 11 years old (at that time with aura of electrical activity moving up his body), at that time being started on Phenobarbital by his family doctor. He continued on this medication until he was 16 years old when his doctor left town and he could no longer obtain. He states that his seizures returned but evolved into more myoclonic activity (imitates in bed as a whole body jerk). Around this time he began to buy benzodiazepines  on the street as preventative therapy, particularly when he felt that a seizure may be coming on. He thinks that he used this medication 1/month w/ control of his episodes. At the same time he also began to engage in heroin use. This behavior continued for some years until college when he began to have breakthrough events. Soon after that he was working in where  he was able to obtain Phenobarbital with cessation of his episodes. However, they returned when he came back to US and was unable to receive medication. He had a similar experience while working in the following year. In the last years he quit heroin but began to take Valium daily. Because he continued to be dependent on this medication, he presented to detox when he had seizure like activity and was sent.
+
+=== PAST MEDICAL HISTORY ===
++Seizure disorder
++Mood d/o
++polysubstance  abuse
+
+=== FAMILY HISTORY ===
+NC
+
+=== PHYSICAL EXAM ===
+- General: Awake, cooperative, NAD.
+- HEENT: NC/AT
+- Neck: Supple
+- Pulmonary: no increased WOB
+- Cardiac: well perfused 
+- Abdomen: soft, nontender, nondistended
+- Extremities: no edema, pulses palpated
+- Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Appears very drowsy, oriented to person place and year. Unable to relate history without difficulty. Inattentive, unable to name backward without difficulty. Language is hesitant but with intact repetition and comprehension. Able to name both high and low frequency objects.  Speech was hypophonic and difficult to understand, but no obvious dysarthria. Able to follow both midline and appendicular commands.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No adventitious movements, such as tremor, noted. No asterixis noted. Grossly full strength throughout, but somewhat limited by participation.
+
+=== LABS AND IMAGING ===
+___ 05:20AM BLOOD WBC-8.2 RBC-3.89* Hgb-11.7* Hct-34.8* MCV-90 MCH-30.1 MCHC-33.6 RDW-13.1 RDWSD-41.6 Plt ___
+___ 12:58PM BLOOD WBC-12.6* RBC-4.49* Hgb-13.1* Hct-40.1 MCV-89 MCH-29.2 MCHC-32.7 RDW-12.8 RDWSD-41.1 Plt ___
+___ 05:20AM BLOOD ___ PTT-28.6 ___
+___ 05:20AM BLOOD Glucose-81 UreaN-22* Creat-1.4* Na-144 K-4.4 Cl-103 HCO3-20* AnGap-21*
+___ 12:58PM BLOOD Glucose-90 UreaN-19 Creat-1.5* Na-146 K-5.2 Cl-101 HCO3-25 AnGap-20*
+___ 05:20AM BLOOD ALT-151* AST-67*
+___ 05:20AM BLOOD Calcium-9.0 Phos-5.1* Mg-1.9
+___ 12:58PM BLOOD Calcium-9.9 Phos-6.4* Mg-1.8
+___ 01:06PM BLOOD Lactate-3.9*
+
+ECG
+ECG is normal during the attack

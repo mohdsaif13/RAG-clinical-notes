@@ -1,0 +1,53 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Dementia with aggresive behavior
+
+=== PATIENT HISTORY ===
+Man with CAD, prostate cancer, meningioma, and gastritis, and two recent ER visits for aggressive behavior, sent from his nursing facility for safety evaluation after striking another resident in the face at the facility. 
+
+This patient has been living in the Memory Unit about the past year. Seen in our ED on for similar presentation. On his last visit, after one day in ED observation was willing to take the patient back if under good behavioral control, which he was felt to be. 
+
+He now represents for similar aggressive behavior where he reportedly repeatedly punched another (different) rehab resident and threw juice on him, per rehab nursing report. Has thrown silverware at people in the recent past, and has pointed knives at staff before. There has been no known provocation for these outbursts. Unclear if there were any racial slurs exchanged, both were speaking residents. Noted hoarding behaviors, and difficulty with redirection in recent months. 
+
+Outpatient psychiatrist risperidone since last ED visit, and in setting of uptitration patient has had some difficulty walking. Per Dr. aggression has been worsening in last few weeks, and he is not safe to be around other frail elders. Calm between outbursts, and no MS changes to support delirium.
+
+=== PAST MEDICAL HISTORY ===
+CAD
+HTN
+Prostate Cancer
+Meningioma
+Gastritis
+hiatal hernia
+s/p cholecystectomy
+s/p Mohs surgery for basal cell carcinoma
+No history of seizures or head injuries.
+
+=== PHYSICAL EXAM ===
+Vitals: 97.3, 69, 137/79, 18, 98%RA
+General: NAD, sitting in bed, eating a cookie, with his stuffed cow by his side
+HEENT: PERRL, NC/AT, MMM, clear OP
+Lymph: No LAD appreciated
+CV: RRR, normal S1, S2, no m/r/g
+Lungs: CTAB on the R, crackles in the L base
+Abdomen: soft, nontender, nondistended, +BS
+Ext: wwp, 2+ peripheral pulses, no edema
+Neuro: Alert and interactive, oriented to person, birthday, not date, not place. Does not know why he is here. Answers appropriately. Sounds fluent but cannot discern if any aphasias. Moving all extremities.
+
+=== LABS AND IMAGING ===
+___ 11:35AM   GLUCOSE-127* UREA N-15 CREAT-0.8SODIUM-142 
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-27 ANION GAP-14
+___ 11:35AM   ALT(SGPT)-21 AST(SGOT)-20 ALK PHOS-51 TOT BILI-0.4
+___ 11:35AM   ALBUMIN-4.3 CALCIUM-9.7 PHOSPHATE-3.0 MAGNESIUM-2.1
+___ 11:35AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 11:35AM   WBC-4.5 RBC-4.30* HGB-13.4* HCT-38.2*MCV-89 MCH-31.3 MCHC-35.2* RDW-14.7
+___ 11:35AM   NEUTS-58.4 ___ MONOS-6.6 EOS-1.9 BASOS-0.6
+___ 11:35AM   PLT COUNT-151
+
+IMAGING:
+=================
+CXR ___
+IMPRESSION: 
+Mild bibasilar atelectasis in the setting of low lung volumes. Small consolidations at the bases cannot be entirely excluded. No effusion or pneumothorax.
+
+
+PET ___
+Amyloid deposition was detected in areas of the frontal and temporal lobes of the brain

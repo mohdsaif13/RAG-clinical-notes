@@ -1,0 +1,65 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Seizure
+
+=== PATIENT HISTORY ===
+She is a 27 year old girl with a PMHx of anorexia and seizures who presents to the ED with 2 seizures. Per the patient, she was sitting on the floor around other people in where she is being treated for an eating disorder, when she started to feel 'tingling' which signals to her that she is going to have a seizure. She lost consciousness and had arm and leg shaking for 2 minutes according to the people who saw her. When she woke up, she felt confused for about 20 minutes then went back to being like herself. She was given Ativan by the nursing staff and went to have a snack of fig newtons. After eating, she had another seizure, again witnessed by others according to patient. 
+
+She was admitted to treatment of an eating disorder about a week ago. 
+
+Chronologic Seizure History: Patient reports she first had a seizure 4months ago. The first seizure was in the setting of alcohol and marijuana use. Patient reports that since then she has had "seizures every day" which are always the same (hand tingling followed by LOC and whole body shaking). She says she has had a full workup with EEG and MRI. She was told these studies were normal. 
+ 
+On neuro ROS, the pt endorses HA, lightheadedness, denies headache, loss of vision, blurred vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus, and hearing difficulty. Denies difficulties producing or comprehending speech.  Denies focal weakness, numbness, and parasthesiae. No bowel or bladder incontinence or retention. Denies difficulty with gait.
+
+On general review of systems, the pt denies recent fever or chills. No night sweats or recent weight loss or gain. Denies cough, shortness of breath.  Denies chest pain or tightness, palpitations.  Denies nausea, vomiting, diarrhea, constipation, or abdominal pain.  No recent change in bowel or bladder habits. No dysuria. Denies arthralgias or myalgias. Denies rash.
+
+=== PAST MEDICAL HISTORY ===
++Anorexia
++Depression
+
+=== FAMILY HISTORY ===
+No Family History currently on file.
+
+=== PHYSICAL EXAM ===
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted 
+in oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally 
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, 
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses bilaterally.
+Skin: scars on b/l forearms.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history, generally knows what has been going on in her medical history but is unable to give extensive details. Mildly flat affect, Attentive, able to name backward without difficulty. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Pt was able to name both high and low frequency objects. Speech was not dysarthric. Able to follow both midline and appendicular commands. There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+ II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without nystagmus. Normal saccades. VFF to confrontation.
+ V: Facial sensation intact to light touch.
+ VII: No facial droop, facial musculature symmetric.
+ VIII: Hearing intact to finger-rub bilaterally.
+ IX, X: Palate elevates symmetrically.
+ XI: ___ strength in trapezii and SCM bilaterally.
+ XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk and tone. No pronation, no drift. No orbiting with arm roll. No tremor noted. No asterixis noted.
+
+=== LABS AND IMAGING ===
+___ 12:27AM BLOOD WBC-7.3 RBC-3.70* Hgb-11.9 Hct-35.0 MCV-95 MCH-32.2* MCHC-34.0 RDW-12.0 RDWSD-41.9 Plt ___
+___ 12:27AM BLOOD Neuts-49.3 ___ Monos-5.2 Eos-1.9 Baso-0.4 Im ___ AbsNeut-3.59 AbsLymp-3.14 AbsMono-0.38 AbsEos-0.14 AbsBaso-0.03
+___ 12:27AM BLOOD Glucose-95 UreaN-12 Creat-0.6 Na-141 K-4.1 Cl-106 HCO3-21* AnGap-14
+___ 12:27AM BLOOD ALT-9 AST-10 AlkPhos-35 TotBili-0.3
+___ 12:27AM BLOOD Lipase-51
+___ 12:27AM BLOOD Albumin-4.1 Calcium-8.8 Phos-3.6 Mg-1.7
+___ 12:27AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 01:29AM URINE Color-Yellow Appear-Hazy* Sp ___
+___ 01:29AM URINE Blood-NEG Nitrite-NEG Protein-30* Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-SM*
+___ 01:29AM URINE RBC-0 WBC-4 Bacteri-FEW* Yeast-NONE Epi-7
+___ 01:29AM URINE UCG-NEGATIVE
+___ 01:29AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+___ 1:29 am URINE
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+___ chest xray
+Left basilar atelectasis.  Otherwise, no acute cardiopulmonary abnormality.

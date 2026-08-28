@@ -1,0 +1,78 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Shortness of breath
+
+=== PATIENT HISTORY ===
+She is an 64 year-old with a history of CHF s/p CABG who complains of cough for two days with the production of yellow sputum.  She also complains of chills for two days.  She denies bloody sputum, increased fatigue from baseline, and increased diarrhea from baseline.  She currently denies shortness of breath, chest pain, and abdominal pain.  She only complains of feeling cold.  She sleeps on two pillows due to orthopnea.
+
+She says that shortly after receiving a flu vaccination two weeks ago, she began to have a runny nose and sneezing.  She denies developing any fevers or sore throat.  Otherwise she was at her typical baseline until she developed a cough two days ago.  She describes her baseline as shortness of breath with exertion being unable climb a flight of stairs without stopping. She also complains of occasional angina at rest, decreased appetite, diarrhea that is worse on the days she takes colchicine, and mild stress incontinence with coughing.
+
+On arrival to the ED, her WBC was 17.6 with 84% neutrophils, and lactate was elevated at 3.2
+
+=== PAST MEDICAL HISTORY ===
++CAD s/p CABG
++VTach and VF s/p ICD
++Junctional brady s/p PPM  
++Temporal Arteritis  
++HTN  
++Recurrent TIAs
++Dyslipidemia 
++GERD  
++Gout  
++DVT/PE s/p IVC filter  
++Atrial Fibrillation 
++CHF EF 25% 
++PVD  
++Low back pain and herniated disc s/p multiple back surgeries and right-sided sciatica, s/p lumbar epidural steroid injection 
++Basal cell carcinoma on the right shin and skin infection on the forehead secondary to basal cell carcinoma
++s/p CCY  
++Cystitis
+
+=== FAMILY HISTORY ===
+Non-contributory
+
+=== PHYSICAL EXAM ===
+VITAL SIGNS:  T 99.7  BP 140/58  HR 60  RR 20  O2 98% 1.5L  
+GENERAL APPEARANCE:  Fatigued, laying in bed with blankets up to face.
+HEENT:  Normocelphalic/atraumatic, extraocular movements intact, mucous membranes moist, oropharynx no exudates, sores, or erythema
+Neck:  No lymphadenopathy
+HEART:  Normal S1 and S2, regular rate and rhythm, III/VI systolic murmur at right upper sternal border, JVD < 5cm
+LUNGS:  Short inhalation and exhalation times, coughing on deep breaths, crackles ausculatated at right base, otherwise clear to auscultation bilaterally
+ABDOMEN:  Non-distended, non-tender, + bowel sounds in four quadrants, soft, no masses, no hepatosplenomegaly
+BACK:  No costovertebral angle tenderness, spine tender to palpation throughout
+EXTREMITIES:  Warm and well perfused, radial pulse paplated on right but not left, dorsal pedal pulses palpated bilaterally, 
+SKIN:  No rashes, sores, ulcers noted
+NEUROLOGICAL:  Alert, awake, and attentive, cranial nerves II-XII intact, could not report her past medical history or medication list
+PSYCHOLOGICAL:  Normal affect
+
+=== LABS AND IMAGING ===
+___ 03:00AM   WBC-17.6*# RBC-3.85* HGB-11.7* HCT-35.7* MCV-93 MCH-30.2 MCHC-32.7 RDW-15.5
+___ 03:00AM   NEUTS-84.1* LYMPHS-9.2* MONOS-3.6 EOS-2.8 BASOS-0.3
+___ 05:50AM BLOOD WBC-6.7 RBC-3.01* Hgb-9.2* Hct-27.8* MCV-92 MCH-30.7 MCHC-33.2 RDW-15.5 Plt ___
+___ 05:50AM BLOOD Neuts-69.1 Lymphs-13.8* Monos-6.1 Eos-10.5* Baso-0.6
+
+CARDIAC ENZYMES
+___ 03:00AM BLOOD CK(CPK)-39
+___ 04:45PM BLOOD CK(CPK)-34
+___ 05:02AM BLOOD CK(CPK)-33
+___ 03:00AM BLOOD cTropnT-<0.01
+___ 04:45PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 05:02AM BLOOD CK-MB-NotDone cTropnT-<0.01
+
+URINE
+URINALYSIS
+___ 09:47AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:47AM URINE  BLOOD-NEG NITRITE-POS PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD
+___ 09:47AM URINE  RBC-0 ___ BACTERIA-FEW YEAST-NONE 
+___ 04:07AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 04:07AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-LG
+___ 04:07AM URINE RBC-17* WBC-44* Bacteri-FEW Yeast-NONE Epi-15 TransE-1
+
+VIRAL CULTURE (Final ___: 
+Culture screening find the existing of Adenovirus, Influenza A & B, Parainfluenza type1,2 & 3, and Respiratory Syncytial Virus
+
+IMAGING 
+
+___  CHEST XR (AP&LAT) 
+FINDINGS: There is a pacer device overlying the left hemithorax with unchanged in appropriate position of pacer leads. Patient is status post median sternotomy with unchanged appropriate appearance of cerclage wires.
+  
+There is mild cardiomegaly, unchanged. There is calcification of the aortic arch and mild tortuosity of the aorta, also unchanged. There is mild prominence of the pulmonary vasculature representing mild failure. There is perihilar haze and mild peribronchial cuffing also associated with mild degree of failure. There are small bilateral pleural effusions and bibasilar atelectasis. There are multiple punctate areas of high density throughout both lungs representative of multiple granulomas. There is no pneumothorax.

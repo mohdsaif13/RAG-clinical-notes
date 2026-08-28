@@ -1,0 +1,27 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Shortness of breath
+
+=== PATIENT HISTORY ===
+This is a 41 year old male who presents to the ED with shortness of breath times two weeks. He ran our of his MDI a few weeks ago. He tried an over the counter epinephrine INH without improvement. He presented to the ED because he was not improving. He does not report fevers or chills. No chest pain, no cough.  
+ 
+In the ED, initial vitals were 97.8 116 146/88 16 98. He recieved 60mg prednisone, IVF, and Albuterol nebs x3. After 2 nebs peak flow 300->650 but still tachy, at 94% on 2lpm, w/inspiratory & expiratory wheezes. After prednisone & neb: Desats to 90% ambulatory room air, still has diffuse wheezes.  
+ 
+On review of systems, notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. All of the other review of systems were negative.
+
+=== FAMILY HISTORY ===
+Noncontributory
+
+=== PHYSICAL EXAM ===
+VS - 97.3, 114/86, 72, 20, 99%2L Peak Flow: 510  
+Gen: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.  
+CV: S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: Difuse wheezes. No rhales or Rhonchi. Good air movement throughout chest. No dullness to percussion noted.  
+Abd: Soft, NTND. No HSM or tenderness.  
+Ext: No c/c/e.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  
+Neuro: grossly intact.
+
+=== LABS AND IMAGING ===
+CXR: ___:  
+FINDINGS: PA and lateral views of the chest are obtained. The lungs are clear bilaterally demonstrating no evidence of pneumonia or CHF. Cardiomediastinal silhouette is normal. Osseous structures are intact. No free air is seen below the right hemidiaphragm.

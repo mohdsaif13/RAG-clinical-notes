@@ -1,0 +1,55 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Chest pain
+
+=== PATIENT HISTORY ===
+32 year old man with sudden onset of chest pain after working  yesterday. He went to bed with chest pain and indigestive symptoms. Did not sleep well. Woke this AM with the same sensations. His girlfriend brought patient to the OSH, where he underwent CTA. He was transferred urgerntly for cardiac surgery evaluation. Patient was brought emergently to the OR.
+
+=== FAMILY HISTORY ===
+Family history of cervical and oral cancer
+
+=== PHYSICAL EXAM ===
+Admit PE:
+Pulse:88 Resp: 16 O2 sat: RA 98%
+B/P  Right:110/68    Left: 
+Height:  5ft 10"   Weight: 150lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds +[]
+Extremities: Warm [x], well-perfused [x]  Edema []
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: =2  Left:+2
+DP           Right: +2  Left:+2
+Radial       Right:+2   Left:+2
+
+Carotid Bruit:        Right:  -  Left:-
+
+=== LABS AND IMAGING ===
+STUDIES:
+PA/LAT CXR ___:
+Lungs are low volume with stable small bilateral effusions slightly increased in volume.  Cardiomediastinal silhouette is stable.  There is a lucency in the left apex which could represent a small left apical pneumothorax. 
+.
+Intraop TEE ___, 
+Echocardiographic Measurements   
+Results  
+Measurements  
+Normal Range  
+Left Ventricle - Ejection Fraction:   55%   >= 55%   
+Aorta - Ascending:   *6.6 cm   <= 3.4 cm   
+  
+Findings   
+LEFT ATRIUM: No thrombus/mass in the body of the LA. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Small PFO present. 
+LEFT VENTRICLE: Normal LV wall thickness. Normal regional LV systolic function. 
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Severe dilation of aorta at sinus level. Severely dilated ascending aorta. 
+
+AORTIC VALVE: Three aortic valve leaflets. Moderate to severe (3+) AR. 
+MITRAL VALVE: Normal mitral valve leaflets. Trivial MR.

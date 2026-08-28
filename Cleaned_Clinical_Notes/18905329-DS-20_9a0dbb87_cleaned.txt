@@ -1,0 +1,39 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Acid reflux
+
+=== PATIENT HISTORY ===
+Ms. ___ is a ___ year-old female with years of heartburn and regurgitation with an accompanying bitter taste in her mouth.  She also experiences dysphagia when swallowing foods such as broccoli, nausea, vomiting, stomach pain, dry cough, and intermittent hoarseness.  These symptoms have persisted despite years of esomeprazole therapy, avoidance of spicy foods, eating early in the evening before bed, and sleeping with her head elevated.  Her symptoms are worse when she stops taking esomeprazole.
+
+=== PAST MEDICAL HISTORY ===
+- HTN
+- Metabolic syndrome
+- Bone spur left foot
+- Fibroid uterus
+- Plantar fasciitis
+- Greater trochanteric bursitis
+- Abnormalities of blood pressure
+- Kidney stones
+- Low back pain
+- Left foot and ankle pain
+
+=== FAMILY HISTORY ===
+Father: Died of esophageal cancer
+Mother: Died of a stroke
+
+=== PHYSICAL EXAM ===
+GEN: A&Ox3, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, no palpable masses
+Ext: No ___ edema, ___ warm and well perfused
+
+=== LABS AND IMAGING ===
+___ 06:52AM BLOOD WBC-9.7 RBC-3.93* Hgb-11.5* Hct-34.4* 
+MCV-88 MCH-29.2 MCHC-33.3 RDW-14.4 Plt ___
+___ 06:52AM BLOOD Glucose-116* UreaN-7 Creat-0.7 Na-138 
+K-3.9 Cl-100 HCO3-28 AnGap-14
+___ 06:52AM BLOOD Calcium-8.8 Phos-3.4 Mg-1.8
+
+Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring

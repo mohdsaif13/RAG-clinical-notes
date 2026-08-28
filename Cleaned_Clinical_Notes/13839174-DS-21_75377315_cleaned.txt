@@ -1,0 +1,24 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+fetal deceleration
+
+=== PATIENT HISTORY ===
+Sent for prolonged monitoring due to 2 min fetal HR deceleration in office today. Pt has been having intermittent contractions, getting worse over last several days. Denies VB or LOF. +AFM.
+ +frequent urination.
+
+=== PAST MEDICAL HISTORY ===
++Labs: A+/Ab-/HBsAg-/RPRNR/RI/HIV-/GBS+urine
++Screening: LR ERA, Hg electro c/w alpha thal trait
++FFS: WNL, posterior placenta, GIRL!
++EFW: 63%ile, AC 90%ile
++SVD female 6#9
++G2 current
++GynHx: ASCUS, HPV pos, colpo nl. chronic BV/yeast. Remote h/o chlamydia.
+
+=== FAMILY HISTORY ===
+non-contributory
+
+=== LABS AND IMAGING ===
+___ 06:11AM BLOOD Hct-22.9*#
+___ 06:29PM BLOOD WBC-13.2* RBC-4.52 Hgb-10.5* Hct-31.6* MCV-70* MCH-23.2* MCHC-33.2 RDW-15.3 RDWSD-37.8
+___ 06:29PM BLOOD Glucose-267* UreaN-10 Creat-0.6 Na-133 K-4.1 Cl-99 HCO3-21* AnGap-17
+___ 06:29PM GADA test result is positive

@@ -1,0 +1,58 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+nausea, vomiting, malaise
+
+=== PATIENT HISTORY ===
+Last night the patient became nauseous, started vomiting, had palpitations and felt dyspneic. She had just eaten some tuna tartare. Noted that her BG was running in 200s, and it typically runs in the 150-180 range. Also endorsed lightheadedness. This brought her to the ED.
+  
+In ED initial VS: 98.2 110 118/69 20 99% RA  Exam: not documented in dashboard Labs significant for: glu 203, AG 29, bicarb 12, pH 7.27 initially Patient was given:-2L NS then started on NS at 250 cc/hr (unsure how much fluid in total she rec'd) 
+-started on insulin gtt
+-Zofran, Ativan, Toradol for nausea and headache
+Imaging notable for: CXR unremarkable
+﻿
+She was seen in the ED and kept in the CDU overnight. 
+Her AG closed in the ED, after which her insulin gtt was dc'd. 
+Per patient, the plan had been to stop the insulin gtt and have her insulin pump turned back on. However, she went about 4 hours without getting any insulin, and her gap opened back up. She then rec'd a dose of SC Lispro 4U, was restarted on an insulin gtt and admitted to the ICU.
+﻿
+VS prior to transfer: 98.4 96 95/56 18 98% RA  
+  
+On arrival to the MICU, she is feeling better and reports the Ativan and Toradol have helped her nausea and headache. Still feeling SOB if she stands up. Doesn't feel comfortable eating yet but maybe in a few hours. Does not feel like she has been sick lately. No change in meds, diet or alcohol use. Also having vaginal itching that feels like prior yeast infections.
+﻿
+REVIEW OF SYSTEMS: per HPI. otherwise denies chest pain, fever, cough, dysuria
+﻿
+
+=== PAST MEDICAL HISTORY ===
++CARPAL TUNNEL SURGERY
++RADIUS FACTURE 
++ankle fracture
+
+=== FAMILY HISTORY ===
+per chart review: 
+sister with type one diabetes and papillary thyroid carcinoma
+
+=== PHYSICAL EXAM ===
+Admission PHYSICAL EXAM:  
+VITALS: please see Metavision. afebrile, HR 104, BP 99/62, SaO2 100% RA 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, dry oral mucosa, oropharynx clear  
+NECK: supple, JVP not elevated  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no edema  
+SKIN: no significant rash 
+NEURO: A&Ox3, no gross focal defects 
+﻿
+
+=== LABS AND IMAGING ===
+Admission Labs:
+___ 11:21AM BLOOD WBC-6.1 RBC-4.91 Hgb-14.2 Hct-43.6 MCV-89 MCH-28.9 MCHC-32.6 RDW-13.1 RDWSD-42.5
+___ 11:21AM BLOOD Neuts-81.1* Lymphs-16.1* Monos-2.0* Eos-0.0* Baso-0.5 AbsNeut-4.93 AbsLymp-0.98* AbsMono-0.12* AbsEos-0.00* AbsBaso-0.03
+___ 11:21AM BLOOD Glucose-203* UreaN-19 Creat-0.8 Na-138 K-4.9 Cl-96 HCO3-12* AnGap-30*
+___ 11:21AM BLOOD ALT-13 AST-19 AlkPhos-57 TotBili-0.4
+___ 11:21AM BLOOD Albumin-5.0
+___ 04:48AM BLOOD Calcium-8.2* Phos-2.2* Mg-2.0
+___ 11:32AM BLOOD pO2-68* pCO2-25* pH-7.27* calTCO2-12* Base XS--13 Comment-GREEN TOP 
+___ 11:32AM BLOOD Glucose-201* Na-138 K-4.6 Cl-108
+___ 11:32AM BLOOD Hgb-14.9 calcHCT-45 O2 Sat-89
+___ 11:32AM ICA test is positive
+﻿

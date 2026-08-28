@@ -1,0 +1,78 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+headache and vomiting
+
+=== PATIENT HISTORY ===
+65 yo woman with one year hx of nausea, vomiting, headache and weight loss who presents for evaluation of acute worsening of  nausea and vomiting.  
+
+She has a history of intermittent headaches, vomiting, and inability to tolerated pos. Her symptoms started one year ago, when she was entering her college. She began noting intermittent episodes of nausea and vomiting, particularly at night. She would awaken from sleep with sensation of nausea, diaphoresis, and generally feeling ill. The symptoms were often accompanied by episodes of vomiting, initially undigested food followed by bilious vomit. There was no blood. Symptoms have been intermittent and progressive, with decreased po intake, frequently limiting herself to soup and toast. She has been evaluated in GI clinic by Dr H started her on Prilosec from which she has had some symptomatic relief.  
+
+She underwent EGD that showed mild antral gastritis and gastric polyp. Pathology from the polyp was benign. Random duodenal biopsy was normal. Abdominal ultrasound showed no abdominal pathology to account for her symptoms. Per most recent note of Dr H "testing for ulcer disease, H pylori, pyloric stenosis, celiac sprue, and gallbladder disease has been negative. The etiology of her symptoms remain unclear, however, we suspect that her symptoms either represent idiopathic post-viral gastroparesis or gastroesophageal reflux...Her partial response to Prilosec is curious and suggests that her symptoms could be related to acid reflux...Her nocturnal vomiting and complaints of headache are somewhat worrisome for a more central cause of vomiting. We would recommend obtaining a morning cortisol and ACTH level, ___, SPEP, UPEP and an MRI of the head given her headaches and nocturnal episodes of vomiting. We will  plan to obtain a gastric emptying study to look for evidence of  gastroparesis and an upper GI series to look at the extent of  gastroesophageal reflux."  
+
+She presented this evening to the ED because her symptoms were worsening, and she has not been able to hold down any substantial amount of food for the last two weeks. In the ED, initial vs were: T 98.1, HR 74, BP 96/62, RR 18, O2 98% RA. Labs were drawn and unremarkable for electrolyte abnormalities. Hct was 39.6. MR head was done with report still pending. She was admitted for further evaluation by neurology and GI services.
+
+=== PAST MEDICAL HISTORY ===
+-history of knee surgery  
+-exertional asthma  
+-no prior abdominal surgery
+
+=== FAMILY HISTORY ===
+Notable for father with leiomyomas of his esophagus, status post resection. Father also with psoriasis. Twin sister, question monozygotic versus dizygotic with reflux symptoms and nausea and vomiting a year ago that was treated effectively with Prilosec.
+
+=== PHYSICAL EXAM ===
+Vitals: T:97.1, BP:98/61, P:68, R:18, O2: 100%RA  
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple  
+Lungs: clear to auscultation bilaterally  
+CV: regular rate and rhythm, normal S1 + S2  
+Abdomen: soft, non-tender, non-distended, bowel sounds present  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+
+=== LABS AND IMAGING ===
+GLUCOSE-86 UREA N-12 CREAT-0.9 SODIUM-142 POTASSIUM-4.4 
+CHLORIDE-105 TOTAL CO2-27 ANION GAP-14 ALBUMIN-4.4 CALCIUM-9.8 
+PHOSPHATE-4.4 MAGNESIUM-2.0
+ALT(SGPT)-16 AST(SGOT)-23 LD(LDH)-144 ALK PHOS-86 TOT BILI-0.4
+WBC-6.6 RBC-4.60 HGB-13.1 HCT-39.6 MCV-86 MCH-28.5 MCHC-33.0 
+RDW-13.7
+NEUTS-50.2 ___ MONOS-6.3 EOS-1.2 BASOS-0.5
+PLT COUNT-254
+___ PTT-29.4 ___
+___ negative
+
+Urinalysis (___)
+URINE BLOOD-SM NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-TR 
+BILIRUBIN-NEG UROBILNGN-4* PH-7.0 LEUK-NEG
+URINE ___ BACTERIA-FEW YEAST-NONE ___
+
+Imaging:
+MRI head w/o contrast (___):
+1. No acute intracranial abnormality and no space-occupying lesion. 
+2. Asymmetric prominence of the left lateral ventricle and probable ___ cisterna magna, both normal variants, and unlikely to relate to the patient's symptoms. 
+
+CT abd/pelvis (___):
+1. No acute problem identified on CT imaging of the abdomen or pelvis. 
+2. Likely simple cyst within the right ovary. 
+
+Previous admission data:
+Blood tests from recent office visits:  
+TSH 0.55, ___ 16.1, CRP 9, tTG 5, ESR 20, SPEP normal, ACTH 
+pending  
+ 
+EGD ___:  
+Gaping lower esophageal sphincter (biopsy)  
+Erythema in the antrum (biopsy)  rough mucosa, bleeding spots in the whole stomach,
+Polyp in the stomach body (polypectomy)  
+Normal duodenum biopsied to r/o Sprue (biopsy)  
+Otherwise normal EGD to third part of the duodenum  
+
+Abdominal ultrasound ___:  
+Normal abdominal ultrasound with no acute process to explain the patient's epigastric pain.  
+
+CT Abdomen and Pelvis ___:  
+1. No acute problem identified on CT imaging of the abdomen or pelvis.  
+2. Likely simple cyst within the right ovary. 
+ 
+MRI Head ___:  
+1. No acute intracranial abnormality and no space-occupying esion.  
+2. Asymmetric prominence of the left lateral ventricle and probable ___ cisterna magna, both normal variants.

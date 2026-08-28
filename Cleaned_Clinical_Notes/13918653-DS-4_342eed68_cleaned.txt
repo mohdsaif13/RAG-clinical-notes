@@ -1,0 +1,72 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Polyuria and Polydipsia
+
+=== PATIENT HISTORY ===
+w/ h/o Hep C, unknown how he contracted it, not tolerant of interferon therapy presents with 2wk h/o of increase thirst, polyuria (up to 10x/day, clear urine), and diziness exacerbated by standing, and anorexia.  Also endorses a 15lb weight loss in the last month.  The symptoms became increasingly worse when his mouth became extremely dry which made it difficult for him to talk, increase diziness, new onset of non-radiating epigastric pain, and distended abdomen. Patient denies having any symptoms like this in the past.  No family history of diabetes other than an aunt.  Patient denies any recent fevers, chills, nausea, vomiting, diarrhea, or sick contacts.  denies productive cough. Patient also notes that his skin is getting darker.
+﻿
+On ROS, per above, with also dry cough which he says is chronic, and bright red blood spotting the toliet paper, not filling the bowl, which he attributes to his hemorrhoids.  Patient also endorses some audio hallucinations of cop sirens and "voices speaking around him" however says they are non-threatening and he is able to distinguis them from reality.  No visual hallucinations.  No suicidal ideation.  Otherwise, ROS neg.
+﻿
+In the ED, the patient's admission vitals were 98.4 77 152/74 18 98% RA. The patient was given a bolus of 1L NS, and 10U of insulin.  The patient was then transfered to the floor.  Vitals on transfer was: 98.2 75 128/74 14 98%  
+﻿
+
+=== PAST MEDICAL HISTORY ===
+Hepatitis C, unclear transmission, denies transfusion, IVDU
+HTN
+Depression
+Anxiety
+GERD
+BPH
+
+=== FAMILY HISTORY ===
+Aunt with diabetes, otherwise no contributory
+
+=== PHYSICAL EXAM ===
+ADMISSION PHYSICAL EXAM:
+VS:97.5, 130/69, 18, 98% RA
+Supine BP: 130/69
+Sitting BP: 125/73
+Standing BP: 129/72
+General: Pleasant gentleman, looks younger than stated age, NAD
+HEENT: PERRL, MMM, EOM-I, no oral lesions   
+Neck: Supple, no lymphadenopathy   
+CV: RRR, S1 S2, no R/G/M  
+Lungs: CTA-B, no wheezes, crackles
+Abdomen: abdomen distended, soft, tender to deep palpation epigastric and LLQ without radiation, no guarding, rebound tenderness
+GU: Uncircumcised, fully developed.  Testicles are soft bilaterally.
+Ext: No cyanosis, rashes, pitting edema.  Peripheral pulses present and full bilaterally   
+Neuro: strength in upper/lower extremities, grossly normal, no focal deficits
+
+=== LABS AND IMAGING ===
+ADMISSION LABS
+WBC-8.2 RBC-4.96 Hgb-15.4 Hct-43.2 MCV-87 MCH-31.0 MCHC-35.6* 
+RDW-12.1
+Neuts-53.0 Monos-4.8 Eos-0.9 Baso-1.3PTT-32.8 
+Glucose-405* UreaN-21* Creat-1.2 Na-131* K-3.7 Cl-94* HCO3-26 AnGap-15
+Albumin-4.0 Calcium-9.4 Phos-3.5 Mg-1.9
+﻿
+MISC LABS
+___ Lipase-399*
+___ Lipase-57
+___ calTIBC-403 Ferritn-1597* TRF-310
+___ %HbA1c-10.8* eAG-263*
+___ Triglyc-403*
+﻿
+C-PEPTIDE TEST
+C-P0     2.2ng/ml
+C-P30    2.83ng/ml
+C-P60    6.40ng/ml
+C-P120   11.3ng/ml
+C-P180   4.2ng/ml
++ C-peptide release test hints the peak relate, did not fall back to fasting values at 180min.
+
+INSULIN TEST
+Insulin      25mlU/L
+Insulin30    90mlU/L
+Insulin60    218mlU/L
+Insulin120   256mlU/L
+Insulin180   102mlU/L
++ Insulin release teat hints the peak relate,did not fall back to fasting values at 180min.
+
+CX
+IMPRESSION:  Low lung volumes, which accentuate the bronchovascular markings.  Otherwise, no acute cardiopulmonary process. 
+﻿

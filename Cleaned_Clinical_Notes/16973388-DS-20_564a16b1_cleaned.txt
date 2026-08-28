@@ -1,0 +1,42 @@
+=== PATIENT HISTORY ===
+The patient is a woman with a complicated and extensive previous medical history significant for multiple sclerosis,and for which she is on prednisone for a relatively long time and has developed adrenal insufficiency as a consequence, status post partial right nephrectomy for renal cell carcinoma, sarcoidosis, Hashimoto thyroiditis, asthma, osteoporosis, hypertension,sleep apnea, and gastric ulcer.
+
+The patient underwent a left hemithyroidectomy 2 years ago at another institution for a nodule that turned out to beenign. Recent ultrasound-guided fine-needle aspiration biopsies of the 2 right-sided thyroidnodules have provided evidence of cytology.
+
+=== PAST MEDICAL HISTORY ===
+- Multiple sclerosis 
+- Adrenal insufficiency
+- Sympathotonic orthostatic hypotension
+- Renal cell carcinoma s/p R partial nephrectomy
+- Pulmonary sarcoidosis
+- thyroiditis
+- GERD
+- recurrent UTIs
+- osteoporosis
+- asthma
+- chronic sinusitis
+- ocular migraines
+
+=== FAMILY HISTORY ===
+Mother - breast ca, lung ca, colon ca, leukemia
+Family history of thyroiditis but no thyroid cancer
+
+=== PHYSICAL EXAM ===
+T 99, BP 120/76, HR 84, RR 18, O2 96%RA
+General: A&O, NAD
+HEENT:No scleral icterus, mucus membranes dry; surgical incision steris c/d/i mild eccymosis, mild edema, no hematoma 
+Cardiac: RRR, No M/G/R
+Pulmonary: Clear to auscultation b/l, No W/R/R
+Abdomen: Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses
+Extremities: warm well perfused, no ___ edema
+
+=== LABS AND IMAGING ===
+___ 01:02PM BLOOD Na-140 K-3.2* Cl-101
+___ 06:30AM BLOOD Glucose-93 UreaN-27* Creat-0.7 Na-141 K-4.0 Cl-105 HCO3-30 AnGap-10
+___ 01:02PM BLOOD Calcium-8.4
+___ 05:15AM BLOOD Calcium-7.1*
+___ 01:17PM BLOOD Calcium-8.2*
+___ 06:00AM BLOOD Calcium-7.5*
+___ 06:30AM BLOOD Calcium-7.9* Phos-3.5 Mg-2.1
+
+FNA examination revealed non-malignant tumor.

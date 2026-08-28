@@ -1,0 +1,86 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+back pain
+
+=== PATIENT HISTORY ===
+Mr. ___ is a ___ year old male with end stage kidney disease on peritoneal dialysis, hypertension, complete heart block and coronary artery disease who presented to ___ ___ with acute onset of back, chest, and jaw pain.  A chest CT scan showed a Type A dissection of the aorta.  He was intubated and sedated.  He transferred to ___ for emergency surgery.
+
+=== FAMILY HISTORY ===
+unobtainable
+
+=== PHYSICAL EXAM ===
+PE:  BP 110/67 by ___  HR 80 (SR)
+General - intubated and sedated, aline left radial
+HEENT - intubated, central line RIJ
+Lungs - BS bilaterally
+Cardio - NSR, TEE - trace to mild AI, EF around 35%, Abdomen - PD catheter LLQ, soft
+Ext - +1 edema
+Neuro - intubated and sedated
+
+=== LABS AND IMAGING ===
+BP (mm Hg): 110/70  Wgt (lb): 220  
+HR (bpm): 65  BSA (m2):  
+Indication: Evaluate Valves, 
+Ventricular Function, Wall motion  
+ICD-9 Codes: 441.00 
+Test Information  
+Date/Time: ___ at 22:52    ___ MD: ___, MD 
+
+Test Type: TEE (Complete) Sonographer: ___, MD 
+Doppler: Full Doppler and color Doppler Test Location: 
+Anesthesia West OR cardiac 
+Contrast: None Tech Quality: Adequate 
+Tape #: ___-: Machine: u/s 6 
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+Left Atrium - Long Axis Dimension:  *5.5 cm  <= 4.0 cm  
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm 
+ 
+Left Ventricle - Diastolic Dimension:  *7.2 cm  <= 5.6 cm  
+Left Ventricle - Ejection Fraction:  40% to 50%  >= 55%  
+Left Ventricle - Stroke Volume:  44 ml/beat     
+Left Ventricle - Cardiac Output:  2.87 L/min     
+Left Ventricle - Peak Resting LVOT gradient:  1 mm Hg  <= 10 mm 
+Hg  
+Aorta - Annulus:  2.6 cm  <= 3.0 cm  
+Aorta - Sinus Level:  *3.7 cm  <= 3.6 cm  
+Aorta - Sinotubular Ridge:  *3.6 cm  <= 3.0 cm  
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm  
+Aorta - Arch:  *3.6 cm  <= 3.0 cm  
+Aorta - Descending Thoracic:  *3.3 cm  <= 2.5 cm  
+Aortic Valve - Peak Velocity:  0.8 m/sec  <= 2.0 m/sec  
+Aortic Valve - Peak Gradient:  3 mm Hg  < 20 mm Hg  
+Aortic Valve - Mean Gradient:  1 mm Hg     
+Aortic Valve - LVOT VTI:  9     
+Aortic Valve - LVOT diam:  2.5 cm     
+Aortic Valve - Valve Area:  *2.6 cm2  >= 3.0 cm2  
+ 
+Findings  
+LEFT ATRIUM: Moderate ___. 
+
+LEFT VENTRICLE: Mild symmetric LVH. Severely dilated LV cavity. Mild global LV hypokinesis. 
+
+AORTA: Normal aortic diameter at the sinus level. Normal aortic arch diameter. Mildly dilated descending aorta. Ascending aortic intimal flap/dissection.. Aortic arch intimal flap/dissection. Descending aorta intimal flap/aortic dissection. 
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. Mild (1+) 
+AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate 
+(2+) MR. 
+
+___ VALVE: Normal tricuspid valve leaflets with trivial 
+TR. Mild [1+] TR. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. 
+No PR. 
+
+PERICARDIUM: Small pericardial effusion.  
+Conclusions  
+Pre Bypass: The left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity is severely dilated. There is mild global left ventricular hypokinesis (LVEF = 40-50%) with some moderate inferior wall hypokinesis. The descending thoracic aorta is mildly dilated. A mobile density is seen in the ascending aorta consistent with an intimal flap/aortic dissection. A mobile density is seen in the aortic arch consistent with an intimal flap/aortic dissection. A mobile density is seen in the descending aorta consistent with an intimal flap/aortic dissection. The dissecton appears roughly 2 cm above the sinotubular junction and exents as far into the descending aorta as can be visualized. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. There is a small pericardial effusion. 
+
+___ 05:00AM BLOOD WBC-8.2 RBC-2.93* Hgb-9.1* Hct-26.5* 
+MCV-91 MCH-31.0 MCHC-34.3 RDW-15.6* Plt ___
+___ 05:27AM BLOOD ___ PTT-28.1 ___
+___ 05:00AM BLOOD Glucose-84 UreaN-60* Creat-10.5*# Na-134 
+K-4.3 Cl-93* HCO3-25 AnGap-20
+___ 05:00AM BLOOD ALT-41* AST-25 LD(LDH)-255* AlkPhos-79 
+Amylase-98 TotBili-0.3

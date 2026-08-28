@@ -1,0 +1,59 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+hyperglycemia
+
+=== PATIENT HISTORY ===
+He is a man admitted from the ED with critically high blood sugars.  He managed in the past with oral agents.  He has most recently been on both metformin and oral prednisone.  The oral prednisone was prescribed by ENT doctor nasal polyps.  The course of prednisone is now complete and he is no longer on this medication (last took when taper completed).  He was not able to be transitioned to insulin therapy safely in the outpatient setting.  Please see OMR notes from NP Brain doctor.
+.
+Patient reports significant fatigue, urinary frequency.  He says he has suffered considerably with his nasal polyps.  He denies any recent chest discomfort but says that sometimes with extreme exertion, he'll get anterior chest discomfort.  He denies any shortness of breath.  He is otherwise feeling well. 10 point review of systems is negative except for noted above.
+
+=== PAST MEDICAL HISTORY ===
+1) Hypertension
+2) h/o cocaine and alcohol abuse - none x per patient, active in AA
+3) h/o homelessness
+4) Allergic rhinitis with nasal polyps
+
+=== FAMILY HISTORY ===
+Mother, Father both deceased, unclear reasons, both had DM2.Sister with DM2, on insulin therapy.  Three children live with their mother, their health is fine as far as he is aware.
+﻿
+
+=== PHYSICAL EXAM ===
+GEN: Well-appearing middle-aged man, in no apparent distress
+VS: 98.5  122/86  95  20  97% RA - patient reports weight = 176 lbs
+HEENT: anicteric, PEERL, o/p without lesion, edentuous
+NECK: supple, no LAD, no JVD
+CV: reg rate, no m/r/g
+LUNGS: CTA bilaterally with good air entry
+ABD: soft, NT/ND, no masses
+EXT: warm, no edema, no foot ulcers
+NEURO: alert, grossly intact, provides coherent HPI, gait normal
+PSYCH: appropriate
+SKIN: dry, no rash
+
+Brief Hospital Course:
+He is a man with HTN, admitted with dehydration and marked hyperglycemia in need of insulin therapy. This was not able to be be achieved safely in the outpatient setting so he is thus admitted to ensure safe care.  Metformin was continued at it's current dose. There was concern that Lantus would be too expensive for him given his current insurance, so he was given insulin 70/30 so he would only need 2 injections a day. His fasting glucose was 170 with this. He will record his fasting glucoses for the next week so his insulin can be adjusted.﻿
+
+=== LABS AND IMAGING ===
+___ 02:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG
+___ 12:45PM   GLUCOSE-383* UREA N-10 CREAT-0.9 SODIUM-132* POTASSIUM-5.0 CHLORIDE-95* TOTAL CO2-29 ANION GAP-13
+___ 12:45PM   WBC-8.4 RBC-4.31* HGB-11.0* HCT-34.9* MCV-81* MCH-25.6* MCHC-31.6 RDW-12.9
+___ 12:45PM   NEUTS-58.1 MONOS-4.3 EOS-6.7* BASOS-0.3
+___ 12:45PM   PLT COUNT-294
+___ 07:52AM   UREA N-8 CREAT-0.9 SODIUM-135 POTASSIUM-5.0 CHLORIDE-93* TOTAL CO2-30 ANION GAP-17. EKG - normal sinus rhythm without ischemic changes
+
+C-PEPTIDE RELEASE TEST:
+C-P0          2.64ng/ml
+C-P30         3.89ng/ml
+C-P60         11.74ng/ml
+C-P120        16.48ng/ml
+C-P180        8.10ng/ml
+
+C-peptide release test hints the peak relate,did not fall back to fasting values at 180min.
+
+INSULIN RELEASE TEST:
+Insulin       6.300mlU/L
+Insulin30     58.85mlU/L
+Insulin60     197.4mlU/L
+Insulin120    258.3mlU/L
+Insulin180    96.20mlU/L
+
+Insulin release test hints the high insulin levels and related peak,did not fall back to fasting values at 180min.

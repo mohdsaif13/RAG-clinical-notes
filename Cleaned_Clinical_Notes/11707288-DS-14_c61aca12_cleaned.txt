@@ -1,0 +1,58 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Shortness of Breath
+
+=== PATIENT HISTORY ===
+38 y/o F with HTN, depression, and anxiety who presented to the ED after being seen in her PCPs office for a 3 day history of cough, SOB, and wheezing for concern for a COPD exacerbation vs infection. At her PCP office, she was noted to desat to 93% while walking on RA and unable to adequately perform a peak flow. She reports a few days prior of feeling tired and having a sore throat that has since improved but then noticed getting a cough with green phlegm, wheezing and SOB that were not amenable to her usual flovent and albuterol that she takes PRN. She denies any f/n/v but has had some chills. No known sick contacts. She has not been hospitalized for a COPD exacerbation for many years and feels like this is consistent with prior episodes including on a little more than a year ago. She denies any swelling, long travel, DOE, or known cardiac disease.
+
+Otherwise she has been in her usual state of health without any complaints.
+ 
+In the ED, initial VS were 100.0 93 111/54 18 96/4L NC. Received azithromycin 500mg x1, 3 x nebs, prednisone x1, and ceftriaxone 1 gram.  Transfer VS were 98.0 87 118/83 20 97/4L.
+
+On arrival to the floor, patient reports significant improvement in her symptoms.
+
+=== PAST MEDICAL HISTORY ===
++Hysterectomy
++hx abd wall surgery
++OSA
++Back pain
++GERD
++Osteoporosis
++HTN
++Depression
++Restless leg syndrome
++Oral sores
+
+=== FAMILY HISTORY ===
+Father with heart issue.
+Mother with stomach cancer.
+
+=== PHYSICAL EXAM ===
+ADMISSION PHYSICAL EXAM:  
+98.0 87 118/83 20 97/4L.
+General: Elderly lady lying in bed in NAD
+HEENT: NCAT
+Neck: No e/o JVD
+CV: RRR, no m/r/g, nml S1/S2
+Lungs: Coarse breath sounds heard bilaterally in lower lung fields with end expiratory wheezes
+Abdomen: Soft, NT/ND, +BS, no hepatosplenomegaly
+GU: No foley
+Ext: No c/c/e
+Neuro: Grossly normal, PEERL
+Skin: No rashes
+
+=== LABS AND IMAGING ===
+___ 06:55AM BLOOD WBC-6.4 RBC-3.88* Hgb-11.9* Hct-36.7 MCV-95 MCH-30.6 MCHC-32.4 RDW-11.8 Plt ___
+___ 04:05PM BLOOD WBC-7.3 RBC-4.09* Hgb-12.8 Hct-38.4 MCV-94 MCH-31.3 MCHC-33.4 RDW-12.0 Plt ___
+___ 06:55AM BLOOD Glucose-187* UreaN-29* Creat-0.7 Na-140 K-3.7 Cl-103 HCO3-25 AnGap-16
+___ 04:05PM BLOOD Glucose-90 UreaN-21* Creat-0.9 Na-132* K-8.7* Cl-96 HCO3-26 AnGap-19
+___ 04:05PM BLOOD cTropnT-<0.01
+___ 04:05PM BLOOD proBNP-95
+___ 06:55AM BLOOD Calcium-9.3 Phos-2.9 Mg-2.0
+___ 04:15PM BLOOD Lactate-1.0 Na-139 K-4.4
+
+UA: Negative
+
+CXR (___):
+IMPRESSION:  No acute cardiopulmonary process.
+
+A significant improvement in FEV1 of more than 12% and 400 ml from baseline after administration of a bronchodilator confirms the reversibility of airflow obstruction.

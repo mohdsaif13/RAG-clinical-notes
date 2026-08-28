@@ -1,0 +1,68 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Shortness of breath, chest pain
+
+=== PATIENT HISTORY ===
+A 46 yo male otherwise healthy gentlemen. Patient was in his normal state of health until approximately 4 days prior to admission when he began to experience non-radiating chest pressure. The chest pain was non-exertional and seemed to be triggered by alcohol use over the weekend.  He initially experienced chest discomfort without any associated symptoms after taking Metronidazole and Maalox for recent H. pylori diagnosis. He thought the combination of Metronidazole and Flagyl triggered this chest discomfort, which resolved in a few hours. He had a similar experience, which again persisted for a few hours before resolving. He denies any prior history of chest pain, and maintains that he is active and runs without any limitations inflicted by chest pain or shortness of breath.
+
+Earlier on the day of presentation, patient was driving home and began to experience a similar chest discomfort, though this time was more severe. The chest pressure was  unremitting without any associated symptoms and patient presented to OSH for further evaluation. 
+
+At OSH, he was loaded with ASA, heparin and trailed SL nitro. He was transferred for cardiac catheterization. He underwent cardiac cath and had 1 DES placed left CX-OM with good result via right radial approach. Post-PCI EKG demonstrated improvement in ST-elevations
+
+On arrival to CCU, patient is chest pain free. He denies any shortness of breath, nausea/vomiting, palpitations, dizziness or lightheadedness.
+
+ROS: Positive per HPI. Remaining 10 point ROS reviewed and negative.
+
+=== PAST MEDICAL HISTORY ===
+Recently diagnosed H. pylori
+
+=== FAMILY HISTORY ===
+Father "heart issues." Mother with CAD. MGM with MI. HTN in maternal aunts/uncles. No history of diabetes. No history of sudden unexplained death in young individuals. No history of arrhythmias.
+
+=== PHYSICAL EXAM ===
+GENERAL: Well developed, well nourished in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL.  EOMI.
+
+NECK: Supple. JVP not elevated  
+CARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or gallops.  
+LUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No adventitious breath sounds.  
+ABDOMEN: Soft, non-tender, non-distended. No palpable hepatomegaly or splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  
+SKIN: No significant lesions or rashes.  
+PULSES: Right radial with bandage and good distal pulse 
+NEURO:  No focal deficits
+
+=== LABS AND IMAGING ===
+Hematology 
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt 
+
+Ct 
+___ 06:26AM    8.3 4.52* 13.5* 41.9 93 29.9 32.2 13.1 
+44.6 221 Import Result 
+___ 02:20AM    10.6* 4.60 13.9 41.6 90 30.2 33.4 12.9 
+42.3 232 Import Result 
+ BASIC COAGULATION ___, PTT, PLT, INR) ___ PTT Plt Ct ___ 
+___ 06:26AM        221   Import Result 
+___ 02:20AM        232   Import Result 
+___ 02:20AM    13.1* 36.7*   1.2* Import Result 
+
+ 
+ 
+Chemistry 
+ RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 06:26AM    ___ 142 4.1 ___ Import Result 
+___ 02:20AM    115* 10 0.7 142 4.1 ___ Import 
+Result 
+ESTIMATED GFR (MDRD CALCULATION) estGFR 
+___ 02:20AM    Using this Import Result 
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron 
+___ 06:26AM          8.8 3.5 2.4     Import Result 
+___ 02:20AM          8.7 3.3 2.0     Import Result 
+ 
+
+TTE: 
+IMPRESSION: Mild inferolateral hypokinesis consistent with single vessel coronary artery disease. Mild tricuspid regurgitation. Moderate pulmonary hypertension.
+
+PCI: Percutaneous Coronary Intervention: Percutaneous coronary intervention (PCI) was performed on an ad hoc basis based on the coronary angiographic findings from the diagnostic portion of this procedure. A 6___ EBU3.5 guide provided adequate support. Crossed with a Prowater wire into the distal OM.
+
+Predilated with a 2.5 mm balloon and then deployed a 3.0 mm x 24 mm DES. Postdilated with a 3.5 x 15mm NC balloon in proximal segment at 18 ATM. Final angiography revealed normal flow, no dissection and 0% residual stenosis.
+Complications: There were no clinically significant complications.

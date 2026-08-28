@@ -1,0 +1,51 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+bilateral ear pain, cough, shortness of breath
+
+=== PATIENT HISTORY ===
+He is a 19 y/o M with remote history of childhood asthma presenting with worsening cough and shortness of breath over the past two weeks.  His illness began with bilateral ear aches 2 weeks ago. This was also accompanied by fevers measured to be 103 degrees. His ear pain resolved somewhat, but he has had ongoing dyspnea and productive cough with large amounts of yellow sputum since then. He had one episode of blood-tinged sputum, in the setting of blowing his nose and coughing frequently. He presented to an outpatient provider approximately two weeks prior to admission who prescribed him a six-day course of azithromycin. He had a mild improvement in his symptoms and also took amoxicillin.
+
+One day prior to admission, his symptoms progressed. He presented to the Emergency Dept with worsening dyspnea. In the ED, his initial vital signs were 98.0, 96, 111/72, 88% RA. Exam was notable for pale skin, diminished lung sounds at left base, no wheezes or rhonchi. He was transiently placed on TB precautions, which were discontinued after his CXR came back. He was given doxycycline 100 mg IV ceftriaxone 1g IV, vancomycin 1g, and levofloxacin 500 mg PO, as well as multiple doses of duonebs and 2 liters of IV fluids. 
+
+Upon arrival to the ICU, he felt his breathing was improved and he was not feeling dyspneic as long as his oxygen mask is on. He endorsed a poor appetite, a 20 lb weight loss, and drenching sweats over the past two weeks. He reported no nausea, vomiting, or abdominal pain.
+
+=== PAST MEDICAL HISTORY ===
++Childhood asthma
++episode of pneumonia as an infant
+
+=== FAMILY HISTORY ===
+No known lung disease. Grandmother with CHF and adult-onset 
+diabetes.
+
+=== PHYSICAL EXAM ===
+Vitals: Temp: 98.5 BP: 129/73 HR:89 RR:25 O2sat: 91% on 80% high flow oxygen
+GEN: pleasant, speaking in full sentences, taking shallow breaths, appears generally ill and pale, but in NAD  
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no supraclavicular or cervical lymphadenopathy, no jvd  
+RESP: +Bronchial breath sounds over left base. Decreased BS over right base. No wheezes or rhonchi. No crackles. Deep inspiration interrupted by frequent coughing.  
+CV: RRR, S1 and S2 wnl, no m/r/g  
+ABD: NABS, soft, nt, no masses or hepatosplenomegaly, no rebound tenderness or guarding.
+EXT: no c/c/e  
+SKIN: mild erythematous patches at site of prior telemetry leads. No other rashes/jaundice/no splinters  
+NEURO: AAOx3. Cn II-XII intact. strength throughout. No sensory deficits to light touch.
+
+=== LABS AND IMAGING ===
+- WBC-8.4 (NEUTS-82.4* LYMPHS-10.6* MONOS-5.8 EOS-0.6 BASOS-0.6) RBC-3.46* HGB-10.7* HCT-30.8* MCV-89 MCH-30.8 MCHC-34.6 RDW-12.0 PLT COUNT-418
+ - ___ 05:55AM   GLUCOSE-102* UREA N-6 CREAT-0.8 SODIUM-140 POTASSIUM-3.4 CHLORIDE-107 TOTAL CO2-26 ANION GAP-10 ALBUMIN-3.0* CALCIUM-7.9* PHOSPHATE-3.1 MAGNESIUM-2.0ALT(SGPT)-33 AST(SGOT)-21 LD(LDH)-200 ALK PHOS-74 TOT BILI-0.4 DIR BILI-0.2 INDIR BIL-0.2
+ - ___ 05:55AM   ___ PTT-30.1 ___
+ - ___ 03:54PM   FIBRINOGEN-696* HAPTOGLOB-464*
+ - ___ 03:54PM   HIV Ab-NEGATIVE
+ - ___ 03:54PM   LDH negative
+
+MICROBIOLOGY:
+1. Sputum Culture from ___ (per report)
+ - >25 PMNs and <10 epithelial cells/100X field. 
+ - Multiple organisms consistent with Streptococcus pneumoniae. 
+
+2. Respiratory Viral Culture (Final ___: 
+ - No respiratory viruses isolated. Culture screened for Adenovirus, Influenza A & B, Parainfluenza type 1,2 & 3, and Respiratory Syncytial Virus. Detection of viruses other than those listed above will only be performed on specific request.
+
+RADIOLOGY:
+1. initial CXR and CT performed at ___
+
+2. ___ portable CXR: No previous images. The heart is normal in size and there is no vascular congestion. There is increased opacification involving the left base with obliteration of the hemidiaphragm and costophrenic angle. 
+
+3. ___ portable CXR: AP chest compared to large area of left lower lobe consolidation and a smaller region on the right have both improved minimally. Small bilateral pleural effusions persist. Upper lungs are clear. Heart size is normal.

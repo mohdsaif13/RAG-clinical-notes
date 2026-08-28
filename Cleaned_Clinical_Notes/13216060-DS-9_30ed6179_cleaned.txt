@@ -1,0 +1,68 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Chest pain
+
+=== PATIENT HISTORY ===
+She presented with chest pain of 1 days duration.  Pt reports vague history of developing diffuse dull chest pain while walking, which then became sharp at times and lasted 4 hours.  Symptoms were associated with shortness of breath, diaphoresis, mild nausea, radiation of pain to jaw and numbness of both hands.  However, in the ED patient denied shortness of breath.  Patient reports he typically takes SL nitro at home for this type of chest pain with resolution of pain, but did not have nitro with him during this episode.  He sat down, but pain was not relieved by rest.  Chest pain resolved when he was given Nitro in the ED.  
+
+Pt reports occasional episodes of similar chest pain, and also gives a vague history of a prior MI, does not remember where he was seen for this.  He reports there was "talk of a stent" but this was ultimately not placed because "there was no need."  He reports having two stress tests in the past, and believes they were normal but cannot remember where he had the stress tests.
+
+Patient also reports occasional episodes of feeling his heart racing, which occasionally causes him to become dizzy with diaphoresis, occasional chest pressure, and occasional loss of consciousness.  Denies incontinence with these episodes, denies confusion/disorientation upon waking, but does report he had "seizures" as a child.  Patient reports months ago, he fell while walking (from tripping in a pot hole) and hit his chest, causing pain in his sternum, which he attributes to a "healing fracture or chip".
+
+Of note, patient was very distracted during interview with poor attention.  He also fell asleep several times during the interview, and upon being awoken reported he has not slept for several days because he "cannot fall asleep" and attributes confusion to this.
+
+In the ED, initial vs were: T98.4 HR 77 BP 112/80 R16 97% RA. Strange affect noted.  CT head negative, CXR unremarkable.  First set CEs negative, EKG showed TWIs as described below.  Patient was given ASA but refused this, refused KCl repletion. Felt not to be a good obs candidate and was admitted to medicine.
+
+On the floor, patient reported continued chest pain but continued to give a vague, somewhat inconsistent history.
+
+Review of sytems:  
+Denies fever, chills, night sweats. Denied cough, recent palpitations. Denied vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denied arthralgias or myalgias other than his "typical" pain.
+
+=== PAST MEDICAL HISTORY ===
++Hypertension
++history of traumatic head injury.
++history of coronary artery disease
++prior MI
+
+=== FAMILY HISTORY ===
+Reports family members had lung cancer, uterine cancer, gallbladder cancer.
+
+=== PHYSICAL EXAM ===
+Vitals: T: 96.1    BP: 140/82    P: 80     R: 22    PO2: 96%RA
+General: Alert, oriented, unkept in appearance, no acute distress  
+HEENT: PERRL at 1-1.5mm, sclera anicteric, MMM, oropharynx clear
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  
+Abdomen: Soft, non-distended, bowel sounds present, minimally tender to palpation at LLQ without rebound or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  
+Neuro:  Strength in UE and sensation intact to light touch, CN II-XII intact though pt had difficulty following instructions.
+Psych:  Rapid pressured speech, tangential thinking but redirectable, poor attention, paranoid speech and behavior (drew shade of window because he felt the workers were spying on him, also reports a doctor had "punched a hole" in his ear in the past and was trying to intentionally harm him), denies visual or auditory hallucinations.  Reports not sleeping for the past several days, but vague when asked why - denies excessive spending, increased energy, periods of low energy and depressed mood.
+
+=== LABS AND IMAGING ===
+___    11:03a   
+CK: 220  MB: 6  Trop-T: <0.01  
+Ca: 9.0 Mg: 2.2 P: 3.4
+ALT: 17 AP: 53 Tbili: 1.6 Alb:  
+AST: 16 LDH: 175 Dbili:  TProt:  
+TSH:Pnd 
+___    04:05a   
+Trop-T: <0.01    CK: 266  MB: 8  
+145  109  16        AGap=15 
+------------- 100 
+3.2  24  0.8  
+Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Negative 
+     12.9
+6.4 ------ 210 
+     38.5  
+N:56.4 L:35.3 M:5.3 E:1.9 Bas:1.1 
+
+
+Images/Studies:  
+
+Stress ___ - No anginal symptoms or ischemic ST segment changes. Nuclear report sent separately. Globally depression cardiac function with normal perfusion consistent with cardiomyopathy. LVEF 33% 
+
+CXR ___ - No acute cardiopulmonary process.
+
+CT head ___ - No acute intracranial process.  Hypodensity in the centrum semiovale measuring 5 mm may represent a prior lacunar infarct or a perivascular space. There is focal mucosal thickening of the left maxillary sinus. 
+
+EKG:  NSR at 80bpm, normal axis, QTc minimally prolonged, TWI in III, aVR, <1cm ST depressions in III, III, aVF, <1cm ST elevations in I, aVL, V6.

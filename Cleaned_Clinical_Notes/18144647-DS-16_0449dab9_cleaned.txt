@@ -1,0 +1,35 @@
+=== PATIENT HISTORY ===
+She is a female with a known 0.8 cm pituitary mass, initially discovered on work-up for irregular menses.
+
+=== PAST MEDICAL HISTORY ===
++ SVT s/p ablation
++ HTN
+
+=== FAMILY HISTORY ===
+Mother with RA, borderline DM2
+
+=== PHYSICAL EXAM ===
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious [ ]None
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex [ ]None
+Pupils: PERRL
+EOMs: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+
+        Trap   Deltoid   Biceps   Triceps   Grip
+Right   5      5         5        5         5
+Left    5      5         5        5         5
+
+        IP   Quad   Ham   AT   ___   ___
+Right   5    5      5     5    5     5
+Left    5    5      5     5    5     5
+
+Sensation: Grossly intact to light touch.
+
+Visual fields are full to confrontation.

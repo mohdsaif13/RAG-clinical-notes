@@ -1,0 +1,61 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+elective admit
+
+=== PATIENT HISTORY ===
+s is a gentleman with three episodes of unprovoked LOC that led to a neurologic work up.  He reports headaches per month that are bitemporal. He has had a weight loss over the course of ca one month. He had relatively normal visual field studies and a slightly elevated prolactin level with a full endocrinology evaluation. He was  prescribed Androgel but this was not covered by insurance and hence he does not take it.
+
+=== PAST MEDICAL HISTORY ===
+HTN, 
+CHOL, 
+BPH, 
+right renal cyst
+
+=== FAMILY HISTORY ===
+NC
+
+=== PHYSICAL EXAM ===
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils:4=3mm EOMs intact
+RRR
+CTA
+NTTP; ND
+Extrem: Warm and well-perfused.
+
+Neuro:Mental status: Awake and alert, cooperative with exam, normal affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 3mm
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+=== LABS AND IMAGING ===
+___ 03:50AM BLOOD WBC-10.6# RBC-4.52* Hgb-12.5* Hct-39.3* 
+MCV-87 MCH-27.7 MCHC-31.7 RDW-13.6 Plt ___
+___ 03:50AM BLOOD Glucose-139* UreaN-15 Creat-0.8 Na-138 
+K-3.6 Cl-102 HCO3-29 AnGap-11
+___ 03:50AM BLOOD Calcium-8.2* Phos-3.1 Mg-2.0
+___ 03:50AM BLOOD Osmolal-292
+___ 03:50AM BLOOD T4-6.2 calcTBG-0.95 TUptake-1.05 
+T4Index-6.5 Free T4-1.2
+___ 03:50AM BLOOD Cortsol-32.0* - On Hydrocortisone for 
+this lab draw
+___ 03:50AM URINE Color-Yellow Appear-Clear Sp ___
+___ 03:50AM URINE Blood-MOD Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+MRI:
+Pituitary adenomas that are 2.1 cm large in size.

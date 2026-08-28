@@ -1,0 +1,95 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+increasing SOB
+
+=== PATIENT HISTORY ===
+She is a woman with active breast cancer who recently started adriamycin and taxol. She tolerated the first two treatements of taxol but then developed shortness of breath. Suspecting anthracycline-induced cardiomyopathy, she got an echo that was unremarkable. A CTA was performed to evaluate for PE and was also negative. The onc attending wants to admit for a cardiac work-up including possible stress test and PFTs. She is clinically stable, 99% on RA, HR increases to 140s with exercise. She does not appear volume overloaded and lasix for the past few weeks has not changed her symptoms.
+INTERVAL HISTORY: She with stage IIA invasive ductal L. breactcancer s/p bilateral mastectomy who presents for week 4of weekly Taxol s/p dd-AC on trial. Her scheduledweek 4 treatment was held due to persistent edema andexertional shortness of breath.Since her last visit she has had little improvement in her SOB.Her PE-CT was normal and her edema has improved off Taxol.She continues to have exertional SOB associated with mildsubsternal discomfort which resolves with rest in less than. No rest pain, N/V, dizziness. She denies fevers,chlls, cough. She is able to walk slowly for several meterswithout symptoms. No PND. No palpitations.She continues to have some rectal pain with bowel movements whichshe describes as throbbing/burning/itching. There is no painbetween bowel movements. She rarely notices a small amount ofblood on several of her stools. She is using baby wipes and buttpaste to minimize the irritation. No fevers or chills. Herappetite is below baseline although her weight is stable. She denies N/V. Her hot flashes, and sweating have nearly resolved. Shecontinues to sporadic headaches, and denies associated visionchanges, neck stiffness, focal weakness. Her sleep hassignificanly improved on Trazadone and she is currently using150mg PO QHS.ROS:A complete review of systems is otherwise negative. 
+﻿
+
+=== PAST MEDICAL HISTORY ===
+ONCOLOGIC HISTORY: Left breast Stage IIA Invasive Ductal Cancer
+1. Left breast cancer, stage IIA (pT2 pN0), IDC grade 3, ER/PR+, HER2 negative, premenopausal at diagnosis
+a. patient noted mass, confirmed by PCP
+b. diagnostic left breast imaging lobulated mass in the inferior breast at 6:00, approximately 3 cm by US and 3.3 cm bymammogram
+c. left breast core biopsy; IDC grade 3, ER/PR+, HER2negative by FISH (ratio 0.8)
+d. bilateral mastectomy and left SLNB; right breast nomalignancy; left breast 3.4 cm grade 3 ductal carcinoma withfocal mucinous features, negative SLNB, clear surgicalmargins
+e.bilateral lat flap reconstructions
+f.  No BRCA mutation identified
+g. PORT placed
+h. Debridement of 10 cm of the back, with evacuationof the seroma, closure over a drain, and complex repair.
+i. C1D1 dd-AC on trial TEXT which is APhase III Trial Evaluating the Role of Exemestane Plus GnRHAnalogue as Adjuvant Therapy for Premenopasual Women with Endocrine Responsive Breast Cancer
+j. C2D1 dd-AC
+k. C3D1 dd-AC
+l. C4D1 dd-AC complicated grade 2 mucositis and grade 1fatigue
+m. C1D1 weekly Taxol 80mg/m2
+N. Week 2 Taxol 80mg/m2
+o. Week 3 Taxol 80mg/m2
+p. Week 4 Taxol 80mg/m2--held for fatigue, SOB, worsening edem
+GYN History:
+Past Obstetric and Gynecologic Histories:
+Age at menopause: pre-menopausal
+Pregnancies: none
+Use of oral contraceptives: no
+History of prior radiation: no
+Other PMH:
+Depression
+Bilateral breast reduction
+﻿
+
+=== FAMILY HISTORY ===
+- Maternal grand-mother lung cancer
+- Great-grand-mother breast cancer
+- 2 great aunts breast cancer
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+98.1 124/60 93 20 96%RA
+Walking ambulatory 02 sat 98-99% on RA, heart rate to 140s and regular
+GEN: fatigued appearing.
+HEENT: Pupils equal round and reactive, extraocular movementsintact, OP clear w/o lesions or evidence of thrush.
+NECK: JVP 7cm although difficult to assess habitus
+CV: nl s1s2, tachycardic, no clear S3/4, RV heave or murmur.
+PULM: Clear to auscultation with minimal decrease at bases b/l,no crackles/wheezes. R. chest port side is non-tender withoutoverlying erythema or fluctuance
+ABD: obese,soft, non-tender, non- distended, +Bowel sounds
+LYMPH: no cervical, axillary or inguinal LAD apprecaited
+EXT: warm, well perfused, 2+ non-pitting edema up tibiabilaterally. No erythema or tenderness to palpation.
+SKIN: Well healed L. sided chest-wall incision. No purulence, ortenderness. Her incision is closed without surrounding erythemaor dehiscence. There are no areas of fluctuance.
+NEURO: AOx3, CN2-12 intact, grossly normal sensation, gait steady. 
+﻿
+On admission:
+She ECHO The left atrium is normal in size. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). The ascending aorta is mildly dilated. The aortic valve leaflets are mildly thickened (?#). There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are structurally normal. There is no mitral valve prolapse. No mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.
+﻿
+IMPRESSION: 
+Suboptimal image quality. Normal global left ventricular systolic dysfunction. Right ventricle not well visualized, but function is probably normal. No pathologic valvular disease. Indeterminate pulmonary artery pressure.  
+﻿
+
+=== LABS AND IMAGING ===
+RELEVANT LABS:
+WBC Hct MCV Plt Ct
+___ 11:30 6.5 33.3* 98 324---nearly normal diff
+___ 11:20 6.3 28.8* 98 362
+___ 11:40 6.9 30.4* 91 279
+___ 11:55 8.9 31.9* 90 288
+___ 11:30 6.6 35.6* 91 241
+___ 11:45 6.5 39.2 94 276UreaN Creat
+___ 11:30 14 0.8
+___ 11:40 13 0.8
+___ 11:45 11 0.8ALT AST CK AlkPhos TotBili
+___ 11:30 37 26 43 87 0.4
+___ 11:40 21 16 101 0.2
+___ 11:55 18 16 115* 0.2
+___ 11:30 18 15 108* 0.2
+___ 11:45 16 15 115* 0.2
+___ 13:50 11 16 113* 0.2
+___ 11:24 33 25 85 0.2
+EKG: Sinus rhythm with. nonspecific ST-T wave changes, septalQ-waves. 
+
+BLOOD:
+The patient was found to have TSH that was essentially undetectable.
+
+RELEVANT RECENT IMAGING:
+- PE CT: NO PE. There is no axillary, mediastinal orhilar lymphadenopathy. There are no pleural effusions. No fillingdefects are noted in thepulmonary arteries. On lung windows,there are no masses. No consolidation or nodules are noted.
+- CXR PA+Lat: clear lungs, PORT in place, nocardiomegaly.
+- BID-N TTE: Unchanged, Normal LV wall thickness, cavitysize and regional/global systolic function (LVEF >55%). Normalvalves, trivial MR/TR, no pericardial effusion
+- BID-N TTE: Normal LV wall thickness, cavity size andregional/global systolic function (LVEF >55%). Doppler parametersare most consistent with normal LV diastolic function. Normal valves, trivial MR/TR, no pericardial effusion.
+﻿

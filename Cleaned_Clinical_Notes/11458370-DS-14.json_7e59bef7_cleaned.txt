@@ -1,0 +1,90 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Heartburn
+
+=== PATIENT HISTORY ===
+A woman never smoker, with long hx of a disease managed with high dose ranitidine and restrictive diet. She has been on various PPI therapies and Carafate with limited success. Had an endoscopy and biopsies showed no evidence of helicobacter. There was evidence of chemical/reactive gastropathy. She had a 24-hour impedance-pH study performed OFF PPI therapy, which showed an elevated score of 17.2 (normal < 14.7). Esophageal manometry was normal. Referred for consideration of antireflux surgery.
+She takes Zantac per day, which help, but the symptoms immediately return after the Zantac wears off. She says the heartburn wakes her up at night. She cannot sleep laying flat, must be propped up w/ pillows. Denies regurgitation. Has tried Nexium, which she did not find helpful. She coughs up phlegm in the AM. She notes that over the past months she has been spitting up some blood in the morning when she wakes up. Has a restrictive diet- avoids fruit, caffeine, alcohol, tomato sauce. Denies history of cardiac problems.
+
+=== PAST MEDICAL HISTORY ===
++Anxiety 
++Esophageal reflux 
++Gastritis 
++Colorectal polyps 
++Menopause 
++Migraine without aura and without status migrainosus, not
+intractable 
++Osteoporosis without current pathological fracture 
++Essential hypertension 
++Scoliosis
++Left ovarian cyst
++s/p tonsillectomy
++s/p laparoscopy
+
+=== FAMILY HISTORY ===
+Mother- sarcoidosis, high blood pressure, tinnitus
+Father- high blood pressure, prostate cancer
+Siblings
+Offspring
+Other- grandmother: bone and joint disorder
+
+=== PHYSICAL EXAM ===
+BP: 150/84. Heart Rate: 101. O2 Saturation%: 100. Weight: 113
+(With Shoes). Temperature: 98.3. Resp. Rate: 18. Pain Score: 0.
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [] EOMI   [x] PERRL/A   [x] Anicteric
+[x] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [x] Neck supple/NT/without mass
+[x] Trachea midline [] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA bilaterally    [] Excursion normal     [ ] No fremitus
+[] No egophony   [] No spine/CVAT
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR    [x] No m/r/g    [] No JVD   [] PMI nl  [x] No edema
+[] Peripheral pulses nl    [] No abd/carotid bruit
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  [] No mass/HSM   [] No hernia
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[] Strength intact/symmetric    [] Sensation intact/ symmetric
+[] Reflexes nl     [x] No facial asymmetry [x] Cognition intact
+[] Cranial nerves intact   [ ] Abnormal findings:
+
+MS            
+[] No clubbing   [] No cyanosis   [] No edema   [] Gait nl
+[] No tenderness  [] Tone/align/ROM nl   [] Palpation nl
+[] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl     [] Axillary nl
+[] Inguinal nl   [ ] Abnormal findings:
+
+SKIN           
+[x] No rashes/lesions/ulcers on visible skin
+[] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:
+
+=== LABS AND IMAGING ===
+WBC RBC   Hgb   Hct MCV MCH  MCHC  RDW RDWSD 
+Plt Ct 
+04:02    8.1 3.86* 11.4 36.3 94  29.5 31.4* 12.8 43.9 
+ 163 
+    
+                 Glucose UreaN Creat Na  K   Cl HCO3 AnGap 
+04:02    121*1 17    0.8 139 4.4 102 28    9*

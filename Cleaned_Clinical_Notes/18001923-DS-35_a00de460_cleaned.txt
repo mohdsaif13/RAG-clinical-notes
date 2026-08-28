@@ -1,0 +1,55 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+N/A
+
+=== PATIENT HISTORY ===
+Patient states he developed substernal chest pain yesterday (___) without shortness of breath or radiation to his back. patient endorses a productive cough. patient also has pain when he urinates but denies any hematuria. Pt denies any fever, chills, vomiting, numbness or weakness. He did reprot a productive cough. Patient has a long history of frequent ed visits and admissions for various complaints in the setting of ETOH use. Per previous records at the time of sobriety he 
+becomes combative and elects to leave against medical advice. 
+
+Today in the ED he presented with chest/ abdomina pain and troponins remain negative x2 and EKG without impressive changes CXR revealed worsening consolidations in the RLL which could be c/w a pneumonia in the right clinical setting. The patient was given Po levofloxacin and admitted given his poor social support he remianed ineb
+
+=== PAST MEDICAL HISTORY ===
+- Cirrhosis, complicated by Grade 1 esophageal varices  
+- Hepatitis C, Ab positive, VL 46million on ___  
+- Gastritis  
+- GERD  
+- Colonic angiectasias  
+- Hypertension  
+- Atypical chest pain
+
+=== FAMILY HISTORY ===
+Father had a history of Diabetes Mellitus, Hypertension, 3x 
+Myocardial Infarction (first one age ___, died of MI. Mother had a history of Diabetes Mellitus, Hypertension, breast cancer, and died of colon cancer with at age ___.
+
+=== PHYSICAL EXAM ===
+Vitals: 98 138/76 p 73 R 16 100% on RA  
+GEN - Alert, NAD  
+HEENT - NC/AT, OP clear  
+NECK - Supple  
+CV - RRR, ___ systolic murmur throughout, no r/g  
+RESP - CTA B  
+ABD - S/ND, BS present, diffuse TTP in abdomen and back 
+distractable without rebound or guarding  
+EXT - No ___ edema or calf tenderness  
+SKIN - No apparent rashes  
+NEURO - Nonfocal  
+PSYCH - Calm, appropriate  
+RECTAL: No obvious external lesions
+
+=== LABS AND IMAGING ===
+___ 01:52AM BLOOD WBC-4.0 RBC-2.90* Hgb-8.1* Hct-24.4* 
+MCV-84 MCH-27.8 MCHC-33.0 RDW-17.1* Plt ___
+___ 01:52AM BLOOD Neuts-58 Bands-0 ___ Monos-2 Eos-4 
+Baso-0 Atyps-4* ___ Myelos-0
+___ 01:52AM BLOOD Glucose-96 UreaN-20 Creat-1.2 Na-139 
+K-4.0 Cl-106 HCO3-20* AnGap-17
+___ 01:52AM BLOOD ALT-37 AST-70* AlkPhos-120 TotBili-0.3
+___ 01:52AM BLOOD Lipase-69*
+___ 01:52AM BLOOD cTropnT-<0.01
+___ 09:13AM BLOOD cTropnT-<0.01
+___ 04:15AM BLOOD ASA-NEG Ethanol-64* Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 06:05AM BLOOD Ret Aut-2.1
+___ 11:04AM BLOOD Hgb-8.0*
+
+EGD :  
+Linear erythema,  rough mucosa, bleeding spots

@@ -1,0 +1,38 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+UGIB
+
+=== PATIENT HISTORY ===
+Male without significant PMH on NSAIDs admitted with an upper GI bleed. Initially presented with 1 day of progressive weakness and dizziness last to . His initial Hct was 29 and he was hypotensive with SBP 60. He was transfused with 4 U pRBCs and ruled out for MI. On , he had several episodes of sudden onset projectile vomiting. It was voluminous (several buckets filled), dark colored with dark pieces. After vomiting he states that he felt much better. He did not have pain at any time. Later that day, he had a scope which was non-diagnostic due to blood. He had another EGD the following morning and which was injected with epinephrine. GI did not feel the need to place a band. On the morning of transfer, his Hct was 25 and he received 2 more Units. He was not tachycardic and SBP was 110. He did have 4 BMs that were tarry black.
+Upon arrival to the MICU, Afebrile, BP 125/88, HR 88, RR 18 100% RA. He was seen by GI who recommended PPI, clear diet and endoscopy in AM.
+
+=== PAST MEDICAL HISTORY ===
++RUL CAP PNA
+
+=== FAMILY HISTORY ===
+Mother - she has bullous pemphigoid.
+Father has MI.
+
+=== PHYSICAL EXAM ===
+Vitals: T: A BP: 125/88 P: 88 R: 18 O2: 100%  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+
+=== LABS AND IMAGING ===
+07:05PM BLOOD WBC-12.4*# RBC-4.05* Hgb-12.6* Hct-34.9* MCV-86# MCH-31.2 MCHC-36.2* RDW-17.1* Plt
+11:39PM BLOOD Hct-30.5*
+03:48AM BLOOD WBC-9.2 RBC-3.47* Hgb-10.8* Hct-29.9* MCV-86 MCH-31.2 MCHC-36.1* RDW-17.4* Plt
+01:46PM BLOOD Hct-30.4*
+07:06PM BLOOD PTT-26.4
+03:48AM BLOOD Glucose-103* UreaN-7 Creat-0.5 Na-141 K-3.6 Cl-112* HCO3-23 AnGap-10
+07:05PM BLOOD Calcium-8.7 Phos-2.4* Mg-2.1
+
+03:06AM BLOOD WBC-9.1 RBC-3.71* Hgb-11.6* Hct-32.4* MCV-87 MCH-31.2 MCHC-35.7* RDW-17.0* Plt
+03:06AM BLOOD Glucose-102* UreaN-9 Creat-0.7 Na-143 K-3.5 Cl-109* HCO3-28 AnGap-10
+03:06AM BLOOD Calcium-8.8 Phos-3.7 Mg-2.1
+EGD：Gastric ulcer with bleeding

@@ -1,0 +1,57 @@
+=== PATIENT HISTORY ===
+The patient presents with a cough producing thick yellow sputum and has not experienced rhinorrhea, sore throat, or post-nasal drip. One week prior, he visited his primary care physician and was diagnosed with a viral syndrome, receiving guaifenesin, Cepacol, and loratadine for symptom relief. Despite this treatment, his symptoms persisted, and five days ago, he began experiencing fevers concurrent with the cough. He sought care at the emergency department, where a chest X-ray showed no abnormalities, and he was discharged with a prescription for levofloxacin. At home, his fevers escalated to 103 degrees Fahrenheit, and he developed chest pain that intensified with the fevers, prompting a return to the emergency department for further assessment. The chest pain, centered beneath the sternum, occurs only during febrile episodes and reaches a significant intensity. There is no associated arm pain or sensations of numbness or tingling.
+
+This presentation does not align with his typical anginal pain. During his emergency department visit, he was fever-free, appeared clinically stable, and maintained normal oxygen levels on room air. He was admitted to the general medicine ward for continued management.
+
+Additionally, he reports nausea accompanying his high fevers but no vomiting or diarrhea. He experiences back pain but no muscle aches or rashes. He also reports intermittent headaches associated with the fever. There are no symptoms of sneezing, rhinorrhea, sore throat, or lymph node enlargement.
+
+It is noteworthy that the patient, his daughter, and other household members, including his wife and grandchildren, have experienced similar symptoms.
+
+Review of systems was unremarkable except as detailed in the history of present illness.
+
+=== PAST MEDICAL HISTORY ===
+Hypertension
+Hyperlipidemia
+
+=== FAMILY HISTORY ===
+Father with a history of bladder cancer.
+
+=== PHYSICAL EXAM ===
+Vital Signs: Heart rate 96, blood pressure 140/78, respiratory rate 20, oxygen saturation 96% on room air, no chest pain reported.
+General: No acute distress, alert and oriented times three.
+Head, Eyes, Ears, Nose, and Throat: Pupils equal, round, reactive to light; extraocular movements intact; moist mucous membranes; sclerae are not yellow; no redness.
+Neck: No lymphadenopathy, no jugular venous distention.
+Cardiovascular: Regular rate and rhythm, normal heart sounds with no murmurs detected.
+Respiratory: Diffuse rhonchi, squeaks noted in the right lower lung.
+Abdomen: Active bowel sounds, abdomen is soft, non-tender, and not distended.
+Extremities: No swelling, dorsalis pedis pulses are strong.
+Neurological: Pupils equal, round, reactive to light; extraocular movements intact; facial symmetry with no tongue deviation.
+Skin: Warm and moist, no rashes or ulcerations.
+Psychiatric: Behavior is appropriate, demeanor is pleasant, not displaying anxiety.
+
+=== LABS AND IMAGING ===
+___ 10:20PM   WBC-5.0 RBC-4.07* HGB-11.6* HCT-33.5* MCV-82 
+MCH-28.5 MCHC-34.6 RDW-13.3
+___ 10:20PM   NEUTS-70.0 ___ MONOS-7.0 EOS-3.1 
+BASOS-0.5
+___ 10:20PM   PLT COUNT-189
+___ 10:20PM   GLUCOSE-78 UREA N-29* CREAT-2.0* SODIUM-137 
+POTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-26 ANION GAP-13
+___ 10:20PM   ___ PTT-26.5 ___
+___ 10:34PM   GLUCOSE-75 LACTATE-1.0
+___ 09:10AM BLOOD WBC-5.3 RBC-4.70 Hgb-13.1* Hct-40.5 
+MCV-86 MCH-27.8 MCHC-32.2 RDW-13.7 Plt ___
+___ 09:10AM BLOOD Glucose-85 UreaN-25* Creat-2.0* Na-140 
+K-3.9 Cl-103 HCO3-28 AnGap-13
+
+CHEST (PA & LAT) Study Date of ___  
+IMPRESSION: Left lower lobe tubular opacities, suggestive of bronchial impaction. Right lower lobe showing infiltrates.
+
+CXR ___: TECHNIQUE: PA AND LATERAL CHEST RADIOGRAPH: 
+Cardiac, mediastinal and hilar contours are within normal limits. Retrocardiac opacification may represent atelectasis, however, underlying infectious process cannot be completely 
+excluded. No pleural effusions or pneumothorax. 
+
+EKG:  LBBB.  No acute ischemic changes from prior.
+
+
+Multiple organisms consistent with Streptococcus pneumoniae.

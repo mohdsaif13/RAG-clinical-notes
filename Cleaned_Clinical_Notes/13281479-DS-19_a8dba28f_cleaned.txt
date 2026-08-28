@@ -1,0 +1,20 @@
+=== PATIENT HISTORY ===
+She is a 22 yo female with MEN2A, h/othyroidectomy, and adrenal medullary hyperplasia who presents for bilateral adrenalectomy. The patient was diagnosed with MEN2A by a blood test (likely RET mutation analysis) due to the significant family history (see below). She had a prophylactic thyroidectomy shortly thereafter.
+
+=== PAST MEDICAL HISTORY ===
++MEN II (thyroid mass, s/p thyroidectomy)
++Depression
++Anxiety
+
+=== FAMILY HISTORY ===
+majoring in biobiopsychology with minor statistics with plans for career in ___. Lives with 1 roommate in dorm.  Denies tobacco or illicit drug use; occasional EtOH. Sexually active with 1 partner, always uses condoms, no h/o STDs.
+
+=== PHYSICAL EXAM ===
+N/A
+
+=== LABS AND IMAGING ===
+___ 06:00AM BLOOD WBC-9.9 RBC-3.61* Hgb-11.3* Hct-31.7* MCV-88 MCH-31.2 MCHC-35.6* RDW-12.9 Plt ___
+___ 06:50PM BLOOD WBC-8.4 RBC-3.41* Hgb-10.5* Hct-29.8* MCV-87 MCH-30.8 MCHC-35.2* RDW-12.3 Plt ___
+___ 06:00AM BLOOD Glucose-133* UreaN-4* Creat-0.6 Na-141 K-3.5 Cl-104 HCO3-28 AnGap-13
+
+Genetic test reveals 21-hydroxylase deficiency

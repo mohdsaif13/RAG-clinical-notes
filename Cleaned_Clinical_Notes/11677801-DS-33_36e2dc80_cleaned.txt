@@ -1,0 +1,65 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+chest pain
+
+=== PATIENT HISTORY ===
+He with h/o CAD s/p CABG and BM stent location, muscle invasive urothelial bladder ca s/p cystectomy and creating of neobladder, intraductal papillary mucinous neoplasm s/p Whipple procedure, who presents with chest pain. Reports pain during the last month which starts in left parasternal region, radiates to the left elbow. For the past week the patient has had worsening left-sided chest pressure with any exertional activities. This is associated with dyspnea and recovers after a couple of minutes of rest. 
+
+This morning at 4am he awoke with throbbing chest pain in the middle of his chest that radiated to his shoulders and his left arm. This was associated with nausea and palpitations, but not shortness of breath or diaphoresis. He states this felt unlike his prior episodes of angina. It lasted for about 25 min and resolved en route.
+
+Was seen where vitals were 97.8 63 126/58 15 96%. Initial ECG did not show evidence of STEMI/NSTEMI and troponin was negative. Received morphine and NTG with improvement in discomfort. He was transferred for possible cath.
+
+In the ED, initial vitals were 97.4 60 146/54 16 100%. EKG showed SR @ 58, old TWI in lead III, LAD. Currently reports continued left arm discomfort, though no chest pain or shortness of breath. He denies cough, fever, pleuritic chest pain, orthopnea, syncope, leg swelling.ECG:non-ST-elevation
+
+=== PAST MEDICAL HISTORY ===
++muscle invasive urothelial bladder ca s/p cystectomy and creating of neobladder
+-intraductal papillary mucinous neoplasm s/p Whipple procedure 
++ventral hernia s/p repair
++Ulcer s/p cautery
++pulmonary embolus (was on coumadin for 6 mo)
++CAD c/b MI s/p 3v CABG and BMS
+
+=== FAMILY HISTORY ===
+Mother CAD, CHF, Tremor
+Father CAD
+Brother CAD, EtOH abuse
+Brother Living TREMOR, CAD   
+Aunt LUNG CANCER
+
+=== PHYSICAL EXAM ===
+ADMISSION EXAM
+
+
+VS: Wt=215lbs T=97.8 BP=132/82 HR=67 RR=16 O2 sat=96% on RA 
+General: well-appearing man in NAD 
+HEENT:  EOMI, anicteric sclera, mucus membranes moist
+Neck: supple JVD 6cm 
+CV:  regular rate and rhythm, no murmurs, rubs, or gallops
+Lungs:  breathing comfortably on room air, CTAB
+Abdomen:  +BS, S NT ND
+GU:  no foley
+Ext:  warm and well perfused, no edema
+Neuro:  A&Ox3, CN2-12 intact, moving all extremities
+Skin:  no rashes
+PULSES:  2+
+
+=== LABS AND IMAGING ===
+ADMISSION LABS
+
+___ 08:56AM BLOOD WBC-8.0# RBC-4.74 Hgb-15.3 Hct-47.2 MCV-99* MCH-32.3* MCHC-32.5 RDW-13.6 Plt ___
+___ 08:56AM BLOOD Neuts-69.9 ___ Monos-5.7 Eos-2.4 Baso-1.1
+___ 02:56PM BLOOD ___
+___ 08:56AM BLOOD Glucose-109* UreaN-21* Creat-1.3* Na-139 K-4.9 Cl-107 HCO3-21* AnGap-16
+___ 08:56AM BLOOD CK-MB-3
+
+STUDIES
+
+___: Findings
+ESTIMATED blood loss: 20 cc
+Hemodynamics (see above):Coronary angiography:  right dominant
+LMCA:  distal 60%
+LAD:  proximally occluded, distal vessel fills via LIMA
+LCX:  proximal 80% lesion with small distal vessel
+RCA:  diffuse proximal/mid disease with mid occlusion; distal PLand PDA branches fill via SVG with no significant diseaseSVG sequentially to PL and PDA branches:  prior stent patent; 90%lesion proximal to proximal PL anastomosis LIMA- diagonal:  normal; retrograde filling of distal LAD which is a small vessel
+
+Interventional details
+Change for Fr AL 0.75 guide.  Using Spider distal protection,mid graft lersion crossed with Prowater wire , dilated with 2.5 balloon and stented with 3.5x12 Premier to 3.75 mm at 18 atm.  No residual, normal flow.  Angioseal femoral closure.

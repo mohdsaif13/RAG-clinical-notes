@@ -1,0 +1,51 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Altered mental status
+
+=== PATIENT HISTORY ===
+___ w/ prior sigmoidectomy (sigmoid volvulus) ___, bipolar d/o. History per son in law, pt was OK last night (lives independently), this morning he went to check on the patient after he and his wife recieved a phone call from the visiting nurse who said the patient was not answering his door this morning.  He found the patient sitting on the couch but not he was responding. There were no signs of trauma. The patient was unable to move his extremities and would intermittently close his eyes.  He was non-verbal but arousable. His son called EMS who brought him to the ED.  Per the son, he did not notice the patient loose continence.  Per the family, the patient hadn't been feeling well for the past few weeks.  At baseline, patient patient recognizes and remembers family and important dates, sometimes has trouble with word retrieval and occasionally looses train of thought.  Patient lives on his own and has a visiting nurse, and exercises on a daily basis.  Patient has experienced diarrhea over the past months, per his family at the bedside.  The patient reports that he remembered being unresponsive to his family members, like it was a dream, and he remembers being transported to the emergency room by the EMTs.
+
+=== PAST MEDICAL HISTORY ===
+1. Bipolar disease  
+2. Hypertension.  
+3. Chronic obstructive pulmonary disease.  
+4. History of alcoholism.  
+5. h/o PNA complicated by empyema requiring decortication.  
+6. Status post right humerus fracture.  
+7. Autonomic Dysfunction, followed by Dr. ___.
+
+=== FAMILY HISTORY ===
+Mother - deceased age ___, unknown cause
+Father - deceased age ___, history of MI and stroke
+
+=== PHYSICAL EXAM ===
+Vitals:  97.9  160/66  66  20  100%3L
+ General: Oriented to person, not place, not time, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear  
+ Neck: supple, JVP not elevated, no LAD  
+ Lungs: CTAB anteriorly no wheezes, rales, rhonchi  
+ CV: RRR, Nl S1, S2, No MRG  
+ Abdomen: soft, NT/ND bowel sounds present, no rebound tenderness or guarding, no organomegaly  
+ GU: Foley
+ Ext: warm, well perfused, 2+ pulses  
+ Neuro: CN3,4,6,9,10,11,12 intact.  1,2,8 not assessed.  7: R lower face weakness (but unchanged from prior photo on ___ left facial twitching with smile, UE strength equal bilateral, ___ strength equal
+
+=== LABS AND IMAGING ===
+___ 09:45AM BLOOD Plt ___
+___ 09:45AM BLOOD ___ PTT-33.8 ___
+___ 09:45AM BLOOD ___ 09:45AM BLOOD UreaN-29* Creat-1.2
+___ 09:45AM BLOOD ALT-15 AST-28 AlkPhos-82 TotBili-0.4
+___ 09:45AM BLOOD Lipase-42
+___ 09:45AM BLOOD Albumin-4.0
+___ 09:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 10:07AM BLOOD Glucose-94 Lactate-1.0 Na-135 K-4.3 Cl-99 calHCO3-23
+
+Imaging at admission:
+Head CT scan ___:
+No acute intracranial process. Global volume loss.
+CXR ___:
+No acute cardiopulmonary process.
+
+Micro at Admission:
+Urine Cx: no growth
+
+Amyloid PET: Detects amyloid-beta deposits in the brain.

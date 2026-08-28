@@ -1,0 +1,55 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Lightheadedness
+
+=== PATIENT HISTORY ===
+He is a 45 male with PMH notable for being ahemochromatosis carrier, who presents with lightheadedness.Patient states that over the past 3 months he has had intermittent lightheadedness occurring a few seconds after hestands up and starts walking. It lasts for a second and he has associated vision changes, described as vision "going black". The vision changes then resolves completely. He has not syncopized during this time he has no chest pain, shortness of breath, or abdominal pain. He endorses associated nausea but deniesvomiting. Denies family history of sudden cardiac death. 
+
+Additionally, he reports a 20 pound weight loss over the past 12 months that was unintentional. He denies cough, night sweats, history of incarceration, hemoptysis, recent travel, or lower extremity swelling. 
+
+He was seen by his primary care doctor multiple times and has follow-up with a cardiologist. He went back to his primary care doctor today prior to presentation and was found to be hypotensive, which prompted his referral to the emergency department.
+
+=== PAST MEDICAL HISTORY ===
+Hemochromatosis carrier
+
+=== FAMILY HISTORY ===
+great-grandfather - colon cancer
+grandfather - CAD s/p CABG
+Paternal uncle - heart transplant (unsure why)
+Maternal aunt/grandmother - breast cancer
+Maternal aunt - pancreatic cancer
+
+=== PHYSICAL EXAM ===
+VITALS: T 98.2 BP 113/62 HR 73 RR 14 O2 100% RA 
+GENERAL: Well-appearing, well-groomed young man, restingcomfortably in bed, in NAD
+HEENT: NC/AT, EOMI, PERRL, anicteric sclera, MMM
+NECK: Supple, no JVD
+HEART: RRR, normal S1/S2, no m/r/g
+LUNGS: CTAB, breathing comfortably on RA without use of accessory mm, no wheezes/rhonci/rales
+ABDOMEN: Soft, non-tender, non-distended, active bowel sounds, noorganomegaly
+GU: Testicles without edema or palpable masses, no inguinallympahdenopahy, no penile discharge
+EXTREMITIES: No c/c/e
+SKIN: Warm, well-perfused, no ___
+NEURO: Alert, oriented x3, CN II-XII intact, ___ strength in b/l upper and lower extremities, normal sensation
+
+=== LABS AND IMAGING ===
+___ 12:12AM BLOOD WBC-7.2 RBC-4.46* Hgb-13.1* Hct-38.0* MCV-85 MCH-29.4 MCHC-34.5 RDW-12.5 RDWSD-38.4 Plt ___
+___ 12:12AM BLOOD Neuts-41.3 ___ Monos-7.3 Eos-2.5 Baso-0.7 Im ___ AbsNeut-2.98 AbsLymp-3.47 AbsMono-0.53 AbsEos-0.18 AbsBaso-0.05
+___ 06:05AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+* Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL Ovalocy-OCCASIONAL
+___ 12:12AM BLOOD Plt ___
+___ 12:12AM BLOOD Glucose-99 UreaN-26* Creat-0.9 Na-130* K-4.9 Cl-97 HCO3-27 AnGap-6*
+___ 12:12AM BLOOD ALT-66* AST-58* AlkPhos-66 TotBili-0.5
+___ 12:12AM BLOOD Albumin-4.2 Calcium-9.6 Phos-5.2* Mg-1.6
+
+IMAGING
+==========================
+CXR ___
+IMPRESSION:  
+No acute cardiopulmonary process. 
+
+RUQUS ___
+IMPRESSION: 
+1. No cholelithiasis or sonographic evidence of acute cholecystitis. 
+2. No evidence of hepatic lesion. 
+3. Mild splenomegaly measuring 13.7 cm. 
+
+found to have significantly low cortisol with no response to ACTH stimulation testing.

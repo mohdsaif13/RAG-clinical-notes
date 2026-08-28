@@ -1,0 +1,46 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+S/p Cardiac Arrest
+
+=== PATIENT HISTORY ===
+She obese. Per report, pt called friend reporting abd pain, SOB and "bleeding" but they don't know where she was bleeding from. Became bradycardic and coded. Arrest x 4 in total while there. Rectal +blood. Labs: CO2 5, Creatinine 13, K 5.4, Hct 39. Transferred for further care. 
+﻿
+In the ED, initial vitals were deferred. Initially on levophed max peripherally. Within 5 min of arrival bradycardic and arrested.EKG demonstrated s1q3t3 w/o any sig ST changes or other evidence of ischemia. Bedside TTE showed rv dilation, mod-sev TR, + mc sign all suggestive of PE. Labs significant for ph of 6.68, lactate of 14, Cr of 11, stable Hct.
+
+=== PAST MEDICAL HISTORY ===
++Diabetes
++Dyslipidemia
++Obesity (wt >300 lbs)
+
+=== FAMILY HISTORY ===
+unable to be obtained
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+ADMISSION EXAM
+General: intubated, sedated 
+HEENT: fixed pupils
+Chest: CTABL, ET tube in place
+Cardiovascular: tachycardic, no m/r/g
+Abdominal: Soft, Nontender, Nondistended
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash, Warm and dry
+﻿
+
+=== LABS AND IMAGING ===
+ADMISSION LABS
+﻿
+___ 04:12AM   TYPE-ART PO2-204* PCO2-29* PH-6.72* TOTAL CO2-4* BASE XS--34 INTUBATED-INTUBATED VENT-CONTROLLED
+___ 04:12AM   O2 SAT-98
+___ 03:24AM   PO2-143* PCO2-25* PH-6.68* TOTAL CO2-4* BASE XS--36 INTUBATED-INTUBATED COMMENTS-GREEN TOP
+___ 03:24AM   GLUCOSE-97 LACTATE-14.1* NA+-150* K+-6.1* CL--111*
+___ 03:24AM   HGB-12.2 calcHCT-37 O2 SAT-95 CARBOXYHB-1 MET HGB-0
+___ 03:24AM   freeCa-1.06*
+___ 03:19AM   UREA N-57* CREAT-11.2*
+___ 03:19AM   estGFR-Using this
+___ 03:19AM   LIPASE-385*
+___ 03:19AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 03:19AM   WBC-15.1* RBC-3.75* HGB-11.7* HCT-39.7 MCV-106* MCH-31.1 MCHC-29.4* RDW-12.1
+___ 03:19AM   PLT COUNT-266
+___ 03:19AM   PTT-29.0 D-Dimer-863﻿*
+
+The patient is hemodynamically stable.

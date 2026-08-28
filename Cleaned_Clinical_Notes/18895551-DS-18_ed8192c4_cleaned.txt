@@ -1,0 +1,38 @@
+=== PATIENT HISTORY ===
+female with RA and major depressive disorder who presented to the ED with acute onset chest pain. Pt reports being in usual state of health and was watching TV at rest yesterday when she experienced sudden left sided chest pain. Chest pain is described as originating under L breast and radiating around her left back. It felt heavy at first but sharp and worsened with breathing. Pt initially ignored the pain thinking it was her rheumatoid pain, but became concerned when she began to experience sob/dyspnea. She sought ED attention this morning when symptoms persisted. She has been using Nexplanon implantable contraception for ___ years. Pt denies any prolonged immobility, recent surgeries, or flights. She denies any personal or family hx of blood clots. She has had 3 pregnancies (1 live birth, 1 miscarriage, 1 elective abortion). She denies any leg pain or swelling. ROS otherwise negative.
+
+=== FAMILY HISTORY ===
+Grandmother had a hx of heart disease, diabetes, HTN. No family hx of blood clots or recurrent miscarriages.
+
+=== PHYSICAL EXAM ===
+Vitals: 97.5 98 133/68 18 99%RA
+GEN: NAD, AAOx3, breathing comfortably on RA
+CV: RRR, no m/r/g
+LUNGS: CTAB, no w/r/r
+CHEST: No bruises or visible injuries over chest wall. Tenderness to palpation over left chest wall under left breast.
+ABD: Soft, nondistended, nontender to palpation
+___: no swelling/edema in bilateral lower extremities. No calf tenderness to palpation bilaterally.
+
+=== LABS AND IMAGING ===
+___ 09:00AM BLOOD WBC-8.7# RBC-4.04* Hgb-12.5 Hct-36.5 
+MCV-91# MCH-30.9 MCHC-34.2 RDW-16.8* Plt ___
+___ 09:00AM BLOOD Neuts-86.3* Lymphs-8.8* Monos-3.7 Eos-1.1 
+Baso-0.1
+___ 09:00AM BLOOD ___ PTT-27.0 ___
+___ 09:00AM BLOOD Glucose-92 UreaN-14 Creat-0.7 Na-135 
+K-5.2* Cl-104 HCO3-23 AnGap-13
+___ 09:00AM BLOOD ALT-37 AST-35 CK(CPK)-152 AlkPhos-65 
+TotBili-0.3
+___ 09:00AM BLOOD Lipase-12
+___ 09:00AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 09:00AM BLOOD Albumin-3.9 Calcium-9.1 Phos-2.4* Mg-1.9
+___ 09:00AM BLOOD D-Dimer-1298*
+___ 08:00AM BLOOD ASA-NEG Ethanol-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+
+___ CTA CHEST:
+The thyroid is unremarkable, and there is no supraclavicular lymph node enlargement. The airways are patent to the subsegmental level. There is no mediastinal, hilar or axillary lymph node enlargement by CT size criteria. The heart, pericardium, and great vessels are within normal limits. No hiatal hernia or any other esophageal abnormality is present. 
+  
+Ground-glass opacity within the left lingula is likely secondary to atelectasis/collapse (2:76). There is also a trace left pleural effusion with associated atelectasis. 
+  
+CTA: The aorta and main thoracic vessels are well opacified. The aorta demonstrates normal caliber throughout the thorax without intramural hematoma or dissection.  There is a filling defect within the right lower anterior segmental pulmonary artery with extension into the subsegmental branches.

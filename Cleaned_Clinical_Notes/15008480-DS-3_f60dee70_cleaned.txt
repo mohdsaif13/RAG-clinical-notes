@@ -1,0 +1,31 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+short of breath
+
+=== PATIENT HISTORY ===
+This 56 year old woman. She was started on Propafenone and did well until when she developed recurrent palpitations.  She was found to be in recurrent atrial fibrillation. She has undergone two CV's.  She has since continued to have short episodes of palpitations, with episodes being more frequent. Propafenone was discontinued as it is no longer effective.
+
+=== PAST MEDICAL HISTORY ===
++Hypertension
++Hyperlipidemia 
++MR, mitral valve prolapse
++DM Type 2
++Several TIA's
++Hx of Cholelithiasis, cholecystitis s/p lap chole
++Hx of acute pancreatitis
++Cataracts s/p surgery
++Breast biopsy
++s/p right knee replacement
+
+=== PHYSICAL EXAM ===
+PE on hospital admission/post PVI:
+BP: 103/64  P: 90s-140s AF  RR: 16 02 sat: 97% NC  Pain: 2 (chest soreness)  
+General: Well appearing, in no apparent distress
+Neuro: Alert and oriented x4. Pleasant and cooperative. PERRLA 3->2. EOMI. No facial droop or arm drift. Speech clear, appropriate and comprehensible. Tongue midline, smile symmetric. Equal and strong strengths in bilat UEs and bilat LEs. 
+CV: Tachycardia, irregular, no murmur appreciated 
+Lungs: Clear anteriorly, non-labored. No use of accessory muscles noted.
+Abdomen: soft, non-tender, + BS x4
+PV: WWP, + pedal pulses, No edema, Palpable Pedal pulses. 
+Access sites: Bilat femoral access sites soft without hematoma, ecchymosis, or ongoing drainage.
+
+=== LABS AND IMAGING ===
+ECG: AF episodes that last more than 7 days.

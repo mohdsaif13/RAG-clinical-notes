@@ -1,0 +1,58 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Cough, SOB
+
+=== PATIENT HISTORY ===
+She is with history of asthma, anemia, MGUS, COPD,  and prior CVA, who presented with shortness of breath.  Patient reports that she first developed what she thought was a cold 3 days ago. She had sore throat, rhinorrhea, headache and cough occasionally productive of clear sputum. She denies any fever or myalgias. She then began feeling progressively more short of breath. She does have some chronic dyspnea but is able to go about her ADLs, including shopping trips, without significant limitations. Over the past few days, however, she is unable to walk 10 feet without feeling short of breath. She sleeps with two pillows at home, which has not recently changed. She reports occasional PND chronically but denies orthopnea. She has had no recent travel, surgeries, or immobilzations.  
+ 
+In the ED, initial vitals were: 98.1 88 168/95 20 98% RA  
+ - Imaging revealed: CXR without evidence of pneumonia  
+ - The patient was given 1 albuterol and 1 ipratropium neb, 125mg IV solumedrol, 500mg azithromycin  
+
+Vitals prior to transfer were: 98.9 85 145/87 20 98% RA  
+Upon arrival to the floor, initial vitals were 97.7 162/117 85 18 100% RA.
+
+Lasting airflow limitation
+
+=== PAST MEDICAL HISTORY ===
++left occipital lobe stroke (cryptogenic)  
++remote right parietal, left cerebellar strokes by imaging 
++hypertension  
++hyperlipidemia  
++cataracts, s/p repair - at least on the right  
++glaucoma  
++asthma  
++MGUS  
++chronic anemia  
++CKD
+
+=== FAMILY HISTORY ===
+Negative for stroke, migraine, seizure. Father with cancer and sister with colon cancer.
+
+=== PHYSICAL EXAM ===
+Vitals: 97.7 162/117 85 18 100% RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, EOMI  
+Neck: Supple, JVP not elevated  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  
+Lungs: Diffuse rhonchi with occasional expiratory wheezes  
+Abdomen: Soft, non-tender, non-distended  
+GU: No foley  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema, b/l lower extremities with eccymoses over shins and venous stasis changes  
+Neuro: CNII-XII grossly intact
+
+=== LABS AND IMAGING ===
+Admission Labs:
+---------------
+___ 10:50PM BLOOD WBC-8.8 RBC-3.41* Hgb-10.5* Hct-31.4* MCV-92 MCH-30.8 MCHC-33.4 RDW-16.7* RDWSD-55.8*
+___ 10:50PM BLOOD Neuts-73.9* Lymphs-17.9* Monos-5.5 Eos-1.2 Baso-0.5 AbsNeut-6.53* AbsLymp-1.58 AbsMono-0.49 AbsEos-0.11 AbsBaso-0.04
+___ 10:50PM BLOOD PTT-35.3
+___ 10:50PM BLOOD Glucose-97 UreaN-22* Creat-1.2* Na-141 K-3.9 Cl-107 HCO3-18* AnGap-20
+___ 10:50PM BLOOD cTropnT-<0.01 proBNP-861*
+___ 06:16AM BLOOD Calcium-9.4 Phos-3.4 Mg-2.0
+___ 11:11PM BLOOD Lactate-1.6
+
+
+CXR: Hyperinflated lungs without superimposed acute process.
+ECG: NSR at 83. Downsloping/scooped ST depressions in III and more mild in V6 (old)
+
+ A significant improvement in FEV1 of more than 12% and 200 ml from baseline after administration of a bronchodilator confirms the reversibility of airflow obstruction.

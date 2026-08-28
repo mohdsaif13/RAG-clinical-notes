@@ -1,0 +1,61 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Seizure
+
+=== PATIENT HISTORY ===
+This is a 31 year old woman with a history of bilateral hearingloss and multiple ear surgeries, and subsequent severe vertigo and orthostatic hypotension since the most recent surgery, who presents with 2 events concerning for seizures in the past 24 hours.
+
+The patient reports bilateral hearing loss since her pregnancy. She thinks this was a result of her pregnancy and a virus. Since that time she has had multiple surgeries to try to improve her hearing including reconstruction of the eustasian tube. Most recently she had tympanoplasty of the right ear. Immediately after waking from that procedure she had severe vertigo, "triple" vision and orthostatic hypotension. The vertigo is constant and worse with activity and light. The triple vision is monocular and constant. The orthostatic hypotension is so severe that she passes out with little warning at least daily. She was in rehab for a month due to these symptoms and continues to get rehab. She walks with a walker for only a few minutes at a time.
+
+Last evening around 6pm she was sitting on her bed with her husband and child when she suddenly lost consciousness. She recalls a metallic taste and a funny smell immediately prior to this. He husband witnessed of whole body shaking. She also bit her tongue and had urinary incontinence. Upon regaining consciousness she felt extremely tired all evening and sore with a new headache, but no confusion. This morning around 8am as she was getting her child ready for daycare she had another event with the same prodrome while standing (had been standing for a few minutes). This lasted 5s. She also immediately regained consciousness.
+
+She has been trying to take less diazepam for the vertigo and only took it once in the morning yesterday, though she has skipped a day in the past. No recent illnesses. Has a chronic bandlike headache. She has chronic left sided weakness since cervical fusion. Now new right hand numbness. + weight loss due to poor appetite.
+ 
+On neuro ROS, the pt denies loss of vision, blurred vision, diplopia, dysarthria, dysphagia. Denies difficulties producing or comprehending speech.
+
+=== PAST MEDICAL HISTORY ===
++Bilateral hearing loss and surgeries
++Lumbar discectomy and fusion
+
+=== FAMILY HISTORY ===
+No seizure, stroke. Aunt with multiple strokes.
+
+=== PHYSICAL EXAM ===
+Vitals:  98.44 84 128/91 18 99%  
+General: Awake, cooperative, NAD.  
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx. Tube in left ear, artificial tympanic membrane on the right.   
+Neck: Supple  
+Pulmonary: Lungs CTA bilaterally without R/R/W  
+Cardiac: RRR, nl. S1S2
+Extremities: No C/C/E bilaterally
+ 
+Neurologic:  
+-Mental Status: Alert, oriented x 3. Able to relate history without difficulty. Grossly attentive to exam. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Pt. was able to name both high and low frequency objects. Speech was not dysarthric. Able to follow both midline and appendicular commands. There was no evidence of neglect.  
+ 
+-Cranial Nerves:  
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. Funduscopic exam revealed no papilledema, exudates, or hemorrhages.  
+III, IV, VI: EOMI without nystagmus. Slow and irregular saccades-appears volitional.  
+V: Facial sensation intact to light touch.  
+VII: No facial droop, facial musculature symmetric.  
+VIII: Hearing intact to voice.  
+IX, X: Palate elevates symmetrically.  
+XI: strength in trapezii and SCM bilaterally.  
+XII: Tongue protrudes in midline with normal strength
+
+=== LABS AND IMAGING ===
+___
+EEG
+IMPRESSION: This is a minimally abnormal video-EEG monitoring session. A few isolated sleep-related sharp transients noted in the left temporal region are of questionable clinical significance. There are no frank epileptiform discharges or electrographic seizures. None of the patient's typical events are recorded. 
+
+___
+EEG
+IMPRESSION: This is a normal video-EEG monitoring session. The patient had one of her typical episodes which involved whole-body jerking but with immediate ability to follow commands afterwards. No electrographic seizures or epileptiform discharges are recorded. 
+
+___
+MR ___
+IMPRESSION:  
+No significant focal lesions. Slightly small left hippocampus on some images; no signal/architectural changes. Fluid in mastoids, right more than left. 
+
+___ 05:48AM BLOOD WBC-5.4 RBC-4.51 Hgb-12.5 Hct-38.7 MCV-86 MCH-27.7 MCHC-32.3 RDW-12.7 Plt ___
+___ 05:48AM BLOOD Glucose-83 UreaN-15 Creat-0.7 Na-137 K-3.7 Cl-107 HCO3-24 AnGap-10
+___ 05:48AM BLOOD Calcium-8.3* Phos-3.8 Mg-1.8
+___ 03:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG

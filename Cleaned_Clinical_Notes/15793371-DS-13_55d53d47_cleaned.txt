@@ -1,0 +1,54 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+N/A
+
+=== PATIENT HISTORY ===
+The patient presented on her PREVIOUS Admission to an OSH with severe lumbar pain. An LP was performed and showed WBC 59K with cultures growing MRSA. Blood cultures also grew MRSA. MRI was performed after the LP showed a 3.1 x 1.6 cm abscess in the right paraspinal musculature at the L3-5 level with involvement of the right L4-5 facet joint and the L4 spinous process with additional leptomeningeal enhancement. It was unclear if the LP fluid that was obtained was from the abscess or from the spinal fluid, given the close proximity and the unknown presence of abscess at the time of LP.  The patient was given vancomycin, ceftriaxone and acyclovir and was transfered to ___. On arrival to ___ she was intubated due to altered mental status. 
+.
+Neurosurgery evaluated the patient and she underwent ___ guided drainage of her paraspinal abscess, cultures also grew MRSA. She was continued on vancomycin alone. She was taken back for repeat ___ guided drainage of her abscess on ___ with and a drain was removed prior to discharge. TTE revealed no
+vegetations. She was discharged on vancomycin with a planned prolonged duration of therapy. Her ID follow up was transitioned to her PCP prior to discharge. 
+.
+After discharge her ___ abscess fluid grew AFB with speciation pending. Due to this, and a truncal rash, she was referred back to the ___ for admission ___
+
+At the time of admission, she reported feeling better and her abscess continuing to heal. She still doesn't walk back to normal, but is constantly improving. No fevers/chills/SOB/CP/N/V/D/C.
+
+=== PAST MEDICAL HISTORY ===
+HIV
+IVDA - including heroin. on methadone.
+h/o PE
+chronic low back pain
+
+=== FAMILY HISTORY ===
+Unknown.
+
+=== PHYSICAL EXAM ===
+ADMISSION PHYSICAL EXAM:  
+Vitals: T:98.2 BP:108/82 P:88 R:20 O2:98RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, S4 gallop 
+appreciated  
+Abdomen: soft, non-tender, non-distended, bowel sounds present. Escoriations throughout abdomen.   
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  
+Skin: Scatterred rash on upper right back, chest, and on 
+extremities. Erythematous, partially blanching, macules. 
+Neuro: A and O x3. CN II-XII grossly intact. Strength ___ in b/l upper and lower extremities. 2+ reflexes in knees, 
+brachioradialis. Gait with limp due to favoring R side
+
+=== LABS AND IMAGING ===
+___ 05:45PM BLOOD WBC-7.4 RBC-4.00* Hgb-10.9* Hct-33.3* 
+MCV-83 MCH-27.3 MCHC-32.7 RDW-14.3 Plt ___
+___ 05:45PM BLOOD Neuts-69.8 ___ Monos-6.9 Eos-1.1 
+Baso-0.6
+___ 07:45AM BLOOD  WBC-5.4 Lymph-22 Abs ___ CD3%-91 
+Abs CD3-1083 CD4%-35 Abs CD4-413 CD8%-54 Abs CD8-642 
+CD4/CD8-0.6*
+___ 05:45PM BLOOD Glucose-99 UreaN-9 Creat-0.9 Na-139 K-4.1 
+Cl-97 HCO3-28 AnGap-18
+___ 07:45AM BLOOD ALT-50* AST-74* AlkPhos-82 TotBili-0.3#
+___ 07:45AM BLOOD Calcium-9.4 Phos-4.9* Mg-1.8 Iron-57
+___ 07:45AM BLOOD calTIBC-324 Ferritn-103 TRF-249
+
+STUDIES:  
+___ CXR: No acute cardiopulmonary process

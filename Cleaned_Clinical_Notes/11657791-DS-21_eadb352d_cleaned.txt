@@ -1,0 +1,51 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Chest Pain
+
+=== PATIENT HISTORY ===
+He is a 66 yr old male with known CAD s/p multiple PCIs (following MI, RCA stent, 2 RCA stents on. Of note, pt is s/p negative nuclear stress testing and coronary angiography. He reports an episode of dull substernal chest pain 2 days ago when he was out shopping with his wife. He reports that the pain seemed to radiate to the back b/w the scapulae and worsened with breathing but denies other assoc symptoms other than slight dyspnea. Pain lasted for approx 30 min- pt reports "nearly passing out" when taking sublingual nitroglycerin. Of note, at baseline pt reports substernal chest pain at its worst lasting min- he notes that this baseline pain occasionally occurs at rest and has been present since discharge from last month; he feels that he has had approximately 6 episodes in the last day. 
+
+Pt saw his PCP yesterday and reported his chest pain from the day before along w/hx of baseline symptoms, and was subsequently referred. Pt was afebrile, BP 158/80, HR 56, RR 18, SaO2 98% RA. Work-up yielded Troponin I x3 <0.015 (<0.046 ng/mL), CPK-MB 2.6 (0.5-3.6 ng/mL), EKG showed normal sinus rhythm, CXR showed no acute cardiopulmonary process.
+
+=== PAST MEDICAL HISTORY ===
++Cardiac Risk Factors: 
++HTN, 
++HLD, 
++former smoker 
++CAD s/p multiple PCIs: following MI, RCA stent, 2 RCA stents.
++Pulmonary hypertension
++Mitral valve regurgitation
++psoriatic arthritis (denies any medical management)
++Obesity
++Scarlet fever as a child
++Bilateral cataracts s/p cataract surgery
++Bladder cancer , s/p surgery + chemotherapy
++S/P hernia repair
++s/p fracture left shoulder, s/p ORIF
++Persistent hip pain, left
+
+=== FAMILY HISTORY ===
+-Father died, hx of ETOH overconsumption
+-Mother died when pt was young, reportedly from complications assoc w/gestational diabetes
+-No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death
+
+=== PHYSICAL EXAM ===
+ADMISSION
+T 97.8F, BP 124/68, HR 50, RR 18, SaO2 99% RA. 
+Pleasant elderly man resting comfortably in bed, no acute distress
+HEENT: NCAT. Pupils slightly asymmetric, pupillary light reflex not appreciable prior cataract surgery); pt wearing blue-colored contact lenses. Conjunctiva pink, sclera anicteric, moist mucous membranes. Patient wearing partial upper and lower dentures.
+Neck: supple, no JVD
+CV: RRR, HS 1 and 2 audible on auscultation, no m/r/g
+Lungs: CTAB 
+Abdomen: soft, nontender, non-distended, BS+
+Ext: 2+ distal pulses in upper and lower extremities 
+bilaterally. Scars on ulnar aspect L forearm (reported to be psoriasis)
+Neuro: A&O x3, cranial nerves II to XII grossly intact. strength in upper and lower extremities bilaterally
+
+=== LABS AND IMAGING ===
+___ 07:45AM BLOOD ___
+___ 04:30PM BLOOD Plt ___
+___ 07:45AM BLOOD Glucose-100 UreaN-17 Creat-1.0 Na-139 K-4.1 Cl-104 HCO3-28 AnGap-11
+___ 04:30PM BLOOD Na-140 K-4.1 Cl-105
+___ 04:30PM BLOOD cTropnT-<0.01
+
+ECG：non-ST-elevation

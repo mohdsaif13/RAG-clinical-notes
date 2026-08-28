@@ -1,0 +1,67 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+hypoglycemia
+
+=== PATIENT HISTORY ===
+This is a woman w/ a h/o for metformin, rheumatoid arthritis, and HTN, who p/w two days of episodic weakness, dizzyness, and diaphoresis. She found that sugary foods relieved her symptoms. On the morning or admission she went to work and after feeling diaphoretic, decided to go to the ED, vitals were 95.5, 88 127/68 16, 100%RA, and was found to have a FSBG of 72. She had a meal and FSBG increased to 100. Several hours later her sugar decreased to 29 and was given more Dextrose as well as Octreotide 75mcg SC for presumed Sulfonylurea-related hypoglycemia and was transferred to the MICU for further observation and management of her hypoglycemia.  .  
+While in the MICU the patient was kept for a period of time and all her oral anti-hypoglycemics were discontinued. Her hypoglycemia improved and she has had no further episodes of hypoglycemia during this admission. Given that her oral anti-hyperglycemic agents have been discontinued, her blood sugars have been somewhat labile, peaking at 434, however, her sugars have responded to coverage w/an insulin sliding scale. Now asymptommatic, eating a regular diet and re-started on Metformin, she is stable and ready to be transferred to the general medical floor.  
+﻿
+
+=== PAST MEDICAL HISTORY ===
+rheumatoid arthritis   
+hypertension  
+s/p abdominal surgery for GSW
+
+=== FAMILY HISTORY ===
+NC
+
+=== PHYSICAL EXAM ===
+Physical Exam:  
+V/S 98.1, 78, 20, 98% RA  
+GEN: Well appearing, female in NAD  
+HEENT: PERRL, EOMI, anicteric sclerae, MMM  
+PULM: Good resp effort, CTAB without w/r/r  
+CV: Regular, nl s1/s2, no m/g/r  
+Abd: soft, flat, non-tender, linear well healed abdominal scar  
+Ext: warm, well perfused extremeties with no lower extremity edema  
+Neuro: AAO x 3, CN II - XII intact, sensation grossly intact.
+
+=== LABS AND IMAGING ===
+___ 05:20AM BLOOD WBC-6.3 RBC-3.52* Hgb-11.1* Hct-32.1* MCV-91 MCH-31.5 MCHC-34.6 RDW-14.0
+___ 06:00AM BLOOD WBC-7.1 RBC-3.32* Hgb-10.4* Hct-30.1* MCV-91 MCH-31.2 MCHC-34.3 RDW-14.2
+___ 05:19PM BLOOD Hct-28.4*
+___ 03:40AM BLOOD WBC-7.5 RBC-2.96* Hgb-9.6* Hct-26.7* MCV-90 MCH-32.6* MCHC-36.2* RDW-14.2
+___ 02:05PM BLOOD Hgb-10.0*
+___ 08:00AM BLOOD WBC-7.7 RBC-3.22* Hgb-10.1* Hct-30.2* MCV-94 MCH-31.4 MCHC-33.5 RDW-14.2
+___ 08:00AM BLOOD Neuts-83.1* Lymphs-10.8* Monos-3.8 Eos-2.3 Baso-0.1
+___ 05:20AM BLOOD Glucose-102 UreaN-17 Creat-1.0 Na-137 K-5.5* Cl-102 HCO3-26 AnGap-15
+___ 06:00AM BLOOD Glucose-107* UreaN-14 Creat-0.9 Na-132* K-4.3 Cl-101 HCO3-26 AnGap-9
+___ 03:40AM BLOOD Glucose-96 UreaN-14 Creat-0.9 Na-137 K-4.3 Cl-107 HCO3-21* AnGap-13
+___ 08:00AM BLOOD Glucose-367* UreaN-18 Creat-0.9 Na-140 K-4.0 Cl-108 HCO3-21* AnGap-15
+___ 03:40AM BLOOD ALT-12 AST-15 LD(LDH)-189 AlkPhos-74 Amylase-63 TotBili-0.2
+___ 03:40AM BLOOD Lipase-34
+___ 05:20AM BLOOD Calcium-9.7 Phos-4.0 Mg-1.8 Iron-57
+___ 05:20AM BLOOD calTIBC-291 Ferritn-192* TRF-224
+___ 02:05PM BLOOD %HbA1c-6.5*
+___ 08:00PM BLOOD Cortsol-44.2*
+___ 07:24PM BLOOD Cortsol-37.8*
+___ 05:20PM BLOOD Cortsol-5.8
+
+C-PEPTIDE RELEASE TEST:
+=======================
+C-P0          3.20ng/ml
+C-P30         4.59ng/ml
+C-P60         7.67ng/ml
+C-P120        12.48ng/ml
+C-P180        5.86ng/ml
+
++ C-peptide release test hints the peak relate,did not fall back to fasting values at 180min.
+
+INSULIN RELEASE TEST:
+=====================
+Insulin      25.40mlU/L
+Insulin30    88.10mlU/L
+Insulin60    219.30mlU/L
+Insulin120   274.63mlU/L
+Insulin180   91.45mlU/L
+
++ Insulin release test hints the peak relate,did not fall back to fasting values at 180min.

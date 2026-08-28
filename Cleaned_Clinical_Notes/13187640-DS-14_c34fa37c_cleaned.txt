@@ -1,0 +1,50 @@
+=== PATIENT HISTORY ===
+The patient has a complex history that led to the diagnosis of disseminated TB. Please refer to ID note from ___ for all details. In summary, he presented to ___ ___ with ___ 
+years of painful, draining skin lesions of his chest, back, and bilateral axilla, previously attributed to hidradenitis suppurtiva. Extensive workup showed extensive areas of nodularity throughout the thorax, necrotic lymph nodes and soft tissue masses within the abdomen and pelvis, and osteomyelitis from T3-T11 on spinal imaging. biopsies from skin and lymph node grew pan-S MTB s/p initiation of RIPE on ___ with a plan for ___ months of therapy. He was subsequently discharged to ___.
+
+Review of Systems:  
+(+) per HPI  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+
+=== PAST MEDICAL HISTORY ===
+Pott's disease 
+TB Lymphangitis  
+Scrofuloderma 
+s/p GSW to head ___
+s/p back surgery unspecified ___ years ago
+Chronic HBV with low level viremia
+
+=== PHYSICAL EXAM ===
+Vitals-  98.7 PO 104 / 69 98 16 99 Ra 
+GENERAL: AOx3, NAD
+HEENT: Normocephalic, atraumatic, PERRL, MMM, EOMI
+CARDIAC: RRR, no murmurs, rubs, gallops
+LUNGS: Bronchial breath sounds throughout, no crackles, wheezes, ronchi or rales 
+ABDOMEN: NABS, soft, non-tender, non-distended
+EXTREMITIES: warm and well perfused, no evidence of peripheral edema, clubbing, cyanosis
+SKIN: two 2-3cm skin ulcers with granulation tissue overlying L clavicle
+NEUROLOGIC: AAOx3, CN II-XII intact, strength ___ RUE, ___ LUE, 
+___ RLE, ___ LLE
+
+=== LABS AND IMAGING ===
+___ CT ABDOMEN AND PELVIS WITH CONTRAST:
+1. Interval progression of disseminated TB with multiple abscess in several compartments including the left posterior pararenal space, bilateral psoas muscles, pelvis posterior to the rectum, left pelvic sidewall extending along the acetabulum deep to the gluteus maximus muscle.  See finding section for more detailed description.
+2. Multiple necrotic retroperitoneal, pelvic, and left inguinal lymph nodes as seen on prior and as described above.
+3. Please see separate report performed on the same day for 
+detailed evaluation of the chest.
+
+
+___ CT GUIDED INTERVENTION PROCEDURE:
+PROCEDURE:  CT-guided aspiration of 2 retroperitoneal 
+collection.
+
+ 
+TECHNIQUE:  The risks, benefits, and alternatives of the 
+procedure were explained to the patient.  After a detailed discussion, informed written consent was obtained.  A pre-procedure timeout using three patient identifiers was performed per ___ protocol.
+ 
+The patient was placed in a prone position on the CT scan table. Limited preprocedure CT scan was performed to localize the collections.  Based on the CT findings two appropriate skin entry sites for the aspiration was chosen. The sites were marked.  Local anesthesia was administered with 1% Lidocaine solution.
+ 
+Using intermittent CT fluoroscopic guidance, ___ drainage catheter was advanced via trocar technique into a right 
+retroperitoneal collection.  A sample of fluid was aspirated, confirming drain position within the collection.  The pigtail was deployed. The position of the pigtail was confirmed within the collection via CT fluoroscopy. Approximately 150 cc of yellowish fluid was aspirated with a sample sent for 
+microbiology evaluation. The catheter was then removed.  Sterile dressing was applied.

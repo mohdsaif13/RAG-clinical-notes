@@ -1,0 +1,47 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Dyspnea
+
+=== PATIENT HISTORY ===
+She is current tobacco use, and atopic dermatitis who presents with acute onset dyspnea. 
+
+Patient reports acute onset dyspnea this the morning of ___,
+which prompted her to call EMS. On arrival, EMS noted O2 sat 89% and placed patient on supplemental O2. She received magnesium 2g IV, solumedrol 125mg IV, and combivent x2 en route to ___. She was then placed on BiPAP. 
+
+In the ED, initial vitals were HR 95  BP 120/65  RR 15  POx 99% CPAP
+
+On arrival to the floor, patient endorses the above history and adds that she is concerned her house may be the trigger for her recent exacerbations. She believes there may be mold in the house, as it is very old and has not been re-done. She denies recent infectious symptoms or sick contacts. She recently purchased a hypoallergenic mattress and pillows. She keeps her pets out of the bedroom. She is trying to cut back on how much she smokes, but did not smoke at all today or immediately before feeling short of breath.
+
+=== PAST MEDICAL HISTORY ===
+-asthma (PFTs in ___: FEV1/FVC 78%, FEV1 1.8L) w/ prior intubation in ___ for asthma exacerbation in pregnancy
+-HTN
+-reported G6PD deficiency 
+-prior splenectomy (reportedly for a splenic cyst ___
+-current tobacco use
+
+=== FAMILY HISTORY ===
+Mother and 3 siblings with G6PD. Brother has asthma.
+
+=== PHYSICAL EXAM ===
+___ ___ Temp: 97.8 PO BP: 149/81 HR: 92 RR: 18 O2 sat: 96%
+O2 delivery: Ra 
+GENERAL: Well-appearing, laying in bed comfortably, in NAD
+HEENT: NC/AT, EOMI, MMM
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. Soft systolic murmur at RUSB
+LUNGS: Good air movement bilaterally, rare wheezes in bilateral bases, no rhonci
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema.
+SKIN: Warm, well-perfused, no rashes
+NEUROLOGIC: A&Ox3, moving all extremities with purpose, no 
+facial asymmetry
+
+=== LABS AND IMAGING ===
+___ 09:50AM BLOOD WBC-12.9* RBC-4.08 Hgb-12.7 Hct-39.1 
+MCV-96 MCH-31.1 MCHC-32.5 RDW-13.8 RDWSD-48.4* Plt ___
+___ 09:50AM BLOOD Glucose-169* UreaN-22* Creat-1.4* Na-140 
+K-3.9 Cl-101 HCO3-23 AnGap-16
+
+- ___ EKG: Sinus tachycardia, biatrial enlargement, LVH with
+secondary repolarization abnormality and anterior ST elevation, unchanged from prior
+
+significant improvement in FEV1 of more than 16%

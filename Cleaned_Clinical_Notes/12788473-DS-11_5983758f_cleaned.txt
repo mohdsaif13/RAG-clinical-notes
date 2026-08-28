@@ -1,0 +1,61 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+convulsion spells concerning for seizure
+
+=== PATIENT HISTORY ===
+She is a 49 yo right handed female who presents with seizure-like events on a background of significant and long standing psychiatric disease, substance abuse. She was transfered to the ED after presenting to outpatient neurology clinic where she had several events concerning for non-epileptic seizure. 
+
+She reports episodes every 7 days that are described as follows: rapid shaking of both arms or legs followed by shaking of the the other extremities, back and forth shaking of the head, progression from one limb to another happens within seconds, overall episode can last up to 2 minutes, eyes are forced closed, she does not turn blue and there are no vocalizations. typically after an episode she almost immediately reorients to her surroundings and there is no significant post-ictal period - although she does feel generally tired. Typically she can hear people around her and denies complete loss of consciousness. No tongue biting and no episodes of incontinence during the seizure - although she does endorse chronic nocturia for which she intermittently wears diapers. She has no history of head trauma, concussion, motor vehicle accidents. 
+
+In the ED she experienced several episodes of whole body shaking for which she was not given rescue medication.
+
+She has no family of seizure.  Her brother suffered a stroke at age in post-op period and was found to have prothrombin gene mutation. The patient hreself was subsequently tested and found to have the mutation as well.
+
+=== PAST MEDICAL HISTORY ===
++Bipolar disorder
++history of opiate/benzo dependence - narcotics contract
++IV drug use - heroin , none in 4 months
++hepatitis C
++Prothrombin gene mutation; unclear significance, no history of clots, she was screened because her brother was found to have the mutation in a workup for stroke
+
+=== FAMILY HISTORY ===
+Mother and grandmother with depression/anxiety, mother with prior substance addiction; 
+father with heroin abuse and depression. Brother with prothrombin mutation and episode of stroke
+
+=== PHYSICAL EXAM ===
+Vitals:
+97.6 70 124/72 18 98% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs
+Abdomen: soft, nontender, nondistended
+Extremities: no edema, pulses palpated
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3.  Able to relate history without difficulty.  Language is fluent with intact repetition and comprehension.  Normal prosody.  There were no paraphasic errors.  Pt. was able to name both high and low frequency objects.  Able to read without difficulty.  Speech was not dysarthric.  Able to follow both midline and appendicular commands.  Attentive, able to name backward without difficulty.  Pt. was able to register 3 objects and recall at 5 minutes.  The pt. had good knowledge of current events.  There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm, both directly and consentually; brisk bilaterally.  VFF to confrontation.  
+III, IV, VI: EOMI without nystagmus.  Normal saccades.
+V: Facial sensation intact to light touch, pinprick in all distributions, and strength noted bilateral in masseter
+VII: No facial droop, facial musculature symmetric and strength in upper and lower distributions, bilaterally 
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline, and is equal strength bilaterally as evidenced by tongue-in-cheek testing.
+
+=== LABS AND IMAGING ===
+___ 03:00PM   ___ PTT-28.6 ___
+___ 03:00PM   PLT COUNT-205
+___ 03:00PM   WBC-6.1 RBC-3.85* HGB-12.9 HCT-37.1 MCV-97 MCH-33.4* MCHC-34.6 RDW-13.6Lactate:1.4
+___ 03:00PM   ALT(SGPT)-149* AST(SGOT)-96* ALK PHOS-60 TOT BILI-0.2
+___ 03:00PM   ALBUMIN-3.8 CALCIUM-9.1 PHOSPHATE-3.8 MAGNESIUM-2.1
+___:00PM   GLUCOSE-107* UREA N-12 CREAT-0.9 SODIUM-136 POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-26 ANION GAP-11
+___ 03:15PM URINE  RBC-2 WBC-1 BACTERIA-NONE YEAST-NONE EPI-4
+___ 03:15PM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-POS
+___ 03:15PM URINE  UCG-NEGATIVE
+
+EEG- multiple pushbutton events for her characteristic episodes of head shaking arm and leg convulsions with NO ELECTROGRAPHIC SEIZURES RECORDED.

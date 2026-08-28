@@ -1,0 +1,51 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+chest pain
+
+=== PATIENT HISTORY ===
+He is a year old man w now s/p DES to the left circumflex.  
+Patient is generally healthy and active with frequent exercise. Only medical comorbidity to this point is hypertension. He was exercising in the gym (weight lifting and running) around 7pm, and near the end of the work-out developed stabbing retrosternal chest pain radiating to the arm. He returned home, and with rest and a shower felt a little improvement in his chest pain. He went to sleep still having chest pain, but around 1130 woke with worsening pain, diaphoresis, dyspnea, and decided to come to the ED.  
+In the ED, initial vitals were: T 97.9, HR 89, BP 167/90, RR 18, SPO2 100% on RA.  
+EKG showed ST elevations in leads II, III, aVF, ST depressions in leads V1-2.
+
+=== PAST MEDICAL HISTORY ===
++ Hypertension  
++ Appendectomy
+
+=== FAMILY HISTORY ===
+father with hypertension
+
+=== PHYSICAL EXAM ===
+VS: T98, BP 121/73, HR 62, RR 18, O2 96% on RA   
+Tele: no alarms  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric
+Neck: Supple 
+CV: RRR, nl S1 S2, no m/r/g 
+Lungs: CTA b/l, no wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended
+GU: No foley  
+Ext: WWP, DP 2+ bilaterally  
+Neuro: CNII-XII intact
+
+=== LABS AND IMAGING ===
+admissions labs:
+05:46AM   GLUCOSE-93 UREA N-14 CREAT-0.9 SODIUM-138 POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-20* ANION GAP-18
+05:46AM   CALCIUM-9.1 PHOSPHATE-3.6 MAGNESIUM-2.7* CHOLEST-173
+05:46AM   %HbA1c-5.6 eAG-114
+05:46AM   TRIGLYCER-126 HDL CHOL-36 CHOL/HDL-4.8 LDL(CALC)-112
+05:46AM   WBC-5.8 RBC-5.28 HGB-15.9 HCT-46.9 MCV-89 MCH-30.1 MCHC-33.9 RDW-12.4 RDWSD-40.7
+05:46AM   PLT COUNT-285
+01:39AM   TYPE-ART PH-7.35 INTUBATED-NOT INTUBA
+01:39AM   GLUCOSE-104 NA+-131* K+-3.5 CL--97 TCO2-24
+01:39AM   freeCa-1.13
+12:45AM   GLUCOSE-117* UREA N-15 CREAT-1.0 SODIUM-138 POTASSIUM-3.9 CHLORIDE-98 TOTAL CO2-26 ANION GAP-18
+12:45AM   estGFR-Using this
+12:45AM   cTropnT-0.10*
+12:45AM   WBC-7.7# RBC-5.50 HGB-16.5 HCT-49.0 MCV-89 MCH-30.0 MCHC-33.7 RDW-12.4 RDWSD-40.6
+12:45AM   NEUTS-23.2* LYMPHS-60.9* MONOS-10.5 EOS-3.5 
+BASOS-1.8* IM AbsNeut-1.80 AbsLymp-4.71* AbsMono-0.81* 
+AbsEos-0.27 AbsBaso-0.14*
+___ 12:45AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 12:45AM   PLT COUNT-296

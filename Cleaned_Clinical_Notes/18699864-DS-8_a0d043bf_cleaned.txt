@@ -1,0 +1,52 @@
+=== PATIENT HISTORY ===
+The pt reports that he was at a friend's house who was cooking dinner the day of admission, around 7pm. The smell of food was strong, so they turned on the ceiling fan. He felt short of breath so he went outside to get some air, and someone was smoking. He breathed in the cigarette smoke and his symptoms got worse. He then presented to the ED. Of note, the patient reports that he has not been taking all of his asthma medications regularly because he ran out. He also continues to smoke 3 marijua blunts per day. His seasonal allergies have been bad lately with watery eyes and stuffy nose. No cough recently, no URIs, no fevers. No sick contacts. No chest pain.
+
+In the ED, initial VS were: 99.1 114 131/83 30 99% RA. HR improved to ___ and RR improved to 18. Labs were largely unremarkable. VBG 7.34/51/40/29. CXR showed no acute process. The patient received back to back duonebs, magnesium, and IV methylpred around 8:30pm, then duonebs again at 9pm and 11:30pm. 
+
+ 
+Upon arrival to the floor, the patient reports that his breathing is much better. He does not know his baseline peak flow.
+
+=== PAST MEDICAL HISTORY ===
+ALLERGIC RHINITIS
+ASTHMA
+-- Since childhood. Numerous asthma exacerbations. Never intubated. Asthma exacerbations have required steroids frequently.
+
+=== FAMILY HISTORY ===
+No history of CAD, MI, Early malignancy.  + history of asthma in maternal relatives.
+
+=== PHYSICAL EXAM ===
+97.5, 123/66, 105, 18, 99% on RA
+GEN: well appearing young man in NAD
+HENT: NCAT, OP clear, MMM
+Eyes: PERRL, EOMI, anicteric
+CV: RRR, no m/g/r
+Resp: breathing comfortably without tachypnea or accessory muscle use. diffuse adventitious breath sounds b/l with no wheezing. Good air movement. 
+GI: s, nd, nt, nabs
+GU: no foley
+Extr: wwp, no edema
+Neuro: CNs intact, ___ strength, full sensation
+Skin: no lesions or rashes
+Psych: normal affect and mood
+
+=== LABS AND IMAGING ===
+___ 08:44PM   ___ PO2-40* PCO2-51* PH-7.34* TOTAL 
+CO2-29 BASE XS-0
+___ 08:15PM   GLUCOSE-103* UREA N-6 CREAT-1.1 SODIUM-144 
+POTASSIUM-3.6 CHLORIDE-105 TOTAL CO2-28 ANION GAP-15
+___ 08:15PM   estGFR-Using this
+___ 08:15PM   CALCIUM-9.5 PHOSPHATE-3.8 MAGNESIUM-1.9
+___ 08:15PM   WBC-7.4 RBC-4.48* HGB-12.3* HCT-39.0* MCV-87 
+MCH-27.5 MCHC-31.5* RDW-14.4 RDWSD-45.4
+___ 08:15PM   NEUTS-61.6 ___ MONOS-5.4 EOS-3.7 
+BASOS-0.4 IM ___ AbsNeut-4.52 AbsLymp-2.12 AbsMono-0.40 
+AbsEos-0.27 AbsBaso-0.03
+___ 08:15PM   PLT COUNT-200
+
+Imaging:
+CXR ___:
+FINDINGS: 
+Lungs are clear.  The cardiomediastinal silhouette is within normal limits.  No acute osseous abnormalities.
+IMPRESSION: 
+No acute cardiopulmonary process.
+
+Peak expiratory flow show low persistence peak flow.

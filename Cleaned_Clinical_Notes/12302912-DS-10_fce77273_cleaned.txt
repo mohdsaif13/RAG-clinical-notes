@@ -1,0 +1,46 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Abdominal pain
+
+=== PATIENT HISTORY ===
+HISTORY OF PRESENT ILLNESS: w/ hx of recurrent abdominal pain, anxiety disorder who presents with burning chest sensation/epigastric pain that started several hours prior to presentation in the ED which he describes as "heartburn x Spitting up sour clear fluid. The pain is without radiation, associated with coughing fit and scant hemoptysis. He states he was scheduled for fundoplication 4 weeks ago, had vague RUQ abd pain and was cancelled. Now the burning sensation has been worsening over the past two weeks, with flares that are severe. 
+The patient is followed as an outpatient in consultation. He called the on-call attending, Dr. told him to come into the ED to have his pain evaluated. 
+In the ED, initial vs were: 98.6 120 148/84 18 95% RA. Labs were remarkable for AST 71, ALT 107. Chem7, CBC, and remaining LFTs were unremarkable (AP 117, Tbili 0.4, Alb 4.7, Lipase 28. Urine culture was sent, though UA was bland. Patient was given Zofran, dilaudid, promethazine, donnatal, viscous lidocaine, Aluminum-Magnesium Hydrox.-Simethicone. Thoracic surgery was consulted and did not see an indication for further thoracic involvment. Patient requested admission for symptoms and so the ED obliged. Vitals on Transfer: 98.3 100 122/87 14 96% RA. 
+On the floor patient reports epigastric and chest pain, worse with coughing fits. 
+
+Review of sytems: 
+(+) Per HPI 
+(-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denies cough, shortness of breath. Denies chest tightness, palpitations. No dysuria. Denies arthralgias or myalgias. Ten point review of systems is otherwise negative.
+
+=== PAST MEDICAL HISTORY ===
++Abdominal Pain NOS - Carries a diagnosis of acute intermittent porphyria though he has been extensively worked-up for this condition at multiple hospitals with no clear positive results. See note by Dr. for further details.
++Anxiety
++ADHD
+
+=== FAMILY HISTORY ===
+Mother with diabetes, type II
+
+=== PHYSICAL EXAM ===
+ON ADMISSION
+Vitals- 98.0, 19, 96%RA 
+General- falling asleep during conversations (was asleep when I walked into the room), orientedx3, in no acute distress 
+HEENT- Sclera anicteric, MMM, oropharynx clear 
+Neck- supple, JVP not elevated, no LAD 
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, rhonchi 
+CV- slightly tachy, Regular rhythm, normal S1, S2, no murmurs, 
+rubs, gallops 
+Abdomen- soft, non-tender, protuberant but non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, abdominal striae. 
+GU- no foley 
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema 
+Neuro- CNs2-12 intact, motor function grossly normal
+
+=== LABS AND IMAGING ===
+ON ADMISSION:
+01:20AM BLOOD WBC-7.1 RBC-4.76 Hgb-14.3 Hct-40.8 MCV-86 
+MCH-30.0 MCHC-35.1* RDW-14.5 Plt
+01:20AM BLOOD Glucose-92 UreaN-15 Creat-0.9 Na-139 
+K-3.5 Cl-102 HCO3-27 AnGap-14
+01:20AM BLOOD ALT-107* AST-71* AlkPhos-117 TotBili-0.4
+
+CXR: (PRELIM)
+The left subclavian line tip is at the level of junction of leftbrachiocephalic vein and SVC. Heart size and mediastinum are unremarkable. Bibasal linear opacities are present and most likely consistent with atelectasis. The Port-A-Cath catheter has been removed since the prior studies.
+Ambulatory reflux monitor：total AET：7.2% on pH-impedance monitoring

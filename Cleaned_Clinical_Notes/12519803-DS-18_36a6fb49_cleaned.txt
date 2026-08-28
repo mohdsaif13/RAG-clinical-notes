@@ -1,0 +1,59 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+shortness of breath
+
+=== PATIENT HISTORY ===
+She first noticed shortness of breath while walking up the stairs. She presented to her PCP who drew D-dimer that was elevated.  She was tachycardiac to 120s and had hypoxemia improving to low on NC. ECG showed "strain" in V2 and V3 and TWI in V2 and V3. Bedside ECHO showed RV dilitation. She was given 1 mg/kg lovenox SQ empirically.
+  
+Of note, she denies past medical history of cancer, estrogen usage, known hypercoagulability, recent travel.  No family history fo clotting disorders.
+﻿
+Labs were significant for troponin 0.3 and BNP 515. The patient was transferred for ICU admission.  Initial VS were: 97.8 20 98% 4L. cTropnT 0.10, lactate 2.3, BNP of 10000.  Heparin infusion was started, and lovenox was discontinued.  
+  
+On arrival to the MICU, the patient had no complaints or concerns.  In the MICU she was continued on heparin infusion and started on coumadin today.  
+﻿
+Currently patient reports mild sob but denies any chest pain, palpitations, coughing, n/v, diaphoresis, diarrhea, constipation, hematochezia, dysuria, hematuria.  Denies any recent weight loss.
+﻿
+
+=== PAST MEDICAL HISTORY ===
++ Hypertension  
++ Osteoarthritis
+
+=== FAMILY HISTORY ===
+No history of clotting disorder or DVT/PE. No history of neoplasm.
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+VT: 98.1  HR 95  BP 140s/80  O2 98% on 2L
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred, finger-to-nose intact
+Skin: diffuse hyperpigmented lesion in the her face.  one 
+crusted escahar lesion in her lower lip.
+
+=== LABS AND IMAGING ===
+Admission/Pertinent Labs:
+___ 07:25PM BLOOD WBC-12.7* RBC-4.60 Hgb-15.2 Hct-42.1 MCV-91 MCH-32.9* MCHC-36.0* RDW-15.3
+___ 07:25PM BLOOD Neuts-88.0* Lymphs-7.2* Monos-4.1 Eos-0.4 Baso-0.2
+___ 07:25PM BLOOD PTT-39.7*
+___ 07:25PM BLOOD Glucose-125* UreaN-36* Creat-1.2* Na-134 K-7.2* Cl-99 HCO3-26 AnGap-16
+___ 07:25PM BLOOD cTropnT-0.10*
+___ 02:02AM BLOOD CK-MB-5 cTropnT-0.09*
+___ 08:10PM BLOOD CK-MB-6 cTropnT-0.07*
+___ 07:25PM BLOOD Calcium-9.8 Phos-3.6 Mg-1.9
+___ 07:35PM BLOOD Lactate-2.3* K-5.6*
+___ 11:28PM BLOOD Lactate-1.4
+.
+TTE: 
+The patient is hemodynamically stable. The left atrium is dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF 75%). Doppler parameters are most consistent with Grade I (mild) left ventricular diastolic dysfunction. The right ventricular free wall thickness is normal. The right ventricular cavity is dilated with severe global free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. There are focal calcifications in the aortic arch. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. 
+.

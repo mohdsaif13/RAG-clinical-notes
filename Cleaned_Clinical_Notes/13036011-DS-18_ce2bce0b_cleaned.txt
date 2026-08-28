@@ -1,0 +1,93 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Gait difficulty
+
+=== PATIENT HISTORY ===
+She is a left-handed woman who presents with difficulty walking. She began having trouble, when she fell as a result of her ankle "giving out." She is uncertain if this was a loss of strength, balance, or if she just stepped wrong. She had a severe sprain, and was seen in Orthopedic surgery. She was given a CAM walker. Since then, she has had progressive difficulty walking, with stiffness and "shaking" of her legs (clonus), left more than right. She has also had mild urinary hesitation a couple of times, though none recently. She has had paresthesias in her palms and feet, L > R. She described his condition as getting worse over the past year, with no improvement.
+﻿
+She was diagnosed with a myelopathy. MRI of her C-spine showed multiple T2 lesions: 1 at C1, 1 at C3, and smaller ones at C4, C5, & C6. The C1 and C3 lesions are enhancing. Her brain MRI similarly showed 2 periventricular T2 lesions, 1 subcortical lesion, and 3 infratentorial lesions, none of which enhanced. 
+﻿
+Her gait is impaired by her spasticity and clonus, she is being admitted for IV methylprednisolone treatment.
+﻿
+Today on neurologic ROS, she reported some hazy vision but denied headache, loss of vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus or hearing difficulty. Denied difficulties producing or comprehending speech. No bowel or bladder incontinence.
+﻿
+On general review of systems, she denied recent fever or chills. No night sweats or recent weight loss or gain. Denied cough, shortness of breath.  Denied chest pain or tightness, palpitations.  Denied nausea, vomiting, diarrhea, constipation or abdominal pain.  No recent change in bowel or bladder habits. No dysuria.  Denied arthralgias or myalgias. Denied rash.
+﻿
+
+=== FAMILY HISTORY ===
+Father with bipolar disease. No neurologic or autoimmune disease in family.
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+Vitals: T: 98.8 P: 82 R: 16 BP: 110/78 SaO2: 99%RA 
+General: Awake, cooperative, NAD. 
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx 
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity 
+Pulmonary: Lungs CTA bilaterally without R/R/W 
+Cardiac: RRR, nl. S1S2, no M/R/G noted 
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted. 
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses bilaterally. 
+Skin: no rashes or lesions noted. 
+﻿
+Neurologic: 
+-Mental Status: Alert, oriented x 3.  Able to relate history without difficulty.  Attentive, able to name backward without difficulty.  Language is fluent with intact repetition and comprehension.  Normal prosody.  There were no paraphasic errors. Pt. was able to name both high and low frequency objects. Speech was not dysarthric. Able to follow both midline and appendicularcommands. Pt. was able to register 3 objects and recall at 5 minutes.  The pt. had good knowledge of current events.  There was no evidence of apraxia or neglect. 
+﻿
+  
+-Cranial Nerves: 
+I: Olfaction not tested.  
+II: PERRL 7 to 3mm and brisk.  VFF to confrontation. Funduscopic exam revealed no papilledema, exudates, or hemorrhages. 
+III, IV, VI: EOMI without nystagmus.  Normal saccades. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally.  
+IX, X: Palate elevates symmetrically.  
+XI: strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline.
+﻿
+-Motor: Spasticity in LEs, R > L. Normal bulk throughout. No pronator drift bilaterally. No adventitious movements noted. No asterixis noted. 
+﻿
+Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___ 
+L  5    5    5  5    ___ 5-   ___    5     4   4 
+R  5    5    5  5    ___ 5    5   4+  5    5     4   4 
+﻿
+-Sensory: Reports subjective decreased light touch over left great toe. No other deficits to light touch. No deficits to pinprick, cold sensation, vibratory sense, proprioception throughout. No extinction to DSS. 
+﻿
+-DTRs: 
+Bi Tri ___ Pat Ach 
+L  ___    4   4 
+R  ___    4   4 
+Bilateral clonus at ankles.
+﻿
+Plantar response was extensor bilaterally. 
+﻿
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally. 
+﻿
+-Gait: Good initiation. Slightly wide-based, short stride, reduced arm swing. Walks on heels with toes up. Unable to walk in tandem. Romberg weakly positive. 
+﻿
+
+=== LABS AND IMAGING ===
+___ 02:00PM   LUPUS-NEG
+___ 02:00PM   SED RATE-15
+___ 02:00PM   PTT-28.6
+___ 02:00PM   WBC-13.4* RBC-4.54 HGB-13.0 HCT-39.8 MCV-88 MCH-28.6 MCHC-32.6 RDW-12.9
+___ 02:00PM   NEUTS-75.7* MONOS-4.2 EOS-1.6 BASOS-0.2
+___ 02:00PM   PLT COUNT-368
+___ 02:00PM   HIV Ab-NEGATIVE
+___ 02:00PM   PEP-NO SPECIFI
+___ 02:00PM   CRP-3.6
+___ 02:00PM   ___
+___ 02:00PM   TSH-1.5
+___ 02:00PM   UREA N-12 CREAT-0.8 SODIUM-144 POTASSIUM-3.9 CHLORIDE-106
+___ 02:00PM   TOT PROT-7.6 ALBUMIN-4.6 GLOBULIN-3.0
+___ 02:00PM   TSH-1.5
+___ 09:06PM URINE  COLOR-Yellow APPEAR-Clear
+___ 09:06PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG
+___ 09:06PM URINE  RBC-189* WBC-1 BACTERIA-FEW YEAST-NONE EPI-1
+___ 09:06PM URINE  MUCOUS-RARE
+﻿
+<br>
+Reports:
+CXR: 
+IMPRESSION: PA and lateral chest reviewed in the absence of prior chest radiographs:
+Normal heart, lungs, hila, mediastinum and pleural surfaces.
+﻿

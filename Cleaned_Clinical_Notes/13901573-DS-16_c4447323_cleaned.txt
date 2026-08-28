@@ -1,0 +1,72 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+N/A
+
+=== PATIENT HISTORY ===
+The patient is a right-handed woman who presented to the ED with a 5 day history of diplopia, tingling and pain in all extremities and left arm weakness. 
+﻿
+She also started having diplopia, especially when looking to the left. , This improved and she received an infusion of Tysabri.  She mentioned her symptoms at that time but did not feel an MD appointment was necessary.  She developed a severe left-sided headache and spread of her numbness to her left arm and both legs. Today she developed weakness of her left arm and severe stabbing like pain especially when her arm is touched or moved. She contacted our neurologist-on -call, recommended she come to the ED.
+﻿
+With regards to her MS, she was diagnosed with relapsing remitting 3 years ago and is followed by Dr.  Her initial presentation at which point she was found to have bilateral FLAIR intensities in the subcortical white matter and 8 oligoclonal bands in the CSF.  She has been on Tysabri for 4 months and previously was on Copaxone and Avonex. 
+﻿
+She also reports over the past 2 weeks she has both had a URI with laryngitis and a GI illness. Prior to that she had an eye infection from a cat scratch.  
+﻿
+On neurologic review of systems, the patient denies headache, lightheadedness, or confusion. Denies difficulty with producing or comprehending speech. Denies loss of vision, vertigo, tinnitus, hearing difficulty, dysarthria, or dysphagia. Denies bowel or bladder incontinence or retention. 
+﻿
+On general review of systems, the patient denies fevers, rigors, night sweats, or noticeable weight loss. Denies chest pain, palpitations, dyspnea. Denies dysuria or hematuria. Denies myalgias, arthralgias, or rash.
+﻿
+
+=== PAST MEDICAL HISTORY ===
+1) Migraines - correlating with menses
+2) Sickle cell trait
+3) Anxiety/depression
+
+=== FAMILY HISTORY ===
+Significant for lupus, sickle cell, diabetes, migraines.
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+Admission Physical Examination:
+VS T 98.1 62 105/66 16 100% RA 
+General:  NAD 
+HEENT: NC/AT,  no oropharyngeal lesions, neck supple
+: RRR, no M/R/G 
+Pulmonary: CTAB, no crackles or wheezes
+Abdomen: Soft, NT, ND, +BS, no guarding 
+Extremities: Warm, no edema
+Skin: No rashes or lesions
+﻿
+Neurologic Examination:
+- Mental Status - Awake, alert, oriented x 3. Attention to examiner easily attained and maintained. Concentration maintained when recalling months backwards. Recalls a coherent history. Structure of speech demonstrates fluency with full sentences, intact repetition, and intact verbal comprehension. Content of speech demonstrates intact naming (high and low frequency) and no paraphasias. Normal prosody. No dysarthria. Verbal registration and recall. No apraxia. No evidence of hemineglect. No left-right agnosia.
+﻿
+- Cranial Nerves - PERRL 5->4 brisk. VF full to number counting.
+EOMI, no nystagmus, although she does endorse diplopia on extreme right and left end gaze. V1-V3 without deficits to light touch bilaterally. No facial movement asymmetry. Hearing intact to finger rub bilaterally.  Palate elevation symmetric. SCM/Trapezius strength bilaterally. Tongue midline.
+﻿
+- Motor - Normal bulk and tone. No drift. No tremor or asterixis.
+The below strength exam is limited by pain. 
+Delt Bic Tri WrE FFl FE IO  IP Quad Ham TA Gastroc  
+L  5    4+  4+ 4+  5   5    5  4     5     
+R  5   5-   5    5  5     5     
+﻿
+- Sensory - Significant allodynia and hypesthesia on light touch. upon testing of biceps reflex on right she yelled out in pain and described shooting pain into her fingers.  After a 15 seconds, she regrouped but requested no other reflexes be tested.  Also declined pinprick testing. No proprioception deficit bilaterally.
+﻿
+-DTRs: (* patient declined given hypesthesia)
+Bi Tri Pat Ach
+L  2  2    *    *   *
+R  2  2    *    *   *
+Plantar response mute bilaterally.
+﻿
+- Coordination - No dysmetria with finger to nose testing bilaterally. Good speed and intact cadence with rapid alternating movements.
+﻿
+
+=== LABS AND IMAGING ===
+ADMISSION LABS:
+___ 10:00PM BLOOD WBC-14.2* RBC-3.53* Hgb-10.2* Hct-31.5* MCV-89 MCH-28.8 MCHC-32.3 RDW-12.7 Plt ___
+___ 10:00PM BLOOD Neuts-51.0 ___ Monos-3.4 Eos-3.1 Baso-0.8
+___ 10:00PM BLOOD Glucose-87 UreaN-8 Creat-0.7 Na-138 K-3.7 Cl-104 HCO3-26 AnGap-12
+﻿
+___ 09:40AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG
+﻿
+___ 09:40AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 09:40AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG
+﻿
+The number of central nervous system lesions continues to increase.

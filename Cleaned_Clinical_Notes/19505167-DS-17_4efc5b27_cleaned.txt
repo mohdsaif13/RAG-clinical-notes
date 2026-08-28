@@ -1,0 +1,38 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+black stools X 3 days
+
+=== PATIENT HISTORY ===
+The patient is a year old man with hypertension who presents with 3 days of black stool and epigastric discomfort. The patient states that he began having non-radiating, epigastric pain on . The pain subsided but returned on night. From midnight to 4am, he experienced epigastric pain and a sensation of pressure and gas, which was relieved after an episode of non-bloody emesis. He also had an episode of "black diarrhea" that night. The patient has been pain-free since morning but notes that he continues to have black stool, including his last bowel movement this morning. The patient presented to today and saw Dr. who referred him to the ED for melena, abdominal pain, and tachycardia. The patient denies any fevers, chest pain, shortness of breath, lightheadedness, or NSAID use. He does note a 5 pound weight loss which he attributes to exercise. In the ED, initial VS: 99.2 94 150/85 19 100% RA. An NG lavage was performed, yielding clear lavage. His stool was black and guaiac negative (although it was later guaiac positive on the floor). He also received IV protonix. Currently, the patient is resting comfortably. He has no pain, nausea, or diarrhea. GI saw the patient and, through an interpreter, explained the plan for EGD. After speaking to his wife, the patient has declined EGD. He states that he needs to support his wife and daughter and that this hospitalization was not planned. He feels like he is okay right now and would like to do the EGD at a later date. He has agreed to stay overnight for monitoring but would like to go home tomorrow. He also refused to sign a consent for blood and said he would do this later.
+
+=== PAST MEDICAL HISTORY ===
++Hypertension - not currently on any medication
+
+=== FAMILY HISTORY ===
+unknown
+
+=== PHYSICAL EXAM ===
+Vitals - T:99.3 HR:94 RR:20 02 sat:99RA  
+GENERAL: Sitting in bed, comfortable, NAD.  
+HEENT: Normocephalic, atraumatic; PERRLA, sclera anicteric, oropharynx clear without erythema or lesion, moist mucus membranes, neck supple, no lymphadenopathy.  
+CARDIAC: regular rate and rhythm, normal S1 and S2, no murmurs appreciated.  
+LUNG: Clear to auscultation bilaterally, no wheezes or crackles. 
+ 
+ABDOMEN: large abdomen, +bowel sounds, soft, non-tender, non distended, no pain on palpation, no guarding or rebound pain  
+EXT: warm, well-perfused, no edema, 2+ DP and pulses.  
+NEURO: A&Ox3, CN intact  
+DERM: No rashes  
+RECTAL: minimal stool, brown and black, guaiac positive
+
+=== LABS AND IMAGING ===
+01:15PM   
+Sodium-141 Potassium-4.5 Chloride-107 Total CO2-27 Urea N-14 Creat-1.0 Glucose-91 Anion Gap-12
+ALT-25 AST-22 LDH-146 Alk Phos-50 Tot Bili-0.4Albumin-4.5 Lipase-45
+WBC-6.9 RBC-5.06 Hgb-13.1* Hct-40.5 MCV-80* MCH-25.9* MCHC-32.3 
+RDW-16.1* Plt
+Serial Hct:
+01:20PM Hgb-14.4  Hct-43
+08:00PM           Hct-37.5*
+05:50AM Hgb-11.6* Hct-36.6* 
+Iron Studies:
+Iron-60 calTIBC-373 Ferritn-31 TRF-287
+Endoscopy:Gastric ulcer with bleeding

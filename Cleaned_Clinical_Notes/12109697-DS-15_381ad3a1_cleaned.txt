@@ -1,0 +1,47 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Fatigue, weakness
+
+=== PATIENT HISTORY ===
+Patient is an ___ year old female with a history of HTN, DM type II and a recent admission for altered mental status that resolved on its own, who presents with subjective, gradually worsening weakness for the past day.  Prior to presentation to the ER, this morning she was walking down the hall in her independent living facility and became weak, she was found by the staff hunched over her walker unable to move the walker forward.  At that time she says that everything seemed kind of cloudy.  She says that overall she just feels tired.  She has had some vertiginous symptoms, but not particularly associated with her generalized weakness/fatigue.  Her neice feels that since her recent admission for AMS she has never returned to her baseline.  The niece does say that the staff where her aunt lives feels that she is no longer appropriate for an independent living facility. Patient says she has been eating and drinking well, no cp, shortness of breath, fevers, chills, n/v/d.
+
+=== PAST MEDICAL HISTORY ===
+Hx of falls with fractures of her wrists, hip and pelvis  
+DM type 2  
+HTN  
+hx of breast ca  
+osteoperosis  
+anxiety
+
+=== FAMILY HISTORY ===
+N/C
+
+=== PHYSICAL EXAM ===
+Vitals: T:96.3  BP:144/84  P:74  R:18  SaO2:96% on RA  
+GENERAL: Pleasant, well appearing elderly caucasian female in NAD  
+HEENT: No conjunctival pallor. No scleral icterus. EOMI. MMM. OP clear. Neck Supple, No LAD, No thyromegaly.  
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, 
+rubs or ___. 
+LUNGS: CTAB, good air movement biaterally, khyphotic spine  
+ABDOMEN: NABS. Soft, NT, ND. No HSM  
+EXTREMITIES: trace bilateral edema
+SKIN: scattered SK's on back and abdomen  
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved sensation throughout. ___ strength throughout. 
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+=== LABS AND IMAGING ===
+___ 01:00PM BLOOD WBC-9.2 RBC-4.17* Hgb-11.6* Hct-37.0 MCV-89 MCH-27.8 MCHC-31.3 RDW-13.1 Plt ___
+___ 01:00PM BLOOD Glucose-125* UreaN-24* Creat-1.0 Na-139 K-4.3 Cl-101 HCO3-25 AnGap-17
+___ 01:00PM BLOOD cTropnT-<0.01
+___ 01:00AM BLOOD CK-MB-NotDone cTropnT-0.01
+___ 07:30AM BLOOD Calcium-9.1 Phos-3.7 Mg-1.8
+
+CT Head: 
+IMPRESSION: 
+1. No intracranial hemorrhage. No midline shift. 
+2. Persistent changes secondary to chronic microvascular 
+disease. 
+
+Chest X-ray: IMPRESSION: 
+1. Elevated left hemidiaphragm. No focal consolidation or pleural effusion seen. 
+2. Diffuse osteopenia. Suggestion of vertebral body height loss 
+in the mid thoracic region.

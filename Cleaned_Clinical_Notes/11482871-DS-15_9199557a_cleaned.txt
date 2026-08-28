@@ -1,0 +1,38 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+asymptomatic hypoxia
+
+=== PATIENT HISTORY ===
+She with Stage III colon cancer s/p 11 cycles of FOLFOX who initially presented to clinic the day of presentation to have her post de-accessed presented to clinic today to have her port de-accessed when she was found to be tachypneic, with O2 sat of 83%.  As per report, the patient was in mild distress but able to speak in full sensations. A CXR at clinic was notable for streaky densitites in the right lower base.  In the ED, vitals 97.7 74 143/83 20 96% on RA, however, desatted to 85% when standing. CXR prelim read as bibasilar opacities consistent with atelectasis cannot exclude infection. Blood cultures sent and pt treated with vanc and ceftriaxone. UA significant for moderate leukocyte exterase and 8 WBCs.  On arrival to the floor, pt does appear to have some labored breathing though she states that she feels well. She notes that several days ago she had been feeling short of breath and had used her CPAP O2 at times. She states that she had been feeling fine today, though without SOB. On ROS she does note that her legs felt a little weak today. She endorses headache. She states that her bowel movements and leg swelling are at baseline. The patient had been on lasix but the medication was discontinued when she began chemotherapy. Detailed ROS otherwise negative.
+
+=== PAST MEDICAL HISTORY ===
++ Diabetes Mellitus 2  
++ Hypertension  
++ Chronic Kidney Disease  
++ OSA, uses CPAP at night  
++ Hypothyroidism
+
+=== FAMILY HISTORY ===
+NC
+
+=== PHYSICAL EXAM ===
+VS: 97.8 131/57 86 18 94% RA, desats to 81% with ambulation
+General: Pleasant, well appearing woman, NAD
+HEENT: EOMI, PERRL, MMM, no thrush
+Neck: Supple, obese
+CV: RRR S1 S2, no murmurs/rubs/gallops
+Lungs: CTAB, no crackles
+Abdomen: soft, nontender, nondistended, +BS, obese  
+Extremities: warm, well perfused, 2+ DP pulses, 1+ pitting edema bilaterally, symmetric, no calf tenderness appreciated 
+Skin: No rashes
+
+=== LABS AND IMAGING ===
+CXR: IMPRESSION:  Bibasilar opacities likely due to atelectasis; however, infection is not completely excluded.  Please correlate clinically. 
+﻿
+CTA:  
+FINDINGS:  A right chest wall Port-A-Cath terminates in the cavo-atrial junction.  The pulmonary arteries are well opacified to subsegmental levels, without evidence of pulmonary embolism. Mild atherosclerotic calcification is seen in the thoracic aorta, without aneurysmal dilation or dissection.  Moderate mitral annular calcification is noted.  The heart size is normal.  There is no pericardial effusion.  Mild coronary arterial calcification is present.  Multiple small scattered reactive mediastinal lymph nodes are seen in the right paratracheal, prevascular, and subcarinal stations and hila, measuring up to 14 mm in the right hilum and 12 mm in the left hilum (3:37). 
+  
+The major airways are patent to subsegmental levels bilaterally. 
+ 
+Moderate-to-severe centrilobular emphysema is seen in both lungs, predominant in the upper lobes. A 4-mm right perissural upper lobe pulmonary nodule (2:29) is seen.   Mild small airways wall thickening is seen in both lower lobes, predominant in the right lower lobe.  An area of consolidation in the medial segment of the right middle lobe (3:53) likely represents atelectasis.  Linear subsegmental atelectasis is seen in both lower lobes.  There are no pleural or pericardial effusions.
+
+Post-bronchodilator FEV1/FVC < 0.70. FEV1 82%

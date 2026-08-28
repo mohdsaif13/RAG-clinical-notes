@@ -1,0 +1,96 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Hemoptysis
+
+=== PATIENT HISTORY ===
+She has history of tracheal esophageal fistula, esophageal atresia, dysmotility, recurrent aspiration pneumonia, hypoplastic left lung, chronic cough, who presents with hemoptysis. 
+﻿
+Patient reports that the day prior to admission she was in her usual state of health when she coughed up a dark red blood clot while playing mini-golf on vacation. The following day she again coughed up blood - this time around 1 teaspoon of bright red blood. She reports that prior to this she had no cough, shortness of breath, chest pain, fevers or chills. She also reports no nosebleeds, sore throat, nausea or vomiting. This has not happened to her before. She is not lightheaded or dizzy. 
+﻿
+On review of records, she was recently seen for a new chronic cough. st was felt that her ACEi and GERD were likely contributing factors. She was switched from Lisinopril to losartan and was started on a PPI twice daily for GERD. She was also noted to have a restrictive pattern of PFTs, thought possibly due to her hypoplastic lung. Patient states that since this visit her cough has improved and she has gone back to once daily omeprazole. 
+﻿
+In the ED:
+﻿
+Initial vital signs were notable for: T 97.9, HR 98, BP 148/81,RR 18, 100% RA 
+﻿
+Labs were notable for:
+﻿
+- CBC: WBC 8.3, hgb 14.9, plt 167 
+﻿
+- Lytes:
+﻿
+140 / 102 / 14     AGap=13 
+-------------- 217 
+4.0 \ 25 \ 0.7 
+﻿
+- coags: ___: 10.9  PTT: 27.9  INR: 1.0  
+﻿
+Consults: IP was consulted, recommending CTA chest, evaluation of upper airway at bedside, broad spectrum antibiotics, and NPO at midnight for bronch 
+﻿
+Studies performed include:
+- CTA chest with no evidence of active intrathoracic contrast extravasation/hemorrhage
+- Bedside evaluation of upper airways was normal 
+﻿
+Patient was given: 
+___ 21:57 subcutaneous Tresiba FlexTouch U-100 *NF* (insulin degludec)  
+___ 21:59 IV CefTRIAXone (1 g ordered)  
+___ 23:08 IV Azithromycin 500 mg 
+﻿
+Vitals on transfer: T 98.5, HR 66, BP 110/73, RR 18, 96% RA 
+﻿
+Upon arrival to the floor, patient recounts history as above. Shestates she continues to feel well. 
+﻿
+ROS: Pertinent positives and negatives as noted in the HPI.  All other systems were reviewed and are negative. 
+﻿
+
+=== PAST MEDICAL HISTORY ===
++ She was born with esophageal atresia with a tracheal fistula that was repaired surgically as a child.
++ atonic upper esophagus.
++ Other congenital abnormalities include a hypoplastic left lung and breast, scoliosis and developmental delay among others.
++ restrictive lung disease due to chest wall abnormalities. 
++ angioedema due to some foods.
++ Aspiration w/ frequent aspiration pneumonia
++ Hypothyroidism.
++ Hypertension.
+
+=== FAMILY HISTORY ===
+- mother  - type I diabetes
+- father - mesothelioma
+- son - asthma, allergies
+- brother - crohns
+- sister - rheumatoid arthritis
+
+=== PHYSICAL EXAM ===
+================
+VITALS: T 98.5, HR 66, BP 110/73, RR 18, 96% RA 
+GENERAL: Thin woman, alert and in no acute distress 
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+=== LABS AND IMAGING ===
+Admission Labs:
+================
+___ 04:13PM BLOOD WBC-8.3 RBC-4.98 Hgb-14.9 Hct-45.0 MCV-90 MCH-29.9 MCHC-33.1 RDW-12.8 RDWSD-42.2 
+___ 04:13PM BLOOD Neuts-70.5 Monos-6.3 Eos-0.5* Baso-0.7 AbsNeut-5.86 AbsLymp-1.79 AbsMono-0.52 AbsEos-0.04 AbsBaso-0.06
+___ 04:22PM BLOOD PTT-27.9
+___ 04:13PM BLOOD Glucose-217* UreaN-14 Creat-0.7 Na-140 K-4.0 Cl-102 HCO3-25 AnGap-13
+___ 04:13PM BLOOD Calcium-9.8 Phos-2.9 Mg-1.8
+﻿
+Micro:
+=========
+BAL from RUL of lung: Prelim gram stain with 3+ pmns, no microorganisms
+﻿
+Bronch:
+===============
+No evidence of old blood in proximal BI likely source RUL. No active bleeding. A bronchial lavage with 90mL of saline performed
+
+Antibody test:
+===============
+ICA antibody test result is positive

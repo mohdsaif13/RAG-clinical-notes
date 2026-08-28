@@ -1,0 +1,50 @@
+=== PATIENT HISTORY ===
+___ year old previously healthy woman who was sent in after a CT chest showed a cavitary lesion. The patient started having fevers, fatigue, chest pain, cough, and SOB 8 days ago, and was started on an unknown antibiotic by her PCP. Her cough worsened and she was seen in the ___ ED 5 days ago and a CXR revealed a LUL infiltrate for which she was started on clarithromycin. After this, her symptoms improved slightly.
+
+She has a h/o of several months of bone pain and polyarthitis, for which is followed by Dr. ___ in rheumatology. She had a routine visit with him yesterday (___) and though she reported decreased cough and SOB, her continued symptoms prompted a CT chest which revealed a LUL cavitary lesion concerning for TB vs. fungal infection. A PPD was placed in her left forearm and she was advised to come to the ED for further evaluation.
+
+=== PAST MEDICAL HISTORY ===
+Childhood asthma
+
+=== FAMILY HISTORY ===
+Father has high cholesterol, mother has back problems.  No 
+family members with tuberculosis. Sister had a positive PPD test and here chest xray was negative (unclear when).
+
+=== PHYSICAL EXAM ===
+VS: 97.6, 99/63, 59, 18, 100%RA
+GENERAL: Thin well-appearing woman in NAD, comfortable, appropriate.
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.
+NECK: Supple, no thyromegaly, no JVD, no carotid bruits.
+HEART: RRR, no MRG, nl S1-S2.
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.
+ABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses, joints  non-tender and non-erythematous and with full ROM.
+SKIN: No rashes or lesions.
+LYMPH: No cervical LAD.
+NEURO: A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout.
+
+=== LABS AND IMAGING ===
+___ 10:50PM BLOOD WBC-6.2 RBC-4.58 Hgb-13.1 Hct-39.6 MCV-87 MCH-28.7 MCHC-33.1 RDW-13.2 Plt ___
+___ 10:50PM BLOOD Neuts-71.5* ___ Monos-3.5 Eos-2.3 
+Baso-1.3
+___ 10:50PM BLOOD ___ PTT-27.5 ___
+___ 10:50PM BLOOD Glucose-127* UreaN-12 Creat-0.6 Na-142 
+K-4.2 Cl-105 HCO3-26 AnGap-15
+___ 07:45AM BLOOD WBC-5.2 RBC-4.69 Hgb-13.0 Hct-40.0 MCV-86 MCH-27.8 MCHC-32.6 RDW-13.5 Plt ___
+
+Sputum Tests:
+___ 12:10 pm SPUTUM      Source: Expectorated. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and >10 epithelial cells/100X field. 
+      examine result show sputum samples for  mycobacterium tuberculosis
+
+
+CT Scan of Chest
+ 
+COMPARISON: No prior study is available for comparison.
+ 
+TECHNIQUE: MDCT-acquired axial images were obtained through the chest without IV contrast. Coronal and sagittal reformats were displayed.
+ 
+Within the lungs, there is a dominant thick-walled cavitary 
+lesion measuring 4.5 x 2.3 cm in the superior segment of the left lower lobe. It is difficult to discern whether there is extension of this process across the major fissure or if there is an incomplete fissure. Multiple other cavitary conolidations are noted at the left lung apex and seen best on the coronal sequence (for example, series 8 image 32).

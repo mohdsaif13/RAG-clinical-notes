@@ -1,0 +1,57 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Shortness of breath
+
+=== PATIENT HISTORY ===
+66 y/o female here with DM, CKD, silent MI in past, p/w SOB for the last 4 days with fever, body aches, chills, and headaches. Had a fever of 99.5 Influenza- like-illness symptoms. She went today referred here for cardiac evaluation. Her Trop 0.03 at OSH. 
+
+Patient reports that she has been feeling ill with the "flu" for a week.  No coughing, but fever (subjective), chills, body aches. No chest pain. She does have SOB, because her "lungs hurt." No runny nose. She had an uncomfortable night, and had trouble breathing at night. She felt her right hand tingling. She took two nitroglycerines because she felt short of breath, and because she was not sure what to do. 
+
+In the ED, initial vitals were 0 97.0 70 170/74 20 98%. RR 20. Labs and imaging significant for Na 132, Cr 1.7, troponin 0.06, Hct 32.2. CXR wnl. EKG showing no changes. Patient was given tylenol for her fever. Vitals on transfer were 100.6, 68, 30, 99 RA. Patient was Chest pain-free while in our facility. She was given tylenol in the ED. 
+
+On arrival to the floor, patient was complaining of a headache, her vitals were 100.3, 153/71, 68, 18, 98RA  wt 92.7KG.  She felt well.
+
+=== PAST MEDICAL HISTORY ===
++Insulin dependent diabetes mellitus
++Hypothyroidism.  
++CKD stage III secondary to DM 
++CHF
++Hypertension.  
++Macular degeneration, blind in right eye  
++Chronic Pseudomonas cystitis  
++Yeast UTI.  
++Peripheral vascular disease s/p left fem pop
++Hyperlipidemia
+
+=== FAMILY HISTORY ===
+She has a history of CAD in her family and diabetes. Mother is healthy. Father died from prostate cancer. Brother died alcohol abuse. Sister is healthy. No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.
+
+=== PHYSICAL EXAM ===
+VS: 100.3-___
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Blind in R. eye. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+NECK: Supple, no JVD.  
+CARDIAC:  normal S1, S2. No m/r/g.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: two small ulcer on left leg, healing. No discharge noted.
+
+=== LABS AND IMAGING ===
+___ 01:00PM   ___ PTT-27.9 ___
+___ 01:00PM   PLT COUNT-248
+___ 01:00PM   NEUTS-75.1* ___ MONOS-3.3 EOS-0.4 BASOS-1.2
+___ 01:00PM   WBC-7.2 RBC-4.17* HGB-11.0* HCT-32.2* MCV-77* MCH-26.5* MCHC-34.2 RDW-13.6
+___ 01:00PM   TRIGLYCER-142 HDL CHOL-21 CHOL/HDL-3.8 LDL(CALC)-31
+___ 01:00PM   CALCIUM-8.7 PHOSPHATE-3.3 MAGNESIUM-2.3 CHOLEST-80
+___ 01:00PM   CK-MB-3
+___ 01:00PM   CK(CPK)-45
+___ 01:00PM   estGFR-Using this
+___ 01:00PM   GLUCOSE-177* UREA N-25* CREAT-1.7* SODIUM-132* POTASSIUM-4.2 CHLORIDE-97 TOTAL CO2-23 ANION GAP-16
+___ 07:38PM   CK-MB-2 cTropnT-0.07*
+___ 07:38PM   CK(CPK)-41
+
+CXR:IMPRESSION: PA and lateral chest compared to previous: Punctate pulmonary calcifications are more numerous and central lymph node calcifications larger today than they were on a two prior studies. These are probably the residual granulomatous pulmonary infection, particularly histoplasmosis. The new mild peribronchial opacification in the lower lobes, particularly the right, is not a manifestation of reactivation of fungal pneumonia, but represent viral infection.  
+
+#Depression - patient expressed some passive SI, and was evaluted by Psychiatry who agreed that she is likely depressed. She reported feeling depressed since in context of recurrent hospitalizations. It was decided that patient may benefit from starting zoloft for her depression (which is less likely to interact with other meds she is on). Patient will need follow up with PCP to continue to discuss her mood. 
+Inactive Issues
+
+# PUMP: Overall left ventricular systolic function is mildly depressed (LVEF= 40-45 %), with mildly depressed global LV systolic function and elevated LV filling pressures, without significant valvular disease. Not a candidate for CABG.

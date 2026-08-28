@@ -1,0 +1,35 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Goiter causing compressive symptoms.
+
+=== PATIENT HISTORY ===
+This young woman with a history of pulmonary emboli presented with a goiter and she was having compressive symptoms.  Preoperatively, she was cautioned that removal of this goiter might not in fact alleviate her pressure symptoms completely, but nevertheless, she felt obliged to undergo the operation.  Her Coumadin was tapered down so that her INR yesterday was 2.1, and I gave her smaller dose than normal, but today, when she showed up, her INR was 1.2.  we therefore gave her mini heparin and the boots and will give her loading dose of Coumadin again this evening.
+
+=== PAST MEDICAL HISTORY ===
++ PMH: PSA, PE on Coumadin, Mood Disorder, GAD, Somatoform Disorder, Facticitious Disorder, Opiate, Benzo and EtOH abuse, Borderlin PD, moderate aortic stenosis
+﻿
++ PSH: Rotator Cuff Repair c/b infection, Left Brachiocephalic Vein Stenosis s/p stent
+
+=== FAMILY HISTORY ===
+Per doctor note and updated with patient:
+son with bipolar (not on medications)
+daughter with bipolar (on meds) 
+son with depression
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist, incision site c/d/i, TTP on right aspect of neck, no surrounding erythema or swelling
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: soft, nondistended, nontender, no rebound or guarding
+
+=== LABS AND IMAGING ===
+___ 07:11AM BLOOD
+___ 11:15AM BLOOD
+___ 07:11AM BLOOD
+___ 11:15AM BLOOD
+___ 07:11AM BLOOD Calcium-7.9*
+
+Thyroid antibody test shows high levels of TPOAb.
+
+Ultrasound: The internal echo of the thyroid tissue is uneven and there are multiple hypoechoic areas.

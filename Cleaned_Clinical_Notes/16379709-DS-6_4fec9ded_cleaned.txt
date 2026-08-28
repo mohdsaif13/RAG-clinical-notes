@@ -1,0 +1,48 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+abnormal labs
+
+=== PATIENT HISTORY ===
+This is a 33 year male referred to ED by his endocrinology for abnormal labs. 
+
+The patient reports that 1 month ago he had a viral URI that resolved, however he feels like he never recovered his energy. He noticed DOE, particularly when walking to work, which he was able to do with difficulty prior. He is at baseline very athletic. He also noticed intermittent dizziness and lightheadedness with standing, intermittent cramping abdominal pain and a 20lbs unintentional weight loss over the past 2 months. He reports his appetite is still at baseline but has been limited by his abdominal pain. He endorses  nausea at the time of his URI. Given these symptoms he saw his PCP. His PCP ran series of lab notable for TSH 0.21, AlP 76, AST 48, K 5.3. He had a RAIU+S, which showed a homogenous gland with uptake at the upper limit of normal. He was then referred to endocrine for further evaluation.
+  
+He was seen in clinic the day of admission and was initally thought to have resolving thyroditis, and was sent to have several labs checked. Labs from clinic were notable for elevated TSH of 22, low T4 at 3.6 with normal T 3,hyponatermia to 121, hyperkalemia to 5.8, hyperphosphatemia to 5.6, low pm cortisol of 0.7. Given these finding he was recommended to come to the ED for eval for concern for adrenal insufficiency.
+
+=== FAMILY HISTORY ===
+Father and sister with Celiac
+
+=== PHYSICAL EXAM ===
+ADMISSION EXAM:
+Vitals - T 97.5 BP 97/50 P 70 RR 18 10% RA  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera. No proptosis or exopthalmos  
+Neck: neck supple, non tender, no thyromegally or nodules appreciated. No lymphadenopathy.  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: moving all extremities well, no cyanosis, clubbing or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no rashes
+
+=== LABS AND IMAGING ===
+ADMISSION LABS:
+
+BLOOD:
+___ 12:47PM BLOOD WBC-7.2 RBC-5.47 Hgb-14.9 Hct-45.0MCV-82 MCH-27.1 MCHC-33.0 RDW-12.1 Plt ___
+___ 11:05PM BLOOD Neuts-38.2* Lymphs-51.9* Monos-6.0 Eos-3.1 Baso-0.7
+___ 12:47PM BLOOD UreaN-25* Creat-1.1 Na-121* K-5.8* Cl-87* HCO3-23 AnGap-17
+___ 12:47PM BLOOD ALT-62* AST-48* AlkPhos-78 TotBili-0.7
+___ 12:47PM BLOOD GGT-9
+___ 12:47PM BLOOD CK-MB-11* MB Indx-3.2
+___ 12:47PM BLOOD Albumin-4.4 Calcium-10.4* Phos-5.6* Mg-1.9
+___ 11:05PM BLOOD Osmolal-260*
+___ 12:47PM BLOOD Prolact-19* TSH-22*
+___ 12:47PM BLOOD T4-3.6* T3-101 Free T4-0.64*
+___ 11:05PM BLOOD Cortsol-0.7*
+___ 12:47PM BLOOD 25VitD-14*
+
+
+cortisol does not increase even when ACTH is given because the adrenal glands are damaged
+
+IMAGING: ___ Thyroid scan with uptake 
+"IMPRESSION: 24 hour uptake of radioiodine at the upper limits of normal. If TSH is suppressed, this finding suggest sautonomy, such as with Graves disease."

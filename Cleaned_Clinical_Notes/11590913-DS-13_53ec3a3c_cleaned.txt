@@ -1,0 +1,52 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Shortness of Breath
+
+=== PATIENT HISTORY ===
+This is a healthy female with a history of fibroids who developed shortness of breath while walking. She had no precipitating features such as chest pain, cough, sore throat, fever. She noted no dyspnea at rest, but it was repeatedly exacerbated wtih exertion. She had no precipitating features of stasis such as long plane ride, surgery, or bed ridden state. She had no leg swelling. Her PCP checked Dimer without evidence of R heart strain.On further discussion, she denies frequent miscarraiges though she has never been pregnant save for a single abortion due to fibroids. No family history of blood clots or frequent miscarraiges. No recent trauma to her legs.In the ED, initial vitals: 98.1 18 98% RA.Labs/Studies notable for: Na 130 and K 5.2. She was started on heparin gtt and transferred tothe floor.On arrival to the floor, the patient has no chest pain, no SOB lying still, and otherwise feels her regualr self. She has no pleurisy, no fever.
+ROS:
+Please refer to HPI for pertinent positives and negatives. 10 point ROS is otherwise negative.
+
+=== PAST MEDICAL HISTORY ===
+MEDICAL & SURGICAL HISTORY:
+Hypertension
+
+=== FAMILY HISTORY ===
+No blood clots, frequent miscarraiges as far as she knows, no cancer in immediate family
+
+=== PHYSICAL EXAM ===
+Physical Exam:
+Vitals: 98.5 152/94 86 18 97%RA
+General: AAOx3, comfortable appearing, in NAD
+HEENT: NCAT, EOMI, PERRL. Sclera anicteric, conjunctiva pink. 
+MMM. OP clear.
+Neck: supple, no LAD, no JVP elevation
+Lungs: CTAB, no w/r/r
+CV: RRR, normal S1 and S2, no m/g/r
+Abdomen: NABS, soft, nondistended, nontender. No HSM.
+GU: no foley
+Ext: WWP. 2+ peripheral pulses. No edema.
+Neuro: Pupils equal round reactive
+﻿
+
+=== LABS AND IMAGING ===
+___ 04:00PM BLOOD WBC-7.4 RBC-5.20 Hgb-11.4* Hct-38.5 MCV-74* MCH-22.0* MCHC-29.8* RDW-17.8*
+___ 06:12AM BLOOD WBC-6.4 RBC-4.86 Hgb-10.8* Hct-35.3* MCV-73* MCH-22.2* MCHC-30.6* RDW-17.8*
+___ 04:00PM BLOOD Glucose-92 UreaN-8 Creat-0.7 Na-130* K-5.2* Cl-93* HCO3-23 AnGap-19
+___ 04:00PM BLOOD cTropnT-<0.01
+﻿
+IMAGING
+CTA
+The aorta and its major branch vessels are patent, with no evidence ofstenosis, occlusion, dissection, or aneurysmal formation. There is no evidenceof penetrating atherosclerotic ulcer or aortic arch atheroma present.
+ 
+The pulmonary arteries are well opacified to the subsegmental level. Filling defects within the pulmonary arterial system are noted in all segmental arteries with the exception of the left upper lobe artery, compatible with widespread bilateral pulmonary emboli. The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.
+ 
+There is no evidence of pericardial effusion.
+ 
+A 3 mm perifissural ground-glass nodule is incidentally noted in the rightmiddle/upper lobes following no CT followup is required. There is no pleuraleffusion. The airways are patent to the subsegmental level.
+ 
+There is no supraclavicular, axillary, mediastinal, or hilar lymphadenopathy.The thyroid gland appears unremarkable.
+ 
+Limited images of the upper abdomen are unremarkable.
+ 
+No lytic or blastic osseous lesion suspicious for malignancy is identified.
+﻿

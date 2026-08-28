@@ -1,0 +1,82 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+abdominal pain
+
+=== PATIENT HISTORY ===
+She is a woman with a history of obesity, anxiety/depression, GERD who was sent from her PCP's office for new diagnosis nausea/vomiting. She notes 2 weeks of polydipsia, polyuria, blurry vision, nausea/vomiting andepigastric abdominal pain. She also complains of 2 days of chest pain last week which spontaneously resolved over the weekend.  
+She found these symptoms manageable but presented to her PCP's office for vaginal erythema and itching. She admits to douching BID. Her PCP performed ___ vaginal exam demonstrating erythema and scaling consistent with candidal vaginitis. She was sent to the ED for evaluation of possible DM.  In the ED, initial VS were: 97.0 107 145/63 20 97%, urine demonstrated 1000 glucose, trace ketones. Glucose was initially679 and improved to 300 with insulin gtt. She was given 2L IVF. Initially was hyponatremic to 126 and improved to 132 with IVF and insulin.  
+ 
+REVIEW OF SYSTEMS:  
+(+) as above, also constipation  
+﻿
+
+=== PAST MEDICAL HISTORY ===
+anxiety/depression --PTSD  
+Seasonal allergies  
+GERD
+
+=== FAMILY HISTORY ===
+sister with breast cancer/DM, son with DMI, Mother with CAD
+
+=== PHYSICAL EXAM ===
+ADMISSION PHYSICAL EXAM
+GENERAL - well-appearing woman in NAD, comfortable, appropriate, talkative  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, dry-MM, OP clear 
+ 
+NECK - supple, no thyromegaly, no JVD, no carotid bruits  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, ttp in epigastrium, no masses or HSM, no rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait
+
+=== LABS AND IMAGING ===
+___ 08:56PM   GLUCOSE-332* NA+-132* K+-4.3 CL--94* TCO2-31*
+___ 06:49PM   PO2-45* PCO2-48* PH-7.40 TOTAL CO2-31* BASE XS-3 COMMENTS-GREEN TOP
+___ 06:15PM   GLUCOSE-499* UREA N-34* CREAT-1.4* SODIUM-127* POTASSIUM-4.9 CHLORIDE-86* TOTAL CO2-24 ANION GAP-22
+___ 06:15PM   ALT(SGPT)-50* AST(SGOT)-45* LD(LDH)-439* ALK PHOS-138* TOT BILI-0.7
+___ 06:15PM   LIPASE-55
+___ 06:15PM   ALBUMIN-4.2
+___ 04:09PM   GLUCOSE-GREATER TH LACTATE-2.5* NA+-126* K+-4.6 CL--86* TCO2-29
+___ 04:09PM   HGB-15.3 calcHCT-46
+___ 03:50PM   GLUCOSE-697* UREA N-40* CREAT-1.6* SODIUM-126* POTASSIUM-5.4* CHLORIDE-82* TOTAL CO2-27 ANION GAP-22
+___ 03:50PM   OSMOLAL-308
+___ 03:50PM   WBC-10.4 RBC-5.07 HGB-15.3 HCT-44.0 MCV-87 MCH-30.2 MCHC-34.7 RDW-12.1
+___ 03:50PM   NEUTS-73.0* MONOS-4.7 EOS-0.7 BASOS-0.5
+___ 03:50PM   PLT COUNT-316
+___ 03:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD
+___ 03:50PM URINE  RBC-1 WBC-4 BACTERIA-NONE YEAST-NONE EPI-1
+___ 03:50PM URINE  MUCOUS-RARE
+___ 03:50PM URINE  EOS-NEGATIVE  
+___ 06:35AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:45AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:45AM BLOOD %HbA1c-13.8* eAG-349*
+___ 07:45AM C-peptide-135*
+
+IMAGING/STUDIES:
+ECG: Sinus rhythm. Left atrial abnormality. Prior inferior wall myocardial infarction of indeterminate age with persistent ST segment elevation recorded also in the lateral precordium. Rule out myocardial infarction. Followup and clinical correlation are suggested. 
+  
+ECG: Sinus rhythm. Inferior myocardial infarction, age undetermined. There are mild J point and ST segment elevations in the inferior leads and lead V6 of uncertain significance. Since the previous tracing the rate is now slower. Otherwise, unchanged. 
+﻿
+CXR (AP Portable): Chest findings within normal limits as seen on single view AP chest examination.  Thus, no evidence of pneumonia. 
+  
+TTE:
+The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion
+
+C-PEPTIDE RELEASE TEST:
+C-P0     2.03ng/ml
+C-P30    5.60ng/ml
+C-P60    9.830ng/ml
+C-P120   13.10ng/ml
+C-P180   4.68ng/ml
+C-peptide release test hints the peak relate,did not fall back to fasting values at 180min.
+
+INSULIN RELEASE TEST:    
+Insulin     13.20mlU/L
+Insulin30   100.87mlU/L
+Insulin60   205.2mlU/L
+Insulin120  253.4mlU/L
+Insulin180  87.332mlU/L
+Insulin release test hints the peak relate,did not fall back to fasting values at 180min.

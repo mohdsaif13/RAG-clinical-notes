@@ -1,0 +1,44 @@
+=== ADMISSION/CHIEF COMPLAINT ===
+Episodes of slurred speech
+
+=== PATIENT HISTORY ===
+67 yo F with history of afib on coumadin. Her symptom consist of altered mental status, staring, upper lip twitching, occasional fluttering of eyelids, and is able to engage in routine activities such as making coffee and doing chores but is perseverative and inattentive during conversations and has no recollection of events afterwards. Symptoms are typically prolonged with confusion lasting for hrs at a time with gradual improvement over the next 1 hrs.  
+She has had seizures since childhood and had been well-controlled on depakote monotherapy, with episodes 9 times per year.  However due to a longstanding tremor, she was switched to keppra with frequency increasing to every two months. She had mild improvement with a switch from generic to brand keppra.  She was admitted to the epilepsy service in early with her typical events and was found to be in nonconvulsiveabsence status.  She was started on zonisamide but becamelethargic at 200 mg daily so was decreased to 100 mg daily andslowly titrated up back to current dose of 200 mg daily. (lethargy was also in context of ativan taper).  She had been on keppra 1250 mg bid which was slowly tapered off over the past several weeks.  She has also tried dilantin in the past.  Per prior notes she has a remote history of GTCs and myoclonus but none recently.
+
+She lives alone and typically calls her son every morning at 08 am.  This AM when she did not call, her son was concerned and tried calling her but she did not pick up.  Her arrived and noted her to be inattentive and perseverative.  Her son arrived and thought her presentation was consistent with her typical seizures.  Per his neurologist's instructions he gave her lorazepam 0.5 mg x2 and possibly with some transient improvement in her symptoms, but symptoms persisted, so he brought her to the ED for further evaluation.
+
+He reports she has been compliant with his medications and does not believe she has had any recent fevers, chills, cough, SOB, chest pain, palpitations, nausea, vomiting, or diarrhea.
+
+=== PAST MEDICAL HISTORY ===
++spine fx
++pelvic fx
++afib on coumadin
++osteoporosis
++pneumonia
+
+=== FAMILY HISTORY ===
+mother with stroke. Father with MI, sister with lupus.
+
+=== PHYSICAL EXAM ===
+VS: T 98 P 64 BP 139/64 RR 18 96% RA
+Gen: lying in bed, NAD
+CV: RRR, no murmurs
+Pulm: CTA anteriorly
+Abd: soft, nt, nd
+Extr: 1+ edema at anklesNeuro;
+MS: Awake, oriented to person and her age.  Can tell me her son's name but not his birthday.  Very perseverative limiting further testing.  Able to do DOY forwards but not any days backwards. Follows appendicular commands and occasional two-step simple commands.  Perseverates when attempting to name objects or repeatsentences.  Registers, recalls at 1 and 3 minutes.  
+CN: PERRL 4mm-->3mm, EOMI, beats of endgaze nystagmus b/l. Appears to blink to threat in all visual fields.  Face symmetric, palate symmetric, tongue midline.
+Motor: normal bulk and tone.  No pronator drift, tremor, or asterixis.  Uncooperative with formal strength testing but maintains against gravity and symmetric at R and L delt, bicep, tricep, FE, FF, IP, TA, and gastrocs.
+Sensory: intact to light touch throughout.
+Reflexes: 1+ at biceps and brachioradialis, 0 at patellar and achilles b/l.  Toes downgoing.
+Coordination: no dysmetria on FNF b/l.
+Gait: deferred
+
+=== LABS AND IMAGING ===
+Admission Labs: 
+CBC Normal 
+BMP/Ca/Mg/Phos: normal 
+UA: Yellow, Hazy, 1.106, 4 RBC, 36 RBC, few bacteria
+
+EEG:
+EEG recordings often identify typical epileptiform discharges which are characterized by their distinctive spike patterns.
