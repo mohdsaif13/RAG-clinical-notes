@@ -47,11 +47,11 @@ print(f"Query: {query}")
 try:
     results = retriever.invoke(query)
 
-    print(f"\nFound {len(results)} relevant document(s):\n")
+    print(f"Found {len(results)} relevant document(s).")
     for i, result in enumerate(results):
         source = result.metadata.get("source", "Unknown Source")
         print(f"--- Result {i + 1} (Source: {source}) ---")
-        print(result.page_content[:200] + "...\n")
+        preview = " ".join(result.page_content.split())[:200]\n        print(f"{preview}...\\n")
 
 except Exception as e:
     print(f"Error during retrieval: {e}")
