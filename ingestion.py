@@ -13,7 +13,7 @@ from pinecone import Pinecone, ServerlessSpec
 
 load_dotenv()
 
-DATA_PATH = Path("./Cleaned_Clinical_Notes")
+DATA_PATH = Path(__file__).resolve().parent / "Cleaned_Clinical_Notes"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIMENSION = 384
 
