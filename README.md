@@ -1,149 +1,214 @@
-# 🏥 Medical Diagnostic RAG Assistant
+# Clinical Notes RAG Assistant
 
-This project implements a Retrieval-Augmented Generation (RAG) system to perform diagnostic reasoning over the MIMIC-IV-Ext Direct clinical notes dataset. The system uses a Pinecone Vector Database for efficient context retrieval and the Gemini 2.5 Flash LLM for generating accurate, context-grounded answers to clinical queries.
+A hands-on Retrieval-Augmented Generation (RAG) project that I built to experiment with retrieving relevant clinical-note context before asking an LLM to answer a question.
 
----
+The project takes structured JSON clinical notes, cleans the useful fields, turns the cleaned notes into embeddings, stores those embeddings in Pinecone, and uses a Streamlit interface to retrieve context and generate a grounded response with Gemini.
 
-## 🚀 Key Technologies
+> **Important:** This project is for experimentation and demonstration. It is **not a medical diagnostic tool** and should not be used for clinical decisions.
 
-- **LLM:** Google Gemini 2.5 Flash (via `langchain-google-genai`)
-- **Vector Database:** Pinecone
-- **Embeddings:** Hugging Face `all-MiniLM-L6-v2` (for speed and cost-efficiency)
-- **Framework:** LangChain
-- **Frontend:** Streamlit
-- **Data:** MIMIC-IV-Ext Direct (JSON format clinical notes)
+## What I built
 
----
+The pipeline is split into small steps so each part can be inspected independently:
 
-## 📦 Project Structure
+1. **Clean the source notes** — `clean_files.py`
+2. **Create chunks and embeddings** — `ingestion.py`
+3. **Test similarity retrieval** — `retrieval.py`
+4. **Run the interactive RAG app** — `chatbot_rag.py`
 
+The main idea is simple: instead of sending a question directly to an LLM, the application first searches the vector store for relevant pieces of the clinical notes and then gives those pieces to the model as context.
+
+## Tech stack
+
+- **Python**
+- **LangChain**
+- **Hugging Face / Sentence Transformers**
+- **Pinecone**
+- **Google Gemini 2.5 Flash**
+- **Streamlit**
+- **python-dotenv**
+- **MIMIC-IV-Ext Direct clinical notes**
+
+## Project structure
+
+```text
+RAG-clinical-notes/
+├── dataset/                  # Local clinical-note JSON files
+├── Cleaned_Clinical_Notes/   # Generated cleaned text files
+├── clean_files.py            # JSON cleaning and preprocessing
+├── ingestion.py              # Chunking, embeddings and Pinecone indexing
+├── retrieval.py              # Simple retrieval test
+├── chatbot_rag.py            # Streamlit RAG application
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
-.
-├── Cleaned_Clinical_Notes/
-├── dataset/                    # Raw MIMIC-IV JSON files
-├── .env                        # Your API keys
-├── README.md                   # This file
-├── requirements.txt            # Project dependencies
-├── clean_files.py              # Script for dataset preprocessing
-├── ingestion.py                # Script for RAG pipeline (Indexing)
-├── retrieval.py
-└── chatbot_rag.py              # Streamlit application (Frontend/Inference)
-```
 
----
+## How the pipeline works
 
-## ⚙️ Setup and Installation
+### 1. Cleaning
 
-### 1. Prerequisites
+`clean_files.py` walks through the dataset recursively and keeps the clinical context fields used by the application:
+
+- Admission / chief complaint
+- Patient history
+- Past medical history
+- Family history
+- Physical examination
+- Labs and imaging
+
+Empty values are skipped. Cleaned records are written to `Cleaned_Clinical_Notes/`.
+
+### 2. Chunking and indexing
+
+`ingestion.py` loads the cleaned text files and splits them into overlapping chunks:
+
+- Chunk size: **800 characters**
+- Overlap: **400 characters**
+- Embedding model: **`sentence-transformers/all-MiniLM-L6-v2`**
+- Embedding size: **384**
+- Vector database: **Pinecone**
+- Similarity metric: **cosine**
+
+Chunk IDs are derived from the source, chunk position and content hash so the same input can be indexed consistently.
+
+### 3. Retrieval
+
+`retrieval.py` is a small command-line check for the vector-search layer. It uses similarity-score filtering and returns the most relevant chunks for a test question.
+
+### 4. Generation
+
+`chatbot_rag.py` provides the Streamlit interface. For each question, it:
+
+1. Searches Pinecone for relevant chunks.
+2. Builds a context block from the retrieved notes.
+3. Sends the context and question to Gemini.
+4. Instructs the model to stay within the supplied clinical context.
+5. Shows the retrieved source snippets in the UI.
+
+## Setup
+
+### Requirements
 
 - Python 3.9+
-- A free account on [Pinecone](https://www.pinecone.io/)
-- A Google API Key for Gemini (via [Google AI Studio](https://makersuite.google.com/app/apikey))
+- Pinecone account/API key
+- Google Gemini API key
 
-### 2. Clone Repository and Environment Setup
+### 1. Clone the repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/mohdsaif13/RAG-clinical-notes
-
-# Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+git clone https://github.com/mohdsaif13/RAG-clinical-notes.git
+cd RAG-clinical-notes
 ```
 
-### 3. Install Dependencies
+### 2. Create a virtual environment
 
-Install all required libraries specified in `requirements.txt`:
+Windows:
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+macOS / Linux:
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Configure API Keys
+### 4. Add environment variables
 
-Create a file named `.env` in the root directory and add your keys:
+Create a local `.env` file:
 
 ```env
-# Replace with your actual keys
-PINECONE_API_KEY=YOUR_PINECONE_API_KEY
-GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+PINECONE_API_KEY=your_pinecone_api_key
+GOOGLE_API_KEY=your_gemini_api_key
 PINECONE_INDEX_NAME=medical-rag-hf
-
-# Optional. Leave blank to use Pinecone's default namespace.
 PINECONE_NAMESPACE=
-
-# Optional. Defaults to true so re-ingestion does not leave old vectors behind.
 PINECONE_RESET_NAMESPACE=true
 ```
 
----
+Optional Pinecone deployment settings:
 
-## 🛠️ Execution Steps (Building the RAG Pipeline)
+```env
+PINECONE_CLOUD=aws
+PINECONE_REGION=us-east-1
+```
 
-The system must be built in three sequential stages: **Cleaning**, **Ingestion**, and **Inference**.
+Do **not** commit `.env` or API keys.
 
-### Step 1: Data Cleaning and Preprocessing
+## Run it
 
-The raw MIMIC-IV notes are nested JSON files containing input fields (`input1` through `input6`). Directly indexing these files is inefficient and causes data leakage (since the diagnosis is often in the main JSON key).
+Run these commands from the repository root.
 
-The `clean_files.py` script performs the essential preprocessing:
-
-1. **Extraction:** Iterates through all nested JSON files in the `./dataset` directory.
-2. **Structuring:** Extracts only the clinical context fields (`input1` through `input6` - History, Vitals, Labs, etc.) and formats them cleanly with headers.
-3. **Sanitization:** Ignores empty or "None" values.
-4. **Output:** Clears previous generated cleaned files, then saves each patient's combined record into a single `.txt` file in the `./Cleaned_Clinical_Notes` directory. Output filenames include a short hash of the source path, which prevents duplicate case IDs from overwriting each other without exposing diagnosis folder names.
-
-**Run the cleaning script:**
+### Clean the notes
 
 ```bash
 python clean_files.py
 ```
 
-### Step 2: Indexing and Embedding (Pinecone Ingestion)
-
-The `ingestion.py` script takes the cleaned text files and converts them into a searchable vector database.
-
-1. **Chunking:** Documents are split into smaller chunks (800 chars with 400 overlap) for better retrieval.
-2. **Embedding:** The free and efficient `all-MiniLM-L6-v2` model (384 dimensions) generates numerical vectors.
-3. **Uploading:** Existing vectors in the configured namespace are cleared by default, then the current chunks are uploaded to your specified Pinecone index.
-
-**Run the ingestion script:**
+### Build the vector index
 
 ```bash
 python ingestion.py
 ```
 
-### Step 3: Run the Streamlit Application (Inference)
+### Test retrieval
 
-The `chatbot_rag.py` script launches the interactive chatbot. It connects to the final Pinecone index, retrieves context based on the user's query, and uses the Gemini LLM to generate the final, grounded response.
+```bash
+python retrieval.py
+```
 
-**Launch the application:**
+### Start the application
 
 ```bash
 streamlit run chatbot_rag.py
 ```
 
-The application will automatically open in your web browser (usually at `http://localhost:8501`).
+The Streamlit app normally starts at `http://localhost:8501`.
 
----
+## Design choices
 
-## 📝 Notes
+A few choices in this project are deliberate:
 
-- Ensure all API keys are properly configured before running the scripts
-- The cleaning step must be completed before ingestion
-- Make sure your Pinecone index name matches the one specified in your `.env` file
+- **Local embedding model:** `all-MiniLM-L6-v2` keeps the embedding step simple and relatively lightweight.
+- **Overlapping chunks:** 800/400 helps retain context when a clinical detail sits near a chunk boundary.
+- **Similarity thresholding:** the retrieval layer can avoid returning very weak matches.
+- **Context-only generation:** the prompt tells Gemini to answer from retrieved notes and say when the information is not available.
+- **Environment-based configuration:** API keys and deployment settings stay outside the source code.
 
----
+## Limitations
 
-## 🔒 Security Considerations
+This is a portfolio/learning implementation, not a production clinical system.
 
-- Never commit your `.env` file to version control
-- Add `.env` to your `.gitignore` file
-- Keep your API keys confidential
+- Retrieval quality depends on the source notes, chunking strategy and embedding model.
+- A similarity match does not mean the retrieved information is clinically correct.
+- The LLM can still produce an incorrect or incomplete response.
+- There is no clinical validation workflow.
+- The application should not be used for diagnosis, treatment or patient-care decisions.
 
----
+## Data and responsible use
 
+This repository is intended for technical experimentation with clinical-note retrieval. Follow the license, access requirements and usage conditions of the underlying dataset. Avoid adding private patient information, API keys or other sensitive material to the repository.
 
+## What I learned from the project
 
+This project helped me work through the full RAG flow rather than only calling an LLM API:
 
+**data preparation → chunking → embeddings → vector search → context assembly → LLM generation → source display**
 
+That end-to-end workflow is the main reason I keep this project in my portfolio.
+
+## Author
+
+**Md Saif Ali**
+
+Data Science | Machine Learning | Generative AI | RAG
+
+GitHub: https://github.com/mohdsaif13
